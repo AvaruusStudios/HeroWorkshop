@@ -1,5 +1,5 @@
 # HeroWorkshop
-![Github](https://img.shields.io/github/license/AvaruusStudios/HeroWorkshop.svg)
+![GitHub](https://img.shields.io/github/license/AvaruusStudios/HeroWorkshop.svg?style=plastic)
 
 Hero Workshop is a Pen+Paper Role-Playing Game Hero Generator which can then be used to the play via a chat application.
 
