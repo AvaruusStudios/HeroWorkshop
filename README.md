@@ -46,9 +46,9 @@ To submit and issue with the application:
 
 ### Authors
 Troy Pilewski ([@troypilewski](https://github.com/troypilewski))  
-Sumant Khapre ([@sumant2000](https://github.com/sumant2000))  
-Mindaugas Vasiliauskas ([@mivasiliauskas](https://github.com/mivasiliauskas))  
-Saurav Bhuju ([@sbhuju61](https://github.com/sbhuju61))  
+<!-- Sumant Khapre ([@sumant2000](https://github.com/sumant2000))  -->
+<!-- Mindaugas Vasiliauskas ([@mivasiliauskas](https://github.com/mivasiliauskas))  -->
+<!-- Saurav Bhuju ([@sbhuju61](https://github.com/sbhuju61))  -->
 
 ### Acknowledgements
 
