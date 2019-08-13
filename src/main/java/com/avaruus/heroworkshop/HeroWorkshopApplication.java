@@ -31,10 +31,11 @@ public class HeroWorkshopApplication extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        double width = 600.0;
-        double height = 400.0;
+        double width = 800.0;
+        double height = 600.0;
 
         primaryStage.setScene(new Scene(rootNode, width, height));
+        primaryStage.setTitle("Hero Workshop");
         primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("/icons/d20.png")));
         primaryStage.centerOnScreen();
         primaryStage.show();
