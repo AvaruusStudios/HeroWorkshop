@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.input.KeyCodeCombination?>
+
+<MenuBar xmlns="http://javafx.com/javafx"
+         xmlns:fx="http://javafx.com/fxml"
+         fx:id="menuBar" prefWidth="${menuBar.parent.width}"
+         fx:controller="com.avaruus.heroworkshop.ui.controllers.MenuBarController">
+    <Menu text="File">
+        <MenuItem text="New">
+            <accelerator>
+                <KeyCodeCombination code="N" control="UP" alt="UP" meta="UP" shift="UP" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+        <MenuItem text="Open">
+            <accelerator>
+                <KeyCodeCombination code="O" control="UP" alt="UP" meta="UP" shift="UP" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+        <SeparatorMenuItem/>
+        <MenuItem text="Save">
+            <accelerator>
+                <KeyCodeCombination code="S" control="UP" alt="UP" meta="UP" shift="UP" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+        <MenuItem text="Save As...">
+            <accelerator>
+                <KeyCodeCombination code="S" control="UP" alt="UP" meta="UP" shift="DOWN" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+        <SeparatorMenuItem/>
+        <MenuItem text="Close">
+            <accelerator>
+                <KeyCodeCombination code="W" control="UP" alt="UP" meta="UP" shift="UP" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+        <MenuItem text="Close All">
+            <accelerator>
+                <KeyCodeCombination code="W" control="UP" alt="UP" meta="UP" shift="DOWN" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+        <SeparatorMenuItem/>
+        <MenuItem fx:id="menuItemExit" text="Exit" onAction="#onMenuItemExitAction">
+            <accelerator>
+                <KeyCodeCombination code="X" control="UP" alt="UP" meta="UP" shift="UP" shortcut="DOWN"/>
+            </accelerator>
+        </MenuItem>
+    </Menu>
+    <Menu text="Edit">
+
+    </Menu>
+    <Menu text="Sources">
+        <MenuItem text="Select Source Books"/>
+    </Menu>
+    <Menu text="Tools">
+        <MenuItem text="Preferences"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Open Game Master (GM) Workshop"/>
+    </Menu>
+    <Menu text="Help">
+        <MenuItem text="Documentation"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Display License"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="About"/>
+    </Menu>
+</MenuBar>

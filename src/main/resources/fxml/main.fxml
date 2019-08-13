@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.avaruus.heroworkshop.HeroWorkshopApplication">
+    <VBox fx:id="mainContainer" prefWidth="${mainContainer.parent.width}" prefHeight="${mainContainer.parent.height}">
+        <fx:include source="/fxml/menubar.fxml"/>
+        <TabPane fx:id="mainTabPane" prefWidth="${mainTabPane.parent.width}" prefHeight="${mainTabPane.parent.height}">
+            <fx:include source="/fxml/tabs/summary.fxml"/>
+            <fx:include source="/fxml/tabs/description.fxml"/>
+            <fx:include source="/fxml/tabs/species.fxml"/>
+            <fx:include source="/fxml/tabs/class.fxml"/>
+            <fx:include source="/fxml/tabs/skills.fxml"/>
+            <fx:include source="/fxml/tabs/feats.fxml"/>
+            <fx:include source="/fxml/tabs/equipment.fxml"/>
+        </TabPane>
+    </VBox>
+</AnchorPane>
