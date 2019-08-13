@@ -11,7 +11,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
-public class HeroWorkshopApplication  extends Application {
+public class HeroWorkshopApplication extends Application {
     private ConfigurableApplicationContext context;
     private Parent rootNode;
 
