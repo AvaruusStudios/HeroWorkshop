@@ -4,44 +4,12 @@
 <?import javafx.scene.control.TabPane?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" tabClosingPolicy="UNAVAILABLE" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
-        <fx:include source="/fxml/tabs/summary.fxml"/>
-        <fx:include source="/fxml/tabs/description.fxml"/>
-        <fx:include source="/fxml/tabs/species.fxml"/>
-        <fx:include source="/fxml/tabs/class.fxml"/>
-        <fx:include source="/fxml/tabs/skills.fxml"/>
-        <fx:include source="/fxml/tabs/feats.fxml"/>
-        <fx:include source="/fxml/tabs/equipment.fxml"/>
-<!--  <tabs>
-    <Tab text="Summary">
-      <content>
-        <AnchorPane />
-      </content>
-    </Tab>
-    <Tab text="Species">
-      <content>
-        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-      </content>
-    </Tab>
-      <Tab text="Class">
-        <content>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-        </content>
-      </Tab>
-      <Tab text="Skills">
-        <content>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-        </content>
-      </Tab>
-      <Tab text="Feats">
-        <content>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-        </content>
-      </Tab>
-      <Tab text="Equipment">
-        <content>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-        </content>
-      </Tab>
-  </tabs>-->
+<TabPane fx:id="mainTabPane" prefWidth="${mainTabPane.parent.width}" prefHeight="${mainTabPane.parent.height}" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+    <fx:include source="/fxml/tabs/summary.fxml"/>
+    <fx:include source="/fxml/tabs/description.fxml"/>
+    <fx:include source="/fxml/tabs/species.fxml"/>
+    <fx:include source="/fxml/tabs/class.fxml"/>
+    <fx:include source="/fxml/tabs/skills.fxml"/>
+    <fx:include source="/fxml/tabs/feats.fxml"/>
+    <fx:include source="/fxml/tabs/equipment.fxml"/>
 </TabPane>
