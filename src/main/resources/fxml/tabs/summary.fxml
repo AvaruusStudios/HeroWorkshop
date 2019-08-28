@@ -134,7 +134,7 @@
                                                                 <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
                                                             </padding>
                                                             <children>
-                                                                <TableView fx:id="tblAbilities" prefHeight="250.0">
+                                                                <TableView fx:id="tblAbilities" prefHeight="170.0">
                                                                     <columns>
                                                                         <TableColumn fx:id="colAbilityName" editable="false" prefWidth="150.0" resizable="false" sortable="false" text="Ability" />
                                                                         <TableColumn fx:id="colAbilityScore" editable="false" prefWidth="75.0" resizable="false" sortable="false" text="Score" />
