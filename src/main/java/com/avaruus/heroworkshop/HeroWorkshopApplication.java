@@ -39,7 +39,7 @@ public class HeroWorkshopApplication extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         double width = 1196.0;
-        double height = 587.0;
+        double height = 597.0;
 
         // create scene and set it on the JavaFX primary stage
         primaryStage.setScene(new Scene(rootNode, width, height));

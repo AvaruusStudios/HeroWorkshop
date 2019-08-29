@@ -7,6 +7,7 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
 import com.avaruus.hero.AbilityModel;
+import javafx.collections.ListChangeListener;
 
 /*
     SummaryTab is the code-behind file for src/main/resources/fxml/tabs/summary.fxml
@@ -53,6 +54,17 @@ public class SummaryTab {
         
         // add data to table
         tblAbilities.setItems(AbilitiesModel);
+        
+        tblAbilities.getColumns().addListener(new ListChangeListener() {
+            @Override
+            public void onChanged(Change change) {
+                change.next();
+                if(change.wasReplaced()) {
+                    tblAbilities.getColumns().clear();
+                    tblAbilities.getColumns().addAll(colAbilityName, colAbilityScore, colAbilityModifier, colAbilityAdjustableScore, colAbilitySpeciesAdjustment, colAbilityMiscAdjustment);
+                }
+            }
+        });
     }
     
     private ObservableList<AbilityModel> AbilitiesModel = FXCollections.observableArrayList(
