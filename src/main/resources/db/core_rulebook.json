@@ -1,5 +1,6 @@
 {
-    "species": [{
+    "species": [
+        {
             "name": "Human",
             "decription": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politcally diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughtout all eras of play.",
             "personality": "Human personality runs the gamut of possiblities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
@@ -221,7 +222,8 @@
             }]
         }
     ],
-    "class": [{
+    "class": [
+        {
             "name": "Fringer",
             "description": "",
             "exploits": "",
@@ -429,7 +431,8 @@
             "reputationbonus": ""
         }
     ],
-    "skills": [{
+    "skills": [
+        {
             "name": "",
             "key_ability": "",
             "use_untrained": "",
@@ -1513,7 +1516,8 @@
             "action_type": ""
         }
     ],
-    "feats": [{
+    "feats": [
+        {
             "name": "Acrobatic",
             "description": "You are very agile.",
             "prerequisite": [{
@@ -2556,7 +2560,8 @@
             "special": ""
         }
     ],
-    "equipment": [{
+    "equipment": [
+        {
         "name": "",
         "type": [{
             "commodity": true,
