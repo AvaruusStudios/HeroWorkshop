@@ -14,7 +14,7 @@ package com.avaruus.hero;
 import javafx.beans.property.*;
 
 public class AbilityModel {
-    private SimpleStringProperty AbilityName;
+    private final SimpleStringProperty AbilityName;
     private SimpleIntegerProperty AbilityScore;
     private SimpleIntegerProperty AbilityModifier;
     private SimpleIntegerProperty AbilityAdjustableScore;
@@ -34,9 +34,9 @@ public class AbilityModel {
         return AbilityName.get();
     }
     
-    public void setAbilityName(String AbilityName) {
-        this.AbilityName = new SimpleStringProperty(AbilityName);
-    }
+//    public void setAbilityName(String AbilityName) {
+//        this.AbilityName = new SimpleStringProperty(AbilityName);
+//    }
     
     public int getAbilityScore() {
         return AbilityScore.get();
