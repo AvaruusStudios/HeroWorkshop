@@ -1,5 +1,6 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
+import com.avaruus.db.core.SpeciesModel;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -7,6 +8,8 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
 import com.avaruus.hero.AbilityModel;
+import java.io.*;
+import com.fasterxml.jackson.databind.ObjectMapper.*;
 import javafx.collections.ListChangeListener;
 
 /*
@@ -18,6 +21,7 @@ public class SummaryTab {
 //    @FXML private Label summaryLabel;
     @FXML private ComboBox cmbGender;
     @FXML private ComboBox cmbDominantHand;
+    @FXML private ComboBox cmbSpecies;
     @FXML private TableView<AbilityModel> tblAbilities;
     @FXML private TableColumn<AbilityModel, String> colAbilityName;
     @FXML private TableColumn<AbilityModel, Integer> colAbilityScore;
@@ -65,6 +69,10 @@ public class SummaryTab {
                 }
             }
         });
+        
+        // SpeciesModel species = new objectMapper.readValue(new File(getClass().getResource("revised_core_rulebook.json").getFile()), SpeciesModel.class);
+        
+        // cmbSpecies.setItems(FXCollections.observableArrayList(species));
     }
     
     private ObservableList<AbilityModel> AbilitiesModel = FXCollections.observableArrayList(
@@ -74,7 +82,5 @@ public class SummaryTab {
         new AbilityModel("Intelligence", 0, 0, 0, 0, 0),
         new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
-    );
-    
-    
+    );    
 }

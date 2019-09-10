@@ -1,7 +1,7 @@
 {
     "species": [
         {
-            "Human": {
+            "human": {
                 "name": "Human",
                 "description": "",
                 "personality": "",
@@ -11,30 +11,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -48,7 +48,7 @@
                     }
                 ]
             },
-            "Bothan": {
+            "bothan": {
                 "name": "Bothan",
                 "description": "",
                 "personality": "",
@@ -58,30 +58,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -95,7 +95,7 @@
                     }
                 ]
             },
-            "Cerean": {
+            "cerean": {
                 "name": "Cerean",
                 "description": "",
                 "personality": "",
@@ -105,30 +105,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -142,7 +142,7 @@
                     }
                 ]
             },
-            "Duros": {
+            "duros": {
                 "name": "Duros",
                 "description": "",
                 "personality": "",
@@ -152,30 +152,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -189,7 +189,7 @@
                     }
                 ]
             },
-            "Ewok": {
+            "ewok": {
                 "name": "Ewok",
                 "description": "",
                 "personality": "",
@@ -199,30 +199,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -236,7 +236,7 @@
                     }
                 ]
             },
-            "Gamorrean": {
+            "gamorrean": {
                 "name": "Gamorrean",
                 "description": "",
                 "personality": "",
@@ -246,30 +246,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -283,7 +283,7 @@
                     }
                 ]
             },
-            "Gungan": {
+            "gungan": {
                 "name": "Gungan",
                 "description": "",
                 "personality": "",
@@ -293,30 +293,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -330,7 +330,7 @@
                     }
                 ]
             },
-            "Ithorian": {
+            "ithorian": {
                 "name": "Ithorian",
                 "description": "",
                 "personality": "",
@@ -340,30 +340,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -377,7 +377,7 @@
                     }
                 ]
             },
-            "Kel Dor": {
+            "kel_dor": {
                 "name": "Kel Dor",
                 "description": "",
                 "personality": "",
@@ -387,30 +387,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -424,7 +424,7 @@
                     }
                 ]
             },
-            "Mon Calamari": {
+            "mon_calamari": {
                 "name": "Mon Calamari",
                 "description": "",
                 "personality": "",
@@ -434,30 +434,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -471,7 +471,7 @@
                     }
                 ]
             },
-            "Quarren": {
+            "quarren": {
                 "name": "Quarren",
                 "description": "",
                 "personality": "",
@@ -481,30 +481,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -518,7 +518,7 @@
                     }
                 ]
             },
-            "Rodian": {
+            "rodian": {
                 "name": "Rodian",
                 "description": "",
                 "personality": "",
@@ -528,30 +528,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -565,7 +565,7 @@
                     }
                 ]
             },
-            "Sullustan": {
+            "sullustan": {
                 "name": "Sullustan",
                 "description": "",
                 "personality": "",
@@ -575,30 +575,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -612,7 +612,7 @@
                     }
                 ]
             },
-            "Trandoshan": {
+            "trandoshan": {
                 "name": "Trandoshan",
                 "description": "",
                 "personality": "",
@@ -622,30 +622,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -659,7 +659,7 @@
                     }
                 ]
             },
-            "Twi'lek": {
+            "twi'lek": {
                 "name": "Twi'lek",
                 "description": "",
                 "personality": "",
@@ -669,30 +669,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -706,7 +706,7 @@
                     }
                 ]
             },
-            "Wookiee": {
+            "wookiee": {
                 "name": "Wookiee",
                 "description": "",
                 "personality": "",
@@ -716,30 +716,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -753,7 +753,7 @@
                     }
                 ]
             },
-            "Zabrak": {
+            "zabrak": {
                 "name": "Zabrak",
                 "description": "",
                 "personality": "",
@@ -763,30 +763,30 @@
                 "background": "",
                 "known_languages": [
                     {
-                        "Basic": true,
-                        "Bothese": false,
-                        "Cerean": false,
-                        "Dosh": false,
-                        "Dug": false,
-                        "Durese": false,
-                        "Ewokese": false,
-                        "Gamorrean": false,
-                        "Geonosian": false,
-                        "Gungan": false,
-                        "Huttese": false,
-                        "Ithorian": false,
-                        "Jawa Trade Language": false,
-                        "Kaminoan": false,
-                        "Kel Dor": false,
-                        "Mon Calamarian": false,
-                        "Neimoidian": false,
-                        "Quarrenese": false,
-                        "Rodese": false,
-                        "Ryl": false,
-                        "Sith": false,
-                        "Sullustese": false,
-                        "Yuuzhan Vong": false,
-                        "Zabrak": false
+                        "basic": true,
+                        "bothese": false,
+                        "cerean": false,
+                        "dosh": false,
+                        "dug": false,
+                        "durese": false,
+                        "ewokese": false,
+                        "gamorrean": false,
+                        "geonosian": false,
+                        "gungan": false,
+                        "huttese": false,
+                        "ithorian": false,
+                        "jawa_trade_language": false,
+                        "kaminoan": false,
+                        "kel_dor": false,
+                        "mon_calamarian": false,
+                        "neimoidian": false,
+                        "quarrenese": false,
+                        "rodese": false,
+                        "ryl": false,
+                        "sith": false,
+                        "sullustese": false,
+                        "yuuzhan_vong": false,
+                        "zabrak": false
                     }
                 ],
                 "abilities": [
@@ -804,7 +804,7 @@
     ],
     "classes": [
         {
-            "Fringer": {
+            "fringer": {
                 "name": "Fringer",
                 "description": "",
                 "exploits": "",
@@ -817,7 +817,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Noble": {
+            "noble": {
                 "name": "Noble",
                 "description": "",
                 "exploits": "",
@@ -830,7 +830,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Scoundrel": {
+            "scoundrel": {
                 "name": "Scoundrel",
                 "description": "",
                 "exploits": "",
@@ -843,7 +843,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Scout": {
+            "scout": {
                 "name": "Scout",
                 "description": "",
                 "exploits": "",
@@ -856,7 +856,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Soldier": {
+            "soldier": {
                 "name": "Soldier",
                 "description": "",
                 "exploits": "",
@@ -869,7 +869,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Tech Specialist": {
+            "tech_specialist": {
                 "name": "Tech Specialist",
                 "description": "",
                 "exploits": "",
@@ -882,7 +882,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Force Adept": {
+            "force_adept": {
                 "name": "Force Adept",
                 "description": "",
                 "exploits": "",
@@ -895,7 +895,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Jedi Counselor": {
+            "jedi_counselor": {
                 "name": "Jedi Counselor",
                 "description": "",
                 "exploits": "",
@@ -908,7 +908,7 @@
                 "defense_bonus": 0,
                 "reputation_bonus": 0
             },
-            "Jedi Guardian": {
+            "jedi_guardian": {
                 "name": "Jedi Guardian",
                 "description": "",
                 "exploits": "",
@@ -920,6 +920,2845 @@
                 "will_save": 0,
                 "defense_bonus": 0,
                 "reputation_bonus": 0
+            }
+        }
+    ],
+    "skills": [
+        {
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "feats": [
+        {
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
+            },
+            "feat": {
+                "name": "",
+                "description": "",
+                "prerequiste": [
+                    {
+                        "": ""
+                    }
+                ],
+                "benefit": "",
+                "normal": "",
+                "special": "",
+                "learned_multiple_times": true,
+                "effects_stack": true
             }
         }
     ]
