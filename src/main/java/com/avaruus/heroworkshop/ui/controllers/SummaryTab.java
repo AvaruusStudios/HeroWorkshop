@@ -8,8 +8,8 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
 import com.avaruus.hero.AbilityModel;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.*;
-import com.fasterxml.jackson.databind.ObjectMapper.*;
 import javafx.collections.ListChangeListener;
 
 /*
@@ -18,7 +18,7 @@ import javafx.collections.ListChangeListener;
 @Controller
 public class SummaryTab {
     // autowire a reference to the label in the Summary tab by its fx:id
-//    @FXML private Label summaryLabel;
+    // @FXML private Label summaryLabel;
     @FXML private ComboBox cmbGender;
     @FXML private ComboBox cmbDominantHand;
     @FXML private ComboBox cmbSpecies;
@@ -70,9 +70,15 @@ public class SummaryTab {
             }
         });
         
-        // SpeciesModel species = new objectMapper.readValue(new File(getClass().getResource("revised_core_rulebook.json").getFile()), SpeciesModel.class);
+        ObjectMapper objectMapper = new ObjectMapper();
         
-        // cmbSpecies.setItems(FXCollections.observableArrayList(species));
+        try {
+            SpeciesModel SpeciesModel = objectMapper.readValue(new File(getClass().getResource("revised_core_rulebook.json").getFile()), SpeciesModel.class);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        
+        cmbSpecies.setItems(FXCollections.observableArrayList(SpeciesModel));
     }
     
     private ObservableList<AbilityModel> AbilitiesModel = FXCollections.observableArrayList(
@@ -82,5 +88,7 @@ public class SummaryTab {
         new AbilityModel("Intelligence", 0, 0, 0, 0, 0),
         new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
-    );    
+    ); 
+    
+    
 }
