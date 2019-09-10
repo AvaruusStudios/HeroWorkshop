@@ -1,0 +1,1773 @@
+{
+    "skills": [
+        {
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            },
+            "skill": {
+                "name": "",
+                "key_ability": "",
+                "use_untrained": true,
+                "force_skill": true,
+                "req_forece_feat": "",
+                "class_skill": [
+                    {
+                        "Fringer": true,
+                        "Noble": true,
+                        "Scoundrel": true,
+                        "Scout": true,
+                        "Soldier": true,
+                        "Tech Specialist": true,
+                        "Force Adept": true,
+                        "Jedi Counselor": true,
+                        "Jedi Guardian": true
+                    }
+                ],
+                "armor_check_penalty": true,
+                "description": "",
+                "check": "",
+                "retry": "",
+                "special": "",
+                "time": "",
+                "vitality_point_cost": [
+                    {
+                        "": 0
+                    }
+                ]
+            }
+        }
+    ]
+}
