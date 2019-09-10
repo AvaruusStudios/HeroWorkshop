@@ -1,0 +1,926 @@
+{
+    "species": [
+        {
+            "Human": {
+                "name": "Human",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Bothan": {
+                "name": "Bothan",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Cerean": {
+                "name": "Cerean",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Duros": {
+                "name": "Duros",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Ewok": {
+                "name": "Ewok",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Gamorrean": {
+                "name": "Gamorrean",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Gungan": {
+                "name": "Gungan",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Ithorian": {
+                "name": "Ithorian",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Kel Dor": {
+                "name": "Kel Dor",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Mon Calamari": {
+                "name": "Mon Calamari",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Quarren": {
+                "name": "Quarren",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Rodian": {
+                "name": "Rodian",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Sullustan": {
+                "name": "Sullustan",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Trandoshan": {
+                "name": "Trandoshan",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Twi'lek": {
+                "name": "Twi'lek",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Wookiee": {
+                "name": "Wookiee",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            },
+            "Zabrak": {
+                "name": "Zabrak",
+                "description": "",
+                "personality": "",
+                "appearance": "",
+                "homeworld": "",
+                "language": "",
+                "background": "",
+                "known_languages": [
+                    {
+                        "Basic": true,
+                        "Bothese": false,
+                        "Cerean": false,
+                        "Dosh": false,
+                        "Dug": false,
+                        "Durese": false,
+                        "Ewokese": false,
+                        "Gamorrean": false,
+                        "Geonosian": false,
+                        "Gungan": false,
+                        "Huttese": false,
+                        "Ithorian": false,
+                        "Jawa Trade Language": false,
+                        "Kaminoan": false,
+                        "Kel Dor": false,
+                        "Mon Calamarian": false,
+                        "Neimoidian": false,
+                        "Quarrenese": false,
+                        "Rodese": false,
+                        "Ryl": false,
+                        "Sith": false,
+                        "Sullustese": false,
+                        "Yuuzhan Vong": false,
+                        "Zabrak": false
+                    }
+                ],
+                "abilities": [
+                    {
+                        "strength": 0,
+                        "dexterity": 0,
+                        "constitution": 0,
+                        "intelligence": 0,
+                        "wisdom": 0,
+                        "charisma": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "classes": [
+        {
+            "Fringer": {
+                "name": "Fringer",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Noble": {
+                "name": "Noble",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Scoundrel": {
+                "name": "Scoundrel",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Scout": {
+                "name": "Scout",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Soldier": {
+                "name": "Soldier",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Tech Specialist": {
+                "name": "Tech Specialist",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Force Adept": {
+                "name": "Force Adept",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Jedi Counselor": {
+                "name": "Jedi Counselor",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            },
+            "Jedi Guardian": {
+                "name": "Jedi Guardian",
+                "description": "",
+                "exploits": "",
+                "characteristics": "",
+                "background": "",
+                "base_attack_bonus": 0,
+                "fortitude_save": 0,
+                "reflex_save": 0,
+                "will_save": 0,
+                "defense_bonus": 0,
+                "reputation_bonus": 0
+            }
+        }
+    ]
+}

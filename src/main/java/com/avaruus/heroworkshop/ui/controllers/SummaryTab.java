@@ -75,4 +75,6 @@ public class SummaryTab {
         new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
     );
+    
+    
 }
