@@ -73,7 +73,7 @@ public class SummaryTab {
         ObjectMapper objectMapper = new ObjectMapper();
         
         try {
-            SpeciesModel SpeciesModel = objectMapper.readValue(new File(getClass().getResource("revised_core_rulebook.json").getFile()), SpeciesModel.class);
+            SpeciesModel SpeciesModel = objectMapper.readValue(new File(getClass().getResource("/db/core/species.json").getFile()), SpeciesModel.class);
         } catch (IOException e) {
             e.printStackTrace();
         }
