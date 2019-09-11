@@ -13,7 +13,7 @@ import java.util.*;
  * @author Avaruus Studios
  * @date Aug 29, 2019
  */
-public class Species {
+public class SpeciesModel {
     private String name;
     private String description;
     private String personality;

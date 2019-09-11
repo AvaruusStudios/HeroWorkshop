@@ -1,6 +1,6 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
-import com.avaruus.db.core.Species;
+import com.avaruus.db.core.SpeciesModel;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -59,6 +59,7 @@ public class SummaryTab {
         // add data to table
         tblAbilities.setItems(AbilitiesList);
         
+		// prevent columns from being reordered
         tblAbilities.getColumns().addListener(new ListChangeListener() {
             @Override
             public void onChanged(Change change) {
@@ -70,17 +71,21 @@ public class SummaryTab {
             }
         });
         
+		// creates new ObjectMapper
         ObjectMapper objectMapper = new ObjectMapper();
         
+		// tries to parse the JSON to the Java Object SpeciesModel.java
         try {
-            Species SpeciesModel = objectMapper.readValue(new File(getClass().getResource("/db/core/species.json").getFile()), Species.class);
+            SpeciesModel SpeciesModel = objectMapper.readValue(new File(getClass().getResource("/db/core/species.json").getFile()), SpeciesModel.class);
         } catch (IOException e) {
             e.printStackTrace();
         }
         
+		// adds the items to the Combobox
         cmbSpecies.setItems(FXCollections.observableArrayList(SpeciesModel));
     }
     
+	// creates an ObservableList of the character abilities
     private ObservableList<AbilityModel> AbilitiesList = FXCollections.observableArrayList(
         new AbilityModel("Strength", 0, 0, 0, 0, 0),
         new AbilityModel("Dexterity", 0, 0, 0, 0, 0),
@@ -90,7 +95,10 @@ public class SummaryTab {
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
     );
     
-    private ObeservableList<Species> SpeciesList = FXCollections.observableArrayList();
+	// creates an ObservableList of each Species in SpeciesModel.java
+    private ObeservableList<SpeciesModel> SpeciesList = FXCollections.observableArrayList(
+		new SpeciesModel()
+	);
     
     
 }
