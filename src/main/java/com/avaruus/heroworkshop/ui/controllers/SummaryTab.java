@@ -1,6 +1,6 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
-import com.avaruus.db.core.SpeciesModel;
+import com.avaruus.db.core.Species;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -57,7 +57,7 @@ public class SummaryTab {
         colAbilityMiscAdjustment.setCellValueFactory(new PropertyValueFactory<>("AbilityMiscAdjustment"));
         
         // add data to table
-        tblAbilities.setItems(AbilitiesModel);
+        tblAbilities.setItems(AbilitiesList);
         
         tblAbilities.getColumns().addListener(new ListChangeListener() {
             @Override
@@ -73,7 +73,7 @@ public class SummaryTab {
         ObjectMapper objectMapper = new ObjectMapper();
         
         try {
-            SpeciesModel SpeciesModel = objectMapper.readValue(new File(getClass().getResource("/db/core/species.json").getFile()), SpeciesModel.class);
+            Species SpeciesModel = objectMapper.readValue(new File(getClass().getResource("/db/core/species.json").getFile()), Species.class);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -81,14 +81,16 @@ public class SummaryTab {
         cmbSpecies.setItems(FXCollections.observableArrayList(SpeciesModel));
     }
     
-    private ObservableList<AbilityModel> AbilitiesModel = FXCollections.observableArrayList(
+    private ObservableList<AbilityModel> AbilitiesList = FXCollections.observableArrayList(
         new AbilityModel("Strength", 0, 0, 0, 0, 0),
         new AbilityModel("Dexterity", 0, 0, 0, 0, 0),
         new AbilityModel("Constitution", 0, 0, 0, 0, 0),
         new AbilityModel("Intelligence", 0, 0, 0, 0, 0),
         new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
-    ); 
+    );
+    
+    private ObeservableList<Species> SpeciesList = FXCollections.observableArrayList();
     
     
 }

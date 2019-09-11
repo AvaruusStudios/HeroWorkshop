@@ -13,7 +13,7 @@ import java.util.*;
  * @author Avaruus Studios
  * @date Aug 29, 2019
  */
-public class SpeciesModel {
+public class Species {
     private String name;
     private String description;
     private String personality;
@@ -21,9 +21,10 @@ public class SpeciesModel {
     private String homeworld;
     private String language;
     private String background;
-    private List<String> knownlanguages;
+    private Map<String, Boolean> knownlanguages;
     private String size;
     private String speed;
+	private Map<String, Integer> abilities;
     
     public String getName() {
         return name;
@@ -44,32 +45,72 @@ public class SpeciesModel {
     public String getPersonality() {
         return personality;
     }
+	
+	public void setPersonality(String personality) {
+		this.personality = personality;
+	}
     
     public String getAppearance() {
         return appearance;
     }
+	
+	public void setAppearance(String appearance) {
+		this.appearance = appearance;
+	}
     
     public String getHomeworld() {
         return homeworld;
     }
+	
+	public void setHomeworld(String homeworld) {
+		this.homeworld = homeworld;
+	}
     
     public String getLanguage() {
         return language;
     }
+	
+	public void setLanguage(String language) {
+		this.language = language;
+	}
     
     public String getBackground() {
         return background;
     }
+	
+	public void setBackgound(String background) {
+		this.background = background;
+	}
     
-    public List<String> getKnownLanguages() {
+    public Map<String, Boolean> getKnownLanguages() {
         return knownlanguages;
     }
+	
+	public void setKnownLanguages(Map<String, Boolean> knownlanguages) {
+		this.knownlanguages = knownlanguages;
+	}
     
     public String getSize() {
         return size;
     }
+	
+	public void setSize(String size) {
+		this.size = size;
+	}
     
     public String getSpeed() {
         return speed;
     }
+	
+	public void setSpeed(String speed) {
+		this.speed = speed;
+	}
+	
+	public Map<String, Integer> getAbilities() {
+		return abilities;
+	}
+	
+	public void setAbilities(Map<String, Integer> abilities) {
+		this.abilities = abilities;
+	}
 }
