@@ -1,6 +1,5 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
-import com.avaruus.db.core.SpeciesModel;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -8,8 +7,6 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
 import com.avaruus.hero.AbilityModel;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import java.io.*;
 import javafx.collections.ListChangeListener;
 
 /*
@@ -70,19 +67,6 @@ public class SummaryTab {
                 }
             }
         });
-        
-		// creates new ObjectMapper
-        ObjectMapper objectMapper = new ObjectMapper();
-        
-		// tries to parse the JSON to the Java Object SpeciesModel.java
-        try {
-            SpeciesModel SpeciesModel = objectMapper.readValue(new File(getClass().getResource("/db/core/species.json").getFile()), SpeciesModel.class);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        
-		// adds the items to the Combobox
-        cmbSpecies.setItems(FXCollections.observableArrayList(SpeciesModel));
     }
     
 	// creates an ObservableList of the character abilities
@@ -93,12 +77,5 @@ public class SummaryTab {
         new AbilityModel("Intelligence", 0, 0, 0, 0, 0),
         new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
-    );
-    
-	// creates an ObservableList of each Species in SpeciesModel.java
-    private ObeservableList<SpeciesModel> SpeciesList = FXCollections.observableArrayList(
-		new SpeciesModel()
-	);
-    
-    
+    ); 
 }
