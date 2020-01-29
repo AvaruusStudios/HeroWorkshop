@@ -20,7 +20,7 @@ public class SpeciesModel {
 	private String appearance;
 	private String homeworld;
 	private String languages;
-	private String background;
+	private String adventurers;
 	private String size;
 	private Integer speed;	
 	
@@ -32,7 +32,7 @@ public class SpeciesModel {
 		this.appearance = appearance;
 		this.homeworld = homeworld;
 		this.languages = languages;
-		this.background = background;
+		this.adventurers = adventurers;
 		this.size = size;
 		this.speed = speed;
 	}
@@ -75,8 +75,8 @@ public class SpeciesModel {
 		return languages;
 	}
 	
-	public String getBackground() {
-		return background;
+	public String getAdventurers() {
+		return adventurers;
 	}
 	
 	public String getSize() {
