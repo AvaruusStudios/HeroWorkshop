@@ -1,5 +1,7 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
+import com.avaruus.db.core.SpeciesCommunity;
+import com.avaruus.db.core.SpeciesModel;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -7,7 +9,15 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
 import com.avaruus.hero.AbilityModel;
+import com.fasterxml.jackson.core.JsonGenerationException;
+import com.fasterxml.jackson.core.JsonParseException;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.File;
+import java.io.IOException;
 import javafx.collections.ListChangeListener;
+
 
 /*
     SummaryTab is the code-behind file for src/main/resources/fxml/tabs/summary.fxml
@@ -31,10 +41,25 @@ public class SummaryTab {
     }
 
     @FXML
-    private void initialize() {
+    private void initialize() throws JsonParseException, JsonMappingException, IOException {
         // set the text on the summary label
         // summaryLabel.setText("Summary");
-        
+		
+		ObjectMapper objectMapper = new ObjectMapper();
+		objectMapper.disable(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES);
+		File coreRulebook = new File("src/main/resources/db/core_rulebook.json");
+		
+		SpeciesCommunity sc = objectMapper.readValue(coreRulebook, SpeciesCommunity.class);
+		
+		ObservableList<String> SpeciesList = FXCollections.observableArrayList();
+		
+		for (SpeciesModel species : sc.getSpecies()) {
+//			System.out.println(species.getName());
+			SpeciesList.add(species.getName());
+		}
+		
+		cmbSpecies.setItems(SpeciesList);
+       
         // sets the options for the gender ComboBox
         cmbGender.setItems(FXCollections.observableArrayList(
             "Male", "Female")
@@ -77,5 +102,5 @@ public class SummaryTab {
         new AbilityModel("Intelligence", 0, 0, 0, 0, 0),
         new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
         new AbilityModel("Charisma", 0, 0, 0, 0, 0)
-    ); 
+    );
 }
