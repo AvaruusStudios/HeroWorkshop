@@ -98,9 +98,9 @@
                                                             <children>
                                                                 <ScrollPane prefViewportHeight="200.0" prefViewportWidth="280.0">
                                                                     <content>
-                                                                        <TableView prefHeight="212.5">
+                                                                        <TableView fx:id="tblLanguages" prefHeight="212.5">
                                                                             <columns>
-                                                                                <TableColumn editable="false" prefWidth="290.5" resizable="false" sortable="false" text="Known Languages" />
+                                                                                <TableColumn fx:id="colLang" editable="false" prefWidth="290.5" resizable="false" sortable="false" text="Known Languages" />
                                                                             </columns>
                                                                         </TableView>
                                                                     </content>
