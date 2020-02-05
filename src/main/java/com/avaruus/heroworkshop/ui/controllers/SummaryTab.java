@@ -1,5 +1,6 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
+import com.avaruus.db.JsonConnection;
 import com.avaruus.db.core.SpeciesCommunity;
 import com.avaruus.db.core.SpeciesModel;
 import javafx.collections.FXCollections;
@@ -62,7 +63,6 @@ public class SummaryTab {
 		SpeciesCommunity sc = objectMapper.readValue(coreRulebook, SpeciesCommunity.class);
 		
 		
-		ObservableList<String> SpeciesList = FXCollections.observableArrayList();
 		
 		knownLangsList = new HashMap<String, ObservableList<SingleStringColumn>>();
 		
@@ -70,7 +70,6 @@ public class SummaryTab {
 		
 		for (SpeciesModel species : sc.getSpecies()) {
 //			System.out.println(species.getName());
-			SpeciesList.add(species.getName());
 			ObservableList<SingleStringColumn> list = FXCollections.observableArrayList();
 			for (String str : species.getKnownLanguages().getKnownLanguages()) {
 				list.add(new SingleStringColumn(str));
@@ -82,7 +81,7 @@ public class SummaryTab {
 				
 		
 		
-		cmbSpecies.setItems(SpeciesList);
+		cmbSpecies.setItems(JsonConnection.getInstance().getSpeciesList());
 		cmbSpecies.getSelectionModel().selectedItemProperty().addListener((options, oldValue, newValue) -> {
 			for (SpeciesModel species : sc.getSpecies()) {
 				if (species.getName().equals(newValue)) {
