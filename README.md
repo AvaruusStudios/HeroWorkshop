@@ -74,6 +74,10 @@ Troy Pilewski ([@troypilewski](https://github.com/troypilewski))
 <!-- Saurav Bhuju ([@sbhuju61](https://github.com/sbhuju61))  -->
 <!-- Justin Nichols ([@justinnichols](https://github.com/justinnichols)) -->
 
+<a href="https://github.com/AvaruusStudios/HeroWorkshop/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=AvaruusStudios/HeroWorkshop" />
+</a>
+
 ### Acknowledgements
 
 ## License
