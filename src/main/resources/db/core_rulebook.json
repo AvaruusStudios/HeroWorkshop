@@ -8,7 +8,7 @@
             "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
             "languages": "Humans spean and read Basic. They typically learn other languages, including obscure ones.",
             "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -33,10 +33,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -54,7 +54,7 @@
             "homeworld": "The industrial world of Bothawui, with various colony worlds throughout the Mid Rim Territories, including Kothlis and Torolis.",
             "languages": "Bothans speak and read Bothese and Basic.",
             "adventurers": "Bothan adventurers, such as operatives in the Spynet, engage in daring deeds - even when such deeds put them at great personal risk. In addition to the intelligence operatives, Bothan heroes serve as soldiers and pilots, diplomats and ambassadors. Their curiosity leads some to be explorer and scouts. Even when a Bothan makes it hard not to look for the profit and prestige in the situation.",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": true,
                 "Cerean": false,
@@ -79,10 +79,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 2,
+                "desxterity": 2,
                 "constitution": -2,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -95,12 +95,12 @@
             "id": 3,
             "name": "Cerean",
             "description": "Cereans come from a remote utopian world. Most Cereans are peaceful, following farming traditions that date back thousands of years. The species includes more females than males, and Cerean society is matriarchal. Their high-domed heads hold binary brians, and two hearts beat in a Cerean's chest. With a nonaggressive heritage, it is only rarely that a Cerean develops the desire to adventure, and even more rare that one takes up the robes of a Jedi Knight.",
-            "personality": "Cereans tend to be calm, rational, and extremely logical.",
-            "appearance": "Cereans average about two meters tall, withg elongated craniums. They have a maturity rate and life span similar to that of Humans.",
-            "homeworld": "The blissful planet Cerea.",
-            "languages": "Cereans speak and read Cerean and Basic.",
-            "adventurers": "Cereans who become adventurers do so in direct contradiction to their traditions and beliefs. Even so, when a cause or situation turns a Cerean to this path, he or she tries to approach life with as many of the Cerena beliefs as possible. Aggression should be the last resort after all peaceful solutions are attempted, for example. The binary brain allows a Cerean to constantly weigh both sides in an disagreement and give two points of view equal consideration. This ability extends even to isses surrounding the Force, and a Cerean Force0user often contemplates the light and dark side simultaneously.",
-            "knownlanguages": [{
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": true,
@@ -125,28 +125,28 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": -2,
+                "desxterity": 0,
                 "constitution": 0,
-                "intelligence": 2,
-                "wisdom": 2,
+                "intelligence": 0,
+                "wisdom": 0,
                 "charisma": 0
             }],
-            "size": "Medium: As Medium-size creatures, Bothans have no special bonuses or penalties due to their size.",
+            "size": "",
             "speed": 0
         },
         {
             "id": 4,
             "name": "Duros",
-            "description": "The Duros roiginate in the Duro star system, located at the extreme edge of the Core region of space. With an almost innate affinity for space travel, the Duros were among the first to leave their world and spread to the stars. Whatever the reason for their wanderlust, the Duros tend to gravitate toward the space lanes for income and adventure. Their home system is governed by vast starship engineering corporations, and most Duros learn to pilot a ship or rebuild a hyperdrive shortly after they begin to walk and talk.",
-            "personality": "A Duros tends to be intense and adventureous, always seeking to learn what's at the end of the next hyperspce jump. They are a proud, self-sufficient, fun-loving people who also have a tendency toward gregariousness.",
-            "appearance": "Duros average about 1.8 meters tall. They are hairless, with large eyes and wide, lipless mouths. Skin color ranges from blue-gray to deep azure/",
-            "homeworld": "The orbiting cities of the Duro system.",
-            "languages": "Duros speak and are literate in Durese and Basic",
-            "adventurers": "Duros adventurers include hyperspace explorers, star charter and spaceer of all descriptions. They also tend to gravitate toward the sciences, including engineering and astrogation. Some Duros shun exploration in favor of smuggling and trading, and a small number go into diplomatic professions.",
-            "knownlanguages": [{
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -171,27 +171,27 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
-                "strength": -1,
-                "dexterity": 2,
-                "constitution": -2,
-                "intelligence": 2,
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
                 "wisdom": 0,
                 "charisma": 0
             }],
-            "size": "Medium: As Medium-size creatures, Bothans have no special bonuses or penalties due to their size.",
+            "size": "",
             "speed": 0
         },
         {
             "id": 5,
             "name": "Ewok",
-            "description": "Ewoks hail from the forst moon of Endor, where they maintain a primitive hunter/gather society. Prior to the Battle of Endor (four year after Episode IV), Ewoks were almost entirely unknown to the galaxy at large. Som traders and explorer visited Endor's moon, but with no form of space travel, Ewoks never left their homeworld. Although primitive by galatic standards, the tribal Ewoks are resourceful and highly adaptable. The trbial Ewoks may be technologically prmitive when compared to most of the galactic society, but they are also clever and inventive. While they tend to initially be wary around machinery, it isn't long before their natural curiosity wins out and they plunge into wild and exuberant experimentation.",
-            "personality": "Ewoks tend to be curious, supersitious, and courageous, though they can be fearful around things that are strange and new.",
-            "appearance": "Ewoks average about 1 meter tall. Their thick fur varies widely in color and patern. They often waer hoods, decorative feather , and animal bones.",
-            "homeworld": "The forest moon of Endor",
-            "languages": "Ewoks speak Ewokese. They have no written form of their language. They can learn to speak Basic",
-            "adventurers": "An Ewok adventurer may be motivated by a love of excitement, a natural inquisitiveness, or a warrior's quest. Usually, an Ewok hero joins up with a scout or hero who has access to a starship. Collecting powerful \"magic\" items from fallen opponents, such as a stormtrooper's helmet or a range finder from a blaster rifle, is a sure way for an Ewok to earn the respect of his tribe.",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
             "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
@@ -199,7 +199,7 @@
                 "Dosh": false,
                 "Dug": false,
                 "Durese": false,
-                "Ewokese": true,
+                "Ewokese": false,
                 "Gamorrean": false,
                 "Geonosian": false,
                 "Gungan": false,
@@ -219,15 +219,15 @@
                 "Zabrak": false
             },
             "ability_adjustments": [{
-                "strength": -2,
-                "dexterity": 2,
+                "strength": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
                 "charisma": 0
             }],
-            "size": "Small: As Small creatyures, Ewoks gain a +1 size bonus to the Defense, a +1 size bonus on Attack Rolls, and a +4 size bonus on Hide Checks, but they must use smaller weapons than Humans use, and their lifting and carrying limits are three-quarter of those of Medium-sized characters.",
-            "speed": 6
+            "size": "",
+            "speed": 0
         },
         {
             "id": 6,
@@ -238,7 +238,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -263,10 +263,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -284,7 +284,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -309,10 +309,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -330,7 +330,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -355,10 +355,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -376,7 +376,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -401,10 +401,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -422,7 +422,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -447,10 +447,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -468,7 +468,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -493,10 +493,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -514,7 +514,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -539,10 +539,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -560,7 +560,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -585,10 +585,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -606,7 +606,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -631,10 +631,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -652,7 +652,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -677,10 +677,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -698,7 +698,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -723,10 +723,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
@@ -744,7 +744,7 @@
             "homeworld": "",
             "languages": "",
             "adventurers": "",
-            "knownlanguages": [{
+            "knownlanguages": {
                 "Basic": true,
                 "Bothese": false,
                 "Cerean": false,
@@ -769,10 +769,10 @@
                 "Sullustese": false,
                 "Yuuzhan Vong": false,
                 "Zabrak": false
-            }],
+            },
             "ability_adjustments": [{
                 "strength": 0,
-                "dexterity": 0,
+                "desxterity": 0,
                 "constitution": 0,
                 "intelligence": 0,
                 "wisdom": 0,
