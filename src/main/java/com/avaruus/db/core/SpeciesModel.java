@@ -6,6 +6,9 @@
 
 package com.avaruus.db.core;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
 /**
  * @name SpeciesModel.java
  * @author Avaruus Studios
@@ -21,8 +24,11 @@ public class SpeciesModel {
 	private String homeworld;
 	private String languages;
 	private String adventurers;
+	@JsonProperty("knownlanguages")
+	private KnownLanguages knownlanguages;
 	private String size;
 	private Integer speed;	
+	
 	
 	SpeciesModel() {
 		this.id = id;
@@ -33,8 +39,9 @@ public class SpeciesModel {
 		this.homeworld = homeworld;
 		this.languages = languages;
 		this.adventurers = adventurers;
+		this.knownlanguages = knownlanguages;
 		this.size = size;
-		this.speed = speed;
+		this.speed = speed;		
 	}
 	
 	@Override
@@ -85,5 +92,9 @@ public class SpeciesModel {
 	
 	public Integer getSpeed() {
 		return speed;
+	}
+	
+	public KnownLanguages getKnownLanguages(){
+		return knownlanguages;
 	}
 }
