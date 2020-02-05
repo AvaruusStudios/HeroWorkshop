@@ -1,0 +1,3145 @@
+{
+    "species": [{
+            "id": 1,
+            "name": "Human",
+            "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politcally diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughtout all eras of play.",
+            "personality": "Human personality runs the gamut of possiblities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
+            "appearance": "Hmans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
+            "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
+            "languages": "Humans spean and read Basic. They typically learn other languages, including obscure ones.",
+            "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.",
+            "speed": 0
+        },
+        {
+            "id": 2,
+            "name": "Bothan",
+            "description": "The planet Bothawui, in the Mid Rim of the galaxy, gave rise to the Bothan species. These shoprt, fur-covered humaniods have had hyperspace travel for thousands of years and were among the first civilizations to join the galactic society. Bothans deal in information. They use information as a measure of wealth and power, even wielding it as a weapon when necessary. The Bothan Spynet serves as one of the largest intelligence agencies throughout most eras, and it plays and important and poignant role in the Rebellion era. Culturally, Bothans don't believe in direct conflict. They prefer to manipulate situations from behind the scenes, to watch and wait for information and opportunity, and to use these tools to gain status and influence.",
+            "personality": "Bothans are manipulative, crafty, suspicious and curious by anture, and a little paranoid. They can be irritating, but they are also loyal and brave.",
+            "appearance": "Bothans are covered with fur that ripples in response to their emoptional state. They have tappered ears, and both male and female Bothans sport beards. They average about 1.6 meters tall and have a maturity rate and life span slightly greater than Humans.",
+            "homeworld": "The industrial world of Bothawui, with various colony worlds throughout the Mid Rim Territories, including Kothlis and Torolis.",
+            "languages": "Bothans speak and read Bothese and Basic.",
+            "adventurers": "Bothan adventurers, such as operatives in the Spynet, engage in daring deeds - even when such deeds put them at great personal risk. In addition to the intelligence operatives, Bothan heroes serve as soldiers and pilots, diplomats and ambassadors. Their curiosity leads some to be explorer and scouts. Even when a Bothan makes it hard not to look for the profit and prestige in the situation.",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": true,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 2,
+                "constitution": -2,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "Medium: As Medium-size creatures, Bothans have no special bonuses or penalties due to their size.",
+            "speed": 0
+        },
+        {
+            "id": 3,
+            "name": "Cerean",
+            "description": "Cereans come from a remote utopian world. Most Cereans are peaceful, following farming traditions that date back thousands of years. The species includes more females than males, and Cerean society is matriarchal. Their high-domed heads hold binary brians, and two hearts beat in a Cerean's chest. With a nonaggressive heritage, it is only rarely that a Cerean develops the desire to adventure, and even more rare that one takes up the robes of a Jedi Knight.",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": true,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 4,
+            "name": "Duros",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": true,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 5,
+            "name": "Ewok",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 6,
+            "name": "Gamorrean",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 7,
+            "name": "Gungun",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 8,
+            "name": "Ithorian",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 9,
+            "name": "Kel Dor",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 10,
+            "name": "Mon Calamari",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 11,
+            "name": "Quarren",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 12,
+            "name": "Rodian",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 13,
+            "name": "Sullustan",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 14,
+            "name": "Trandoshan",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 15,
+            "name": "Twi'lek",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 16,
+            "name": "Wookiee",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        },
+        {
+            "id": 17,
+            "name": "Zabrak",
+            "description": "",
+            "personality": "",
+            "appearance": "",
+            "homeworld": "",
+            "languages": "",
+            "adventurers": "",
+            "knownlanguages": {
+                "Basic": true,
+                "Bothese": false,
+                "Cerean": false,
+                "Dosh": false,
+                "Dug": false,
+                "Durese": false,
+                "Ewokese": false,
+                "Gamorrean": false,
+                "Geonosian": false,
+                "Gungan": false,
+                "Huttese": false,
+                "Ithorian": false,
+                "Jawa Trade Language": false,
+                "Kaminoan": false,
+                "Kel Dor": false,
+                "Mon Calamarian": false,
+                "Neimoidian": false,
+                "Quarrenese": false,
+                "Rodese": false,
+                "Ryl": false,
+                "Sith": false,
+                "Sullustese": false,
+                "Yuuzhan Vong": false,
+                "Zabrak": false
+            },
+            "ability_adjustments": [{
+                "strength": 0,
+                "desxterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "size": "",
+            "speed": 0
+        }
+    ],
+    "class": [{
+            "name": "Fringer",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "exploits": "",
+            "characteristics": "",
+            "background": "",
+            "abilities": [{
+                "strength": 0,
+                "dexterity": 0,
+                "constitution": 0,
+                "intelligence": 0,
+                "wisdom": 0,
+                "charisma": 0
+            }],
+            "baseattackbonus": "",
+            "saving_throws": [{
+                "fortitudesave": "",
+                "reflexsave": "",
+                "willsave": ""
+            }],
+            "defensebonus": "",
+            "reputationbonus": ""
+        }
+    ],
+    "skills": [{
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "Appraise",
+            "key_ability": "Intelligence",
+            "use_untrained": true,
+            "force_skill": false,
+            "req'd_force_feat": "",
+            "class": [
+                "Noble",
+                "Scoundrel"
+            ],
+            "armor_check_penalty": "",
+            "description": "Use this skill to estimate the value of an object, from an old blaster to an Alderaanian heirloom.",
+            "check": "",
+            "retry": "Not on same object, regardless of success.",
+            "special": "",
+            "time": "Appraising and item takes 1 minute.",
+            "vitality_point_cost": "",
+            "action_type": "**"
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        },
+        {
+            "name": "",
+            "key_ability": "",
+            "use_untrained": "",
+            "force_skill": "",
+            "req'd_force_feat": "",
+            "class": [
+                "",
+                ""
+            ],
+            "armor_check_penalty": "",
+            "description": "",
+            "check": "",
+            "retry": "",
+            "special": "",
+            "time": "",
+            "vitality_point_cost": "",
+            "action_type": ""
+        }
+    ],
+    "feats": [{
+            "name": "Acrobatic",
+            "description": "You are very agile.",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "You gain a +2 apitude bonus on all Jump checks and Tumble checks. Remember, the Tumble skill cannot be used untrained.",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "Advanced Martial Arts",
+            "description": "You are a master of unarmed combat due to your advanced training.",
+            "prerequisite": [{
+                "martial_arts": true,
+                "improved_martial_arts": true,
+                "base_attack_bonus": "8"
+            }],
+            "benefit": "A Medium-sized character deals 3d4 damage with an unarmed strike. Strength modifiers apply. Also, you threaten a critical hit on a natural 18, 19, or 20 when making an unarmed strike. Small-sized characters deals 3d3 damage and Large-sized characters deal 3d6 damage.",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "prerequisite": [{
+                "": ""
+            }],
+            "benefit": "",
+            "nomral": "",
+            "special": ""
+        }
+    ],
+    "equipment": [{
+        "name": "",
+        "type": [{
+            "commodity": true,
+            "range_weapon": true,
+            "melee_weapon": true,
+            "armor": true,
+            "general": true,
+            "service": true
+        }],
+        "cost": "",
+        "damage": "",
+        "critical": "",
+        "range": "",
+        "weight": "",
+        "stun": "",
+        "fire_type": [{
+            "multifire": true,
+            "autofire": true
+        }],
+        "damage_reduction": "",
+        "max_dexterity": 0,
+        "armor_class_penalty": "",
+        "max_speed": 0
+    }]
+}

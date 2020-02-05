@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    attributeFormDefault="unqualified" vc:minVersion="1.1"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning">
+    <!-- XML Schema Generated from XML Document on Mon Jan 27 2020 12:01:03 GMT-0800 (Pacific Standard Time) -->
+    <!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+    <xs:element name="core_rulebook">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Species">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Race" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Description" type="xs:string"/>
+                                        <xs:element name="Personality" type="xs:string"/>
+                                        <xs:element name="Appearance" type="xs:string"/>
+                                        <xs:element name="Homeworld" type="xs:string"/>
+                                        <xs:element name="Languages" type="xs:string"/>
+                                        <xs:element name="Background" type="xs:string"/>
+                                        <xs:element name="Known_Languages">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element name="Basic" type="xs:string"/>
+                                                  <xs:element name="Bothese" type="xs:string"/>
+                                                  <xs:element name="Cerean" type="xs:string"/>
+                                                  <xs:element name="Dosh" type="xs:string"/>
+                                                  <xs:element name="Durese" type="xs:string"/>
+                                                  <xs:element name="Ewokese" type="xs:string"/>
+                                                  <xs:element name="Gamorrean" type="xs:string"/>
+                                                  <xs:element name="Geonosian" type="xs:string"/>
+                                                  <xs:element name="Gungun" type="xs:string"/>
+                                                  <xs:element name="Huttese" type="xs:string"/>
+                                                  <xs:element name="Ithorian" type="xs:string"/>
+                                                  <xs:element name="Jawa_Trade_Language"
+                                                  type="xs:string"/>
+                                                  <xs:element name="Kaminoan" type="xs:string"/>
+                                                  <xs:element name="Kel_Dor" type="xs:string"/>
+                                                  <xs:element name="Mon_Calamarian" type="xs:string"/>
+                                                  <xs:element name="Neimoidian" type="xs:string"/>
+                                                  <xs:element name="Quarrenese" type="xs:string"/>
+                                                  <xs:element name="Rodese" type="xs:string"/>
+                                                  <xs:element name="Ryl" type="xs:string"/>
+                                                  <xs:element name="Sith" type="xs:string"/>
+                                                  <xs:element name="Sullustese" type="xs:string"/>
+                                                  <xs:element name="Yuuzhan_Vong" type="xs:string"/>
+                                                  <xs:element name="Zabrak" type="xs:string"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="Size" type="xs:string"/>
+                                        <xs:element name="Speed" type="xs:int"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="name" type="xs:string"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Classes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Class" form="unqualified" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Description"/>
+                                        <xs:element name="Exploits"/>
+                                        <xs:element name="Characteristics"/>
+                                        <xs:element name="Background"/>
+                                        <xs:element name="Abilities">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element name="Strength" type="xs:int"/>
+                                                  <xs:element name="Dexterity" type="xs:int"/>
+                                                  <xs:element name="Constitution" type="xs:int"/>
+                                                  <xs:element name="Intelligence" type="xs:int"/>
+                                                  <xs:element name="Wisdom" type="xs:int"/>
+                                                  <xs:element name="Charisma" type="xs:int"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="Base_Attack_Bonus" type="xs:int"/>
+                                        <xs:element name="Saving_Throws">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element name="Fortitude_Save" type="xs:int"/>
+                                                  <xs:element name="Reflex_Save" type="xs:int"/>
+                                                  <xs:element name="Will_Save" type="xs:int"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="Defense_Bonus" type="xs:int"/>
+                                        <xs:element name="REputation_Bonus" type="xs:int"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="name" type="xs:string"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="xmlns:xsi" type="xs:string"/>
+            <xs:attribute name="xsi:noNamespaceSchemaLocation" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

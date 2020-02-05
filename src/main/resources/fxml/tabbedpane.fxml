@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<TabPane fx:id="mainTabPane" prefWidth="${mainTabPane.parent.width}" prefHeight="${mainTabPane.parent.height}" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+    <fx:include source="/fxml/tabs/summary.fxml"/>
+    <fx:include source="/fxml/tabs/description.fxml"/>
+    <fx:include source="/fxml/tabs/species.fxml"/>
+    <fx:include source="/fxml/tabs/class.fxml"/>
+    <fx:include source="/fxml/tabs/skills.fxml"/>
+    <fx:include source="/fxml/tabs/feats.fxml"/>
+    <fx:include source="/fxml/tabs/equipment.fxml"/>
+</TabPane>

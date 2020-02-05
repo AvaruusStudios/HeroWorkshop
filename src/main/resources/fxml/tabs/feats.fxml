@@ -1,0 +1,12 @@
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<Tab text="Feats" closable="false">
+    <HBox>
+        <padding>
+            <Insets left="10" right="10" top="10" bottom="10"/>
+        </padding>
+        <Label text="Feats"/>
+    </HBox>
+</Tab>
