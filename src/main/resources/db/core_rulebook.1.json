@@ -1266,12 +1266,12 @@
     },
     "16": {
       "name": "Zabrak",
-      "description": "The Zabrak took to the stars early in galactic history and have a vast number of colony worlds. (Many Zabrak identify themselves by the colony they hail from.) The Zabrak have an iron will and a survival instinct second to none. They are explorer and warriors without peer, with instincts forged by the harshness of the orginal",
-      "personality": "",
-      "appearance": "",
-      "homeworld": "",
-      "language": "",
-      "adventurers": "",
+      "description": "The Zabrak took to the stars early in galactic history and have a vast number of colony worlds. (Many Zabrak identify themselves by the colony they hail from.) The Zabrak have an iron will and a survival instinct second to none. They are explorer and warriors without peer, with instincts forged by the harshness of the orginal Zabrak homeworld and the pioneer spirit that led to the settlement of the zabrak colonies.\\n Zabrak possess a great amount of confidence, and they believe that there is nothing they can't accomplish. While this innate attitude could lead to feelings of superiority, most Zabrak don't look down upon other species. They believe in themselves and are proud and strong, but they rarely project any negativity toward those of other species. Each Zabrak is extremely proud of his or her home colony.",
+      "personality": "Zabrak tend to be dedicated, intense, and focused. They are sometimes considered singleminded.",
+      "appearance": "Humaniod, Zabrak are disinguished by patterns of vestigial horn atop their heads. The average Zabrak stands between 1.6 and 2.1 meters tall.",
+      "homeworld": "Itidonia or one of the eight colonies in the Mid Rim region of space.",
+      "language": "Zabrak speak Zabrak and Basic.",
+      "adventurers": "Zabrak adventurers love to explore the galaxy. No challenge is too big to deter a Zabrak. Zabrak adventurers range from fringers from the distant colony worlds, to noble diplomats and merchants, to scout, soldiers, and even Jedi.",
       "spoke_languages": [
         {
           "Basic": true,
@@ -1298,7 +1298,7 @@
           "Sith": false,
           "Sullustese": false,
           "Yuuzhan Vong": false,
-          "Zabrak": false
+          "Zabrak": true
         }
       ],
       "literate_languages": [
@@ -1327,7 +1327,7 @@
           "Sith": false,
           "Sullustese": false,
           "Yuuzhan Vong": false,
-          "Zabrak": false
+          "Zabrak": true
         }
       ],
       "ability_adjustments": [
