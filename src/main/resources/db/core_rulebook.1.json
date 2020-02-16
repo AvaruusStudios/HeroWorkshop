@@ -1368,45 +1368,36 @@
 			"description": "Memebers of the noble class use their intelligence and natural charisma to make their way in the galaxy. From true royalty to elected official, military commanders to crime lords, traders, merchants, ambassadors, holovid stars, and influential corporate magnates, character types who appear in the noble class are varied and numerous. Some bring honor to the name. Other are sly, treacherous, and dishonorable to the core. With a winning smile, a golden tongue, a powerful message, or knack for making compromises, the noble commands respect, makes friends, and inevitably influences people.",
 			"exploits": "Most nobles wind up in dangerous situations because of something they believe in or because their job calls for it. Others hope to use their negoiating talents to navigate a course through the troubles around them, or seek to find profit in the troubles of others. Whatever their initial motivations, nobles usually wind up taking to a cause and a goal that sustains them through the roughest missions. An adventuring noble might be a senator's aide, a free trader, a diplomat, a true prince or princess, or an outlaw's lieutenant. Nobles often feel responsible for others, though some consider themselves to be better than those around them.",
 			"characteristics": "The noble fosters feelings of good will and honesty, or at least the illusion of such, to succeed. Where other classes shoot first, the noble starts out asking questions and hopes to finish by negotiating a deal. The noble believes they can be more effective with words and deeds than with violence, though some draw a blaster when push comes to shove. The noble is more comfortable in civilized regions of space, where law and order have some meaning. Of all the classes, nobles have the best diplomatic and barginning skills. They're good talkers, negotiators, and bluffers. They have a knack for inspiring others, they make good leaders.",
-			"background": "Nobles come to thier profession in a variety of ways. Altruistic nobles believe it is their duty and responsibility to serve and lead. More selfish nobles seek the fame, wealth, and power often associated with the positions they aspire to. Power-hungery nobles take advantage of the system and wind up helping others only to help themselves.",
-			"abilities": "",
-			"baseattackbonus": "",
+			"background": "Nobles come to thier profession in a variety of ways. Altruistic nobles believe it is their duty and responsibility to serve and lead. More selfish nobles seek the fame, wealth, and power often associated with the positions they aspire to. Power-hungery nobles take advantage of the system and wind up helping others only to help themselves. The halls of power are calling. How the noble answers can make all the difference.",
+			"abilities": "Charisma is undoubtedly a noble's most important ability score, as the noble's skill at interacting with others and projecting a sense of confidence are crucial for his or her success. Wisdom and Intelligence form the basis of other important skills, so these ability scores are also significant.",
+			"baseattackbonus": 0,
 			"saving_throws": [
 				{
-					"fortitudesave": "",
-					"reflexsave": "",
-					"willsave": ""
+					"fortitudesave": 0,
+					"reflexsave": 1,
+					"willsave": 2
 				}
 			],
-			"defensebonus": "",
-			"reputationbonus": ""
+			"defensebonus": 2,
+			"reputationbonus": 1
 		},
 		"2": {
-			"name": "",
-			"description": "",
-			"exploits": "",
-			"characteristics": "",
-			"background": "",
-			"abilities": [
-				{
-					"strength": 0,
-					"dexterity": 0,
-					"constitution": 0,
-					"intelligence": 0,
-					"wisdom": 0,
-					"charisma": 0
-				}
-			],
-			"baseattackbonus": "",
+			"name": "Scoundrel",
+			"description": "Scoundrels are rouges - good, bad, and neutral - who either live outside the law or fight against it to get the upper hand. They can come from any world or region of the galaxy. Most use their intelligence and dexterity to accomplish tasks, and many rely on charisma to fallback on when all else fails. The scoundrel gets by with bravado, cunning, duplicity, and trickery. They live by their wits, lying, cheating, stealing, and even fighting when the need arrives.",
+			"exploits": "Many scoundrels live a life of adventure for the excitement if provides. Others go adventuring to advance the illicit careers. Some are good-hearted rouges in it for the thrill or to right a wrong done to them or those they love. Others are depicable knaves who serve only one master - the greed that swells inside them. More often, an adventurous scoundrel falls somewhere inbetween, changing allegiance and attitudes as the political climate changes, until something larger than himself sets him on a particular course through the galaxy. Adventurous scoundrels call themselves smugglers, pirates, outlaws, gamblers, slicer, con artists, thieves, rouges, and spies.",
+			"characteristics": "Scoundrels have a knack for getting into and out of trouble. They have an instinct for self-preservation that keeps them alive, but it's usually tempered with a need to experience the thrills that their profession has to offer, and many adventurous scoundrels are also saddled with a sense of honor that sometimes makes them go against their natural inclinations.",
+			"background": "Scoundrels don't often start out by seeking to defy authority and break the law. Some are thrust into the profession as a means of rebellion. Others wind up on the wrong side of the law due to bad luck, poor decisions, or circumstance beyond their control. The skills they pick up along the wany make them great members of any mission team.",
+			"abilities": "Dexterity and Intelligence are a scoundrels most important ability scores, because he must have quick reflexes and a sharp wit to survive. Charisma is important for talking one's way out of trouble, and Wisdom is useful for spoting trouble before it finds the scoundrel.",
+			"baseattackbonus": 0,
 			"saving_throws": [
 				{
-					"fortitudesave": "",
-					"reflexsave": "",
-					"willsave": ""
+					"fortitudesave": 0,
+					"reflexsave": 2,
+					"willsave": 0
 				}
 			],
-			"defensebonus": "",
-			"reputationbonus": ""
+			"defensebonus": 2,
+			"reputationbonus": 0
 		},
 		"3": {
 			"name": "",
