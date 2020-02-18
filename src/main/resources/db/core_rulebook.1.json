@@ -1400,21 +1400,12 @@
 			"reputationbonus": 0
 		},
 		"3": {
-			"name": "",
-			"description": "",
-			"exploits": "",
+			"name": "Scout",
+			"description": "Scouts are natural explorers and adventurers, full of curiosity and trained to handle out-of-the-way locations where they often operate. Scouts tend to be independent, signing on when the credits are good and their skills are best utilized and tested. Scouts understand the lay of the land and orbit of the stars. They know how to recognize danger and locate the basic necessities for survival. Unlike the fringer, who is born to the frontier and often wants to escape from it, the scouts consciously embraces the wild regions and understands he or she posesses instead of coming to them by innate ability and happenstance. The scout seeks knowledge, tries to solve mysteries, and wants to be the first to see something new and different. The scout learns to find a path through the wild regions, often becoming a decent pilot along the way, and usually learns how to protect himself from whatever hides over the next hill or beyond the most distant nebula.",
+			"exploits": "Many scouts become adventurers to see what's in the next star system. They pick up skills that make them excellent members of any team. They are usually the best trackers, trailblazers, and survivalists the galaxy has to offer. Some scouts are scientists and researchers who learn the skills of the profession so they don't have to rely on others. Some sell their services to the highest bidder. More often, the adventurous scout has a good heart, a sense of honor, and a burning desire to embrace the wild regions of the galaxy and learn to conquer them - either figurativly or literally. Adventurous scouts call themselves ranger, outriders, hunters, explorers, guides, adventurous scholars, and vanguards.",
 			"characteristics": "",
 			"background": "",
-			"abilities": [
-				{
-					"strength": 0,
-					"dexterity": 0,
-					"constitution": 0,
-					"intelligence": 0,
-					"wisdom": 0,
-					"charisma": 0
-				}
-			],
+			"abilities": "",
 			"baseattackbonus": "",
 			"saving_throws": [
 				{
