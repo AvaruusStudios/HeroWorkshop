@@ -6,7 +6,7 @@
 			"personality": "Human personality runs the gamut of possiblities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
 			"appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale, hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
 			"homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-			"language": "Humans spean and read Basic. They typically learn other languages, including obscure ones.",
+			"language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
 			"adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
 			"spoke_languages": [
 				{
@@ -1528,6 +1528,34 @@
 	},
 	"skills": {
 		"0": {
+			"name": "Affect Mind",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": false,
+			"force_skill": true,
+			"req'd_force_feat": "Alter",
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": true,
+					"Scoundrel": false,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": true,
+					"Jedi Consular": true,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "You can use the Force to alter a target's perceptions or make a telepathic suggestion in another character's mind.",
+			"check": "The result of an Affect Mind check sets the DC for the target's Will save. (Note that this skill works best on weak-willed characters. Those with good Will save bonuses are harder to fool with \"Jedi mind tricks.\"\\n Declare ",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"1": {
 			"name": "",
 			"key_ability": "",
 			"use_untrained": "",

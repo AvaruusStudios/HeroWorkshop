@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane prefHeight="600.0" prefWidth="1183.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+      <TabPane prefHeight="576.0" prefWidth="1183.0" BorderPane.alignment="CENTER">
+         <tabs>
+            <Tab text="Summary">
+               <content>
+                  <AnchorPane>
+                     <children>
+                        <HBox>
+                           <children>
+                              <VBox>
+                                 <children>
+                                    <TitledPane alignment="CENTER" collapsible="false" text="Character Basics">
+                                       <content>
+                                          <VBox spacing="5.0">
+                                             <children>
+                                                <HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="115.0">
+                                                         <children>
+                                                            <Label prefWidth="105.0" text="Character Name:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="173.0">
+                                                         <children>
+                                                            <TextField />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutY="32.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="115.0">
+                                                         <children>
+                                                            <Label text="Player Name:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="173.0">
+                                                         <children>
+                                                            <TextField />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutY="64.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="115.0">
+                                                         <children>
+                                                            <Label text="Gender:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="173.0">
+                                                         <children>
+                                                            <ComboBox fx:id="cmbGender" prefWidth="188.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutX="20.0" layoutY="116.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="115.0">
+                                                         <children>
+                                                            <Label text="Handed:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="173.0">
+                                                         <children>
+                                                            <ComboBox fx:id="cmbDominantHand1" prefWidth="188.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutY="96.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="115.0">
+                                                         <children>
+                                                            <Label text="Weight:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="173.0">
+                                                         <children>
+                                                            <StackPane>
+                                                               <children>
+                                                                  <HBox alignment="CENTER_LEFT" spacing="5.0">
+                                                                     <children>
+                                                                        <TextField prefWidth="131.0" />
+                                                                     </children>
+                                                                  </HBox>
+                                                                  <HBox alignment="CENTER_RIGHT">
+                                                                     <children>
+                                                                        <Button mnemonicParsing="false" text="Roll" />
+                                                                     </children>
+                                                                  </HBox>
+                                                               </children>
+                                                            </StackPane>
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutX="20.0" layoutY="148.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="115.0">
+                                                         <children>
+                                                            <Label text="Height:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="173.0">
+                                                         <children>
+                                                            <StackPane>
+                                                               <children>
+                                                                  <HBox alignment="CENTER_LEFT" spacing="5.0">
+                                                                     <children>
+                                                                        <TextField prefWidth="131.0" />
+                                                                     </children>
+                                                                  </HBox>
+                                                                  <HBox alignment="CENTER_RIGHT">
+                                                                     <children>
+                                                                        <Button mnemonicParsing="false" text="Roll" />
+                                                                     </children>
+                                                                  </HBox>
+                                                               </children>
+                                                            </StackPane>
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutY="128.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity">
+                                                         <children>
+                                                            <ScrollPane prefViewportHeight="138.0" prefViewportWidth="280.0">
+                                                               <content>
+                                                                  <TableView fx:id="tblSpokenLanguages" prefHeight="125.0">
+                                                                     <columns>
+                                                                        <TableColumn fx:id="colSpokenLanguages" editable="false" prefWidth="290.5" resizable="false" sortable="false" text="Spoken Languages" />
+                                                                     </columns>
+                                                                  </TableView>
+                                                               </content>
+                                                            </ScrollPane>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutX="20.0" layoutY="212.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity">
+                                                         <children>
+                                                            <ScrollPane prefViewportHeight="138.0" prefViewportWidth="280.0">
+                                                               <content>
+                                                                  <TableView fx:id="tblLiterateLanguages" prefHeight="125.0">
+                                                                     <columns>
+                                                                        <TableColumn fx:id="colLiterateLanguages" editable="false" prefWidth="290.5" resizable="false" sortable="false" text="Literate Languages" />
+                                                                     </columns>
+                                                                  </TableView>
+                                                               </content>
+                                                            </ScrollPane>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                             </children>
+                                          </VBox>
+                                       </content>
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </TitledPane>
+                                 </children>
+                              </VBox>
+                              <VBox layoutX="316.0">
+                                 <children>
+                                    <TitledPane alignment="CENTER" collapsible="false" layoutX="10.0" layoutY="10.0" text="Abilities">
+                                       <content>
+                                          <VBox spacing="5.0">
+                                             <children>
+                                                <HBox layoutY="128.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity">
+                                                         <children>
+                                                            <TableView fx:id="tblAbilities" editable="true" prefHeight="170.0">
+                                                               <columns>
+                                                                  <TableColumn fx:id="colAbilityName" editable="false" prefWidth="150.0" resizable="false" sortable="false" text="Ability" />
+                                                                  <TableColumn fx:id="colAbilityScore" editable="false" prefWidth="75.0" resizable="false" sortable="false" text="Score" />
+                                                                  <TableColumn fx:id="colAbilityModifier" editable="false" prefWidth="75.0" resizable="false" sortable="false" text="Modifier" />
+                                                                  <TableColumn fx:id="colAbilityAdjustableScore" editable="false" prefWidth="75.0" resizable="false" sortable="false" text="Adjustable" />
+                                                                  <TableColumn fx:id="colAbilitySpeciesAdjustment" editable="false" prefWidth="75.0" resizable="false" sortable="false" text="Species" />
+                                                                  <TableColumn fx:id="colAbilityMiscAdjustment" editable="false" prefWidth="75.0" resizable="false" sortable="false" text="Miscellanous" />
+                                                               </columns>
+                                                            </TableView>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <StackPane>
+                                                   <children>
+                                                      <HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="537.0" spacing="5.0">
+                                                         <children>
+                                                            <Label text="Ability Points Used:">
+                                                               <font>
+                                                                  <Font name="System Bold" size="12.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Label text="0" />
+                                                            <Label layoutX="10.0" layoutY="10.0" text="Total Modifiers:">
+                                                               <font>
+                                                                  <Font name="System Bold" size="12.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Label layoutX="126.0" layoutY="10.0" text="0" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="2.5" left="2.5" right="2.5" top="2.5" />
+                                                         </padding>
+                                                      </HBox>
+                                                      <HBox alignment="TOP_RIGHT" layoutX="20.0" layoutY="435.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="537.0" spacing="5.0">
+                                                         <children>
+                                                            <Button mnemonicParsing="false" text="Roll" />
+                                                            <Button mnemonicParsing="false" text="Settings" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="2.5" left="2.5" right="2.5" top="2.5" />
+                                                         </padding>
+                                                      </HBox>
+                                                   </children>
+                                                </StackPane>
+                                             </children>
+                                          </VBox>
+                                       </content>
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </TitledPane>
+                                    <TitledPane alignment="CENTER" collapsible="false" layoutX="10.0" layoutY="10.0" text="Statistics">
+                                       <content>
+                                          <HBox alignment="CENTER" spacing="25.0">
+                                             <children>
+                                                <VBox spacing="2.0">
+                                                   <children>
+                                                      <HBox alignment="CENTER">
+                                                         <children>
+                                                            <Label text="Encounter">
+                                                               <font>
+                                                                  <Font name="System Bold" size="12.0" />
+                                                               </font>
+                                                            </Label>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="10.0" />
+                                                         </padding>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="10.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Hit Points:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutY="17.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Vitality Points:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="54.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Base Attack Bonus:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="88.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Inititive:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="71.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Defense:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="105.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Flatfooted:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="122.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Touch:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="146.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Fortitude Save:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="164.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Reflex Save:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="164.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Will Save:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="200.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Critical Attack:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                   </children>
+                                                </VBox>
+                                                <VBox layoutX="210.0" layoutY="20.0" spacing="2.0">
+                                                   <children>
+                                                      <HBox alignment="CENTER">
+                                                         <children>
+                                                            <Label text="Character">
+                                                               <font>
+                                                                  <Font name="System Bold" size="12.0" />
+                                                               </font>
+                                                            </Label>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="10.0" />
+                                                         </padding>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="10.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Class:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutY="17.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Species:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="54.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Gender:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="88.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Size:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="71.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Age:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="105.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Handed:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="122.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Speed:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="146.0" visible="false">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Fortitude Save:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="164.0" visible="false">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Reflex Save:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="164.0" visible="false">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Will Save:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="200.0" visible="false">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Critical Attack:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                   </children>
+                                                </VBox>
+                                                <VBox layoutX="294.0" layoutY="20.0" spacing="2.0">
+                                                   <children>
+                                                      <HBox alignment="CENTER">
+                                                         <children>
+                                                            <Label text="Encumbrance">
+                                                               <font>
+                                                                  <Font name="System Bold" size="12.0" />
+                                                               </font>
+                                                            </Label>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="10.0" />
+                                                         </padding>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="10.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Load (Light):">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutY="17.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Load (Medium):">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="54.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Load (Heavy):">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="88.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Lift Over Head:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="71.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Lift Off Ground:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="105.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Push or Drag:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="122.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Current Load:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="146.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Armor Check Penalty:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="164.0">
+                                                         <children>
+                                                            <Pane prefWidth="150.0">
+                                                               <children>
+                                                                  <Label text="Maximum Dexterity:">
+                                                                     <font>
+                                                                        <Font name="System Bold" size="12.0" />
+                                                                     </font>
+                                                                  </Label>
+                                                               </children>
+                                                            </Pane>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                   </children>
+                                                </VBox>
+                                             </children>
+                                          </HBox>
+                                       </content>
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </TitledPane>
+                                 </children>
+                              </VBox>
+                              <VBox layoutX="875.0">
+                                 <children>
+                                    <TitledPane alignment="CENTER" collapsible="false" layoutX="10.0" layoutY="10.0" text="Species">
+                                       <content>
+                                          <VBox spacing="5.0">
+                                             <children>
+                                                <HBox layoutY="64.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="100.0">
+                                                         <children>
+                                                            <Label text="Race:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="188.0">
+                                                         <children>
+                                                            <ComboBox prefWidth="188.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutY="96.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="100.0">
+                                                         <children>
+                                                            <StackPane>
+                                                               <children>
+                                                                  <HBox>
+                                                                     <children>
+                                                                        <Label text="Age:" />
+                                                                     </children>
+                                                                     <padding>
+                                                                        <Insets top="2.5" />
+                                                                     </padding>
+                                                                  </HBox>
+                                                                  <HBox alignment="TOP_RIGHT">
+                                                                     <children>
+                                                                        <TextField prefWidth="50.0" />
+                                                                     </children>
+                                                                  </HBox>
+                                                               </children>
+                                                            </StackPane>
+                                                         </children>
+                                                         <padding>
+                                                            <Insets left="5.0" right="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="188.0">
+                                                         <children>
+                                                            <ComboBox prefWidth="188.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox>
+                                                   <children>
+                                                      <VBox>
+                                                         <children>
+                                                            <Button mnemonicParsing="false" prefWidth="288.0" text="Roll Age" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                             </children>
+                                          </VBox>
+                                       </content>
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </TitledPane>
+                                    <TitledPane alignment="CENTER" collapsible="false" layoutX="10.0" layoutY="10.0" text="Class &amp; Level">
+                                       <content>
+                                          <VBox spacing="5.0">
+                                             <children>
+                                                <HBox layoutY="64.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="100.0">
+                                                         <children>
+                                                            <Label text="Class:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="188.0">
+                                                         <children>
+                                                            <ComboBox prefWidth="188.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="288.0" spacing="75.0">
+                                                   <children>
+                                                      <Button mnemonicParsing="false" text="Add" />
+                                                      <Button mnemonicParsing="false" text="Remove" />
+                                                   </children>
+                                                </HBox>
+                                                <HBox prefWidth="288.0">
+                                                   <children>
+                                                      <ScrollPane fitToHeight="true" fitToWidth="true" prefViewportHeight="200.0" prefViewportWidth="288.0">
+                                                         <content>
+                                                            <TableView>
+                                                               <columns>
+                                                                  <TableColumn editable="false" prefWidth="37.5" resizable="false" sortable="false" text="Level" />
+                                                                  <TableColumn editable="false" prefWidth="37.5" resizable="false" sortable="false" text="VP" />
+                                                                  <TableColumn editable="false" prefWidth="211.0" resizable="false" sortable="false" text="Class" />
+                                                               </columns>
+                                                            </TableView>
+                                                         </content>
+                                                      </ScrollPane>
+                                                   </children>
+                                                </HBox>
+                                                <StackPane>
+                                                   <children>
+                                                      <HBox layoutX="20.0" layoutY="20.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="288.0" spacing="5.0">
+                                                         <children>
+                                                            <Label text="Total Vitality Points:">
+                                                               <font>
+                                                                  <Font name="System Bold" size="12.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Label text="0" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox alignment="TOP_RIGHT" layoutX="20.0" layoutY="289.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="288.0" spacing="5.0">
+                                                         <children>
+                                                            <Button mnemonicParsing="false" text="Edit" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets right="45.0" />
+                                                         </padding>
+                                                         <VBox.margin>
+                                                            <Insets />
+                                                         </VBox.margin>
+                                                      </HBox>
+                                                   </children>
+                                                </StackPane>
+                                                <HBox layoutX="20.0" layoutY="20.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="100.0">
+                                                         <children>
+                                                            <Label text="Current XP:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="188.0">
+                                                         <children>
+                                                            <TextField />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox layoutX="20.0" layoutY="319.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+                                                   <children>
+                                                      <VBox minWidth="-Infinity" prefWidth="100.0">
+                                                         <children>
+                                                            <Label text="Next Level:" />
+                                                         </children>
+                                                         <padding>
+                                                            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                                         </padding>
+                                                      </VBox>
+                                                      <VBox prefWidth="188.0">
+                                                         <children>
+                                                            <TextField editable="false" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                             </children>
+                                          </VBox>
+                                       </content>
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </TitledPane>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Description">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <SplitPane dividerPositions="0.25" prefHeight="545.0" prefWidth="1183.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <items>
+                              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                 <children>
+                                    <ListView prefHeight="542.0" prefWidth="292.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                                 </children>
+                              </AnchorPane>
+                              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" />
+                           </items>
+                        </SplitPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Species">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <SplitPane dividerPositions="0.25" layoutX="140.0" layoutY="86.0" prefHeight="544.0" prefWidth="1183.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                          <items>
+                            <AnchorPane minHeight="0.0" minWidth="0.0">
+                                 <children>
+                                    <VBox spacing="5.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                       <children>
+                                          <HBox AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                             <children>
+                                                <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="512.5" prefViewportHeight="515.0" prefViewportWidth="200.0" prefWidth="349.0">
+                                                   <content>
+                                                      <TableView prefHeight="400.0" prefWidth="348.0">
+                                                        <columns>
+                                                           <TableColumn editable="false" prefWidth="150.0" sortable="false" text="Name" />
+                                                           <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Size" />
+                                                           <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Speed" />
+                                                        </columns>
+                                                      </TableView>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </HBox>
+                                          <HBox alignment="CENTER_RIGHT" layoutX="10.0" layoutY="10.0" prefWidth="349.0">
+                                             <children>
+                                                <Button mnemonicParsing="false" text="Select Species" />
+                                             </children>
+                                             <padding>
+                                                <Insets bottom="5.0" left="5.0" right="5.0" />
+                                             </padding>
+                                          </HBox>
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </AnchorPane>
+                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                 <children>
+                                    <VBox prefHeight="544.0" prefWidth="883.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                       <children>
+                                          <HBox alignment="CENTER_LEFT" spacing="5.0">
+                                             <children>
+                                                <Label text="Selected Species:" />
+                                                <TextField editable="false" prefWidth="775.0" text="&lt;None Selected&gt;" />
+                                             </children>
+                                             <padding>
+                                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                             </padding>
+                                          </HBox>
+                                          <HBox prefHeight="530.0" prefWidth="883.0">
+                                             <children>
+                                                <TitledPane collapsible="false" text="Species Information">
+                                                   <content>
+                                                      <ScrollPane fitToHeight="true" fitToWidth="true" prefViewportHeight="499.0" prefViewportWidth="870.0">
+                                                         <content>
+                                                            <TextArea />
+                                                         </content>
+                                                      </ScrollPane>
+                                                   </content>
+                                                   <font>
+                                                      <Font name="System Bold" size="12.0" />
+                                                   </font>
+                                                </TitledPane>
+                                             </children>
+                                             <padding>
+                                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                             </padding>
+                                          </HBox>
+                                       </children>
+                                    </VBox>
+                                 </children></AnchorPane>
+                          </items>
+                        </SplitPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Class">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <SplitPane dividerPositions="0.25" prefHeight="544.0" prefWidth="1183.0">
+                           <items>
+                              <AnchorPane minHeight="0.0" minWidth="0.0">
+                                 <children>
+                                    <VBox spacing="5.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                       <children>
+                                          <HBox AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                             <children>
+                                                <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="512.5" prefViewportHeight="515.0" prefViewportWidth="200.0" prefWidth="349.0">
+                                                   <content>
+                                                      <TableView prefHeight="400.0" prefWidth="348.0">
+                                                         <columns>
+                                                            <TableColumn editable="false" prefWidth="212.5" sortable="false" text="Name" />
+                                                            <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Type" />
+                                                         </columns>
+                                                      </TableView>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </HBox>
+                                          <HBox alignment="CENTER_RIGHT" layoutX="10.0" layoutY="10.0" prefWidth="349.0" spacing="5.0">
+                                             <children>
+                                                <Spinner prefHeight="25.0" prefWidth="75.0" />
+                                                <Button mnemonicParsing="false" text="Add Level(s)" />
+                                             </children>
+                                          </HBox>
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </AnchorPane>
+                              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                 <children>
+                                    <VBox prefHeight="544.0" prefWidth="883.0" spacing="5.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                       <children>
+                                          <HBox>
+                                             <children>
+                                                <ScrollPane fitToHeight="true" fitToWidth="true" prefViewportHeight="300.0" prefViewportWidth="880.0">
+                                                   <content>
+                                                      <TableView prefHeight="300.0" prefWidth="880.0">
+                                                        <columns>
+                                                          <TableColumn editable="false" prefWidth="50.0" resizable="false" sortable="false" text="Level" />
+                                                          <TableColumn editable="false" prefWidth="300.0" resizable="false" sortable="false" text="Class" />
+                                                            <TableColumn editable="false" prefWidth="150.0" resizable="false" sortable="false" text="Type" />
+                                                            <TableColumn editable="false" prefWidth="300.0" resizable="false" sortable="false" text="Source" />
+                                                        </columns>
+                                                      </TableView>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </HBox>
+                                          <HBox>
+                                             <children>
+                                                <Button mnemonicParsing="false" text="Remove Level" />
+                                             </children>
+                                          </HBox>
+                                          <HBox>
+                                             <children>
+                                                <TitledPane collapsible="false" text="Class Information">
+                                                   <content>
+                                                      <ScrollPane prefViewportHeight="190.0" prefViewportWidth="880.0">
+                                                         <content>
+                                                            <TextArea editable="false" prefHeight="200.0" prefWidth="880.0" wrapText="true" />
+                                                         </content>
+                                                      </ScrollPane>
+                                                   </content>
+                                                   <font>
+                                                      <Font name="System Bold" size="12.0" />
+                                                   </font>
+                                                </TitledPane>
+                                             </children>
+                                          </HBox>
+                                       </children></VBox>
+                                 </children>
+                              </AnchorPane>
+                           </items>
+                        </SplitPane>
+                     </children></AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Skills">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+               </content>
+            </Tab>
+            <Tab text="Feats">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+               </content>
+            </Tab>
+            <Tab text="Equipment">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+               </content>
+            </Tab>
+         </tabs>
+      </TabPane>
+   </center>
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" text="New" />
+                  <MenuItem mnemonicParsing="false" text="New Game" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" text="Open" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" text="Save" />
+                  <MenuItem mnemonicParsing="false" text="Save As..." />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" text="Close" />
+                  <MenuItem mnemonicParsing="false" text="Exit" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit" />
+            <Menu mnemonicParsing="false" text="Sources">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Select Source Books" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Tools">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Preferences" />
+               </items>
+            </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Documentation" />
+                  <MenuItem mnemonicParsing="false" text="Display License" />
+                  <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>
