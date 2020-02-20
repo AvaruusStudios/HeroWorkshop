@@ -1490,31 +1490,22 @@
 			"reputationbonus": 1
 		},
 		"8": {
-			"name": "",
-			"description": "",
-			"exploits": "",
-			"characteristics": "",
-			"background": "",
-			"abilities": [
-				{
-					"strength": 0,
-					"dexterity": 0,
-					"constitution": 0,
-					"intelligence": 0,
-					"wisdom": 0,
-					"charisma": 0
-				}
-			],
-			"baseattackbonus": "",
+			"name": "Jedi Guardian",
+			"description": "Force-users trained in the Jedi tradition, Jedi guardians combine physical training with mastery of the Force. Jedi guardians concentrate on battle prowess, defense, lightsaber training, and physical activities. If Jedi consulars are the ambassadors of the Jedi Order, guardians are the defenders, protecting the Republic from all dangers. Few are strong enough in the Force and have devotion to walk the Jedi's path, but those few are awarded with a powerful ally. They walk in a larger world than those who neither feel nor heed the Force.",
+			"exploits": "All Jedi guardians journey in to the galaxy at large to further their own knwoledge and to help those in need. They take their responsibility seriously, considering even mundane missions to be personal tests. Most Jedi guardians follow the light side, but some become dark-siders and use the Force for evil and selfish intent. Those imbued with the light side refrain from using the Force for every task, prefering to find other solutions and save the Force for when it is truly needed. Those who succumb to the dark side use every advantage at their disposal, wielding the Force to solve problems as a soldier would use a blaster to destroy a stingfly.",
+			"characteristics": "The Jedi guardians strength flows from the Force, granting them special powers. This character often masters the ability to feel the living Force in the world within them, as typified by the Control feat. Constitution and Strength are the most important abilities for the Jedi guardian, followed by Intelligence.",
+			"background": "A Jedi guardian typically starts out as a Padawan learner attached to a higher-ranking Jedi Master. (Prior to 1st level, the character trained as a student with the Jedi council, He begins his heroic career at 1st level when he is selected as a Padawan learner.) The Jedi guardian has a genuine love of scholarly pursuits and diplomatic endeavors. Some guardians want to teach, others want to learn. A Jedi guardian has a deep connection to his mentor and the Jedi Order but often operates with only tangential contact with either master or order.",
+			"abilities": "A Jedi guardian should be gifted in all abilities, but Constitution and Strength are most useful. Dexterity is also useful. Wisdom and Intelligence are the backbone of many important Force skills.",
+			"baseattackbonus": 1,
 			"saving_throws": [
 				{
-					"fortitudesave": "",
-					"reflexsave": "",
-					"willsave": ""
+					"fortitudesave": 2,
+					"reflexsave": 2,
+					"willsave": 1
 				}
 			],
-			"defensebonus": "",
-			"reputationbonus": ""
+			"defensebonus": 3,
+			"reputationbonus": 1
 		}
 	},
 	"skills": {
