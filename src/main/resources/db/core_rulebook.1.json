@@ -1353,7 +1353,7 @@
 			"background": "Fringers come to their profession by seeking a better life, searching for excitement, excaping the situation on their planet of origin, or avenging an imagined wrong done by the Republic, Empire, Imperial Remnant, New Republic, or some other power groupd (depending on the era of play). Some see wealth and power, others adventure. Others still are motivated by revenge. They may be lured from their home world by the promise of riches. They may be escaping from slavery or servitude. They could be recruited to a cause they believe is worth following, or driven from their home by invaders. They usually think of themselves not as fringers but as whatever career they aspire to, such as spacer, mechanic, pilot, or colonist.",
 			"abilities": "Dexterity, Wisdom, and Strength are the most important ability scores for the fringer class.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 2,
 					"reflexsave": 1,
@@ -1361,7 +1361,9 @@
 				}
 			],
 			"defensebonus": 3,
-			"reputationbonus": 0
+			"reputationbonus": 0,
+			"vitalitydice": 8,
+			"skillpoints": 6
 		},
 		"1": {
 			"name": "Noble",
@@ -1371,7 +1373,7 @@
 			"background": "Nobles come to thier profession in a variety of ways. Altruistic nobles believe it is their duty and responsibility to serve and lead. More selfish nobles seek the fame, wealth, and power often associated with the positions they aspire to. Power-hungery nobles take advantage of the system and wind up helping others only to help themselves. The halls of power are calling. How the noble answers can make all the difference.",
 			"abilities": "Charisma is undoubtedly a noble's most important ability score, as the noble's skill at interacting with others and projecting a sense of confidence are crucial for his or her success. Wisdom and Intelligence form the basis of other important skills, so these ability scores are also significant.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 0,
 					"reflexsave": 1,
@@ -1379,7 +1381,9 @@
 				}
 			],
 			"defensebonus": 2,
-			"reputationbonus": 1
+			"reputationbonus": 1,
+			"vitalitydice": 6,
+			"skillpoints": 6
 		},
 		"2": {
 			"name": "Scoundrel",
@@ -1389,7 +1393,7 @@
 			"background": "Scoundrels don't often start out by seeking to defy authority and break the law. Some are thrust into the profession as a means of rebellion. Others wind up on the wrong side of the law due to bad luck, poor decisions, or circumstance beyond their control. The skills they pick up along the wany make them great members of any mission team.",
 			"abilities": "Dexterity and Intelligence are a scoundrels most important ability scores, because he must have quick reflexes and a sharp wit to survive. Charisma is important for talking one's way out of trouble, and Wisdom is useful for spoting trouble before it finds the scoundrel.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 0,
 					"reflexsave": 2,
@@ -1397,7 +1401,9 @@
 				}
 			],
 			"defensebonus": 2,
-			"reputationbonus": 0
+			"reputationbonus": 0,
+			"vitalitydice": 6,
+			"skillpoints": 8
 		},
 		"3": {
 			"name": "Scout",
@@ -1407,7 +1413,7 @@
 			"background": "Scouts come to their profession in search of something, usually knowledge or secrets or the answers to the mysteries of the ages. Scholars, while possibly associated with an institute of learning or a particular government, often forsake the halls of academe for the prune research of working in the field. Pathfinders and explorers may work for a government or military institution, or they may take on freelance contracts from anyone willing to pay for their services. Many scouts develop into bounty hunters, especially those who combine military skills with their tracking and searching abilities. Every group of adventurers benefits from having a scout in the party.",
 			"abilities": "Most of the scout's key skill rely on Dexterity, Intelligence, and Wisdom. Strength is also useful for the scout who uses athletic skills.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 1,
 					"reflexsave": 1,
@@ -1415,7 +1421,9 @@
 				}
 			],
 			"defensebonus": 2,
-			"reputationbonus": 0
+			"reputationbonus": 0,
+			"vitalitydice": 8,
+			"skillpoints": 6
 		},
 		"4": {
 			"name": "Soldier",
@@ -1425,7 +1433,7 @@
 			"background": "Most soldiers come to the profession after receiving at least some amount of formal training from a military organization, local militia, or private army. Some attend formal academies; others are self-taught and well tested. A soldier may have taken up his weapon to escape a mundance life. Another may be following a proud family tradition. Soldiers in a particular unit share a certain camaraderie, but most have nothing in common except battle prowess and the desire to apply it to a given situation.",
 			"abilities": "Since mos comabt in the Star Wars universe uses blasters and other ranged weapons, Dexterity is the soldier's most important ability score, followed closely by Constitution and Strength. Don't underestimate the importance of Intelligence and Wisdom, however, since many of a soldier's useful skill are based on these abilities.",
 			"baseattackbonus": 1,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 2,
 					"reflexsave": 0,
@@ -1433,7 +1441,9 @@
 				}
 			],
 			"defensebonus": 3,
-			"reputationbonus": 0
+			"reputationbonus": 0,
+			"vitalitydice": 10,
+			"skillpoints": 4
 		},
 		"5": {
 			"name": "Tech Specialist",
@@ -1443,7 +1453,7 @@
 			"background": "Most tech specialist start out in decidedly unheroic careers. They train to reach the top of their chose field, eventually offering their services to an adventuring party. Unlike most of the other heroic classes, the average tech specialist can't wait to get back to his workshop or laboratory. He does what is necessary while it is necessary, but the call of research and development make the tech specialist long to return to his primary profession.",
 			"abilities": "Intelligence, by far, is the most important ability for a tech specialist. Wisdom and Dexterity serve the tech specialist well, providing the ability to better perceive the world around him and to interact with it at an advanced level.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 0,
 					"reflexsave": 1,
@@ -1451,7 +1461,9 @@
 				}
 			],
 			"defensebonus": 2,
-			"reputationbonus": 0
+			"reputationbonus": 0,
+			"vitalitydice": 6,
+			"skillpoints": 4
 		},
 		"6": {
 			"name": "Force Adept",
@@ -1461,7 +1473,7 @@
 			"background": "Force adepts discover a power inside themselves that they don't fully understand. Much of their training is haphazard, since few traditions exist to help them achieve mastery. Some come from primitive cultures where they were looked upon as godlike or holy by the people they served. Others just follow a different path from the Jedi - it isn't better or worse, it's just a different tradition. Force adepts have grown accustomed to being either revered or hated, depending on when and where their Force powers came to prominence. Otheres have learned to keep their powers secret, both because they do not fully understand their powers and because they are afraid of how others treat them.",
 			"abilities": "The Force adept's most important ability scores are Intelligence and Wisdom, since these control her most important Force skills (those of the Alter and Sense feats), as well as many other class skills. Charisma can also be significant for a variety of interpersonal skill.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 1,
 					"reflexsave": 1,
@@ -1469,7 +1481,9 @@
 				}
 			],
 			"defensebonus": 3,
-			"reputationbonus": 0
+			"reputationbonus": 0,
+			"vitalitydice": 8,
+			"skillpoints": 6
 		},
 		"7": {
 			"name": "Jedi Consular",
@@ -1479,7 +1493,7 @@
 			"background": "A Jedi consular typically starts out as a Padawan learner attached to a higher-ranking Jedi Master. (Prior to 1st level, the character trained as a student with the Jedi council, He begins his heroic career at 1st level when he is selected as a Padawan learner.) The Jedi consular has a genuine love of scholarly pursuits and diplomatic endeavors. Some consulars want to teach, others want to learn. A Jedi consular has a deep connection to his mentor and the Jedi Order but often operates with only tangential contact with either master or order.",
 			"abilities": "A Jedi consular should be gifted in all abilities, but Wisdom, Charisma, and Intelligence are the most important. Those who expect to fall back on their combat prowess should also have high Strength and Constitution scores.",
 			"baseattackbonus": 0,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 2,
 					"reflexsave": 1,
@@ -1487,7 +1501,9 @@
 				}
 			],
 			"defensebonus": 3,
-			"reputationbonus": 1
+			"reputationbonus": 1,
+			"vitalitydice": 8,
+			"skillpoints": 6
 		},
 		"8": {
 			"name": "Jedi Guardian",
@@ -1497,7 +1513,7 @@
 			"background": "A Jedi guardian typically starts out as a Padawan learner attached to a higher-ranking Jedi Master. (Prior to 1st level, the character trained as a student with the Jedi council, He begins his heroic career at 1st level when he is selected as a Padawan learner.) The Jedi guardian has a genuine love of scholarly pursuits and diplomatic endeavors. Some guardians want to teach, others want to learn. A Jedi guardian has a deep connection to his mentor and the Jedi Order but often operates with only tangential contact with either master or order.",
 			"abilities": "A Jedi guardian should be gifted in all abilities, but Constitution and Strength are most useful. Dexterity is also useful. Wisdom and Intelligence are the backbone of many important Force skills.",
 			"baseattackbonus": 1,
-			"saving_throws": [
+			"savingthrows": [
 				{
 					"fortitudesave": 2,
 					"reflexsave": 2,
@@ -1505,7 +1521,9 @@
 				}
 			],
 			"defensebonus": 3,
-			"reputationbonus": 1
+			"reputationbonus": 1,
+			"vitalitydice": 10,
+			"skillpoints": 4
 		}
 	},
 	"skills": {
