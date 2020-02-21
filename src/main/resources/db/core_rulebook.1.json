@@ -1548,7 +1548,7 @@
 			],
 			"armor_check_penalty": false,
 			"description": "You can use the Force to alter a target's perceptions or make a telepathic suggestion in another character's mind.",
-			"check": "The result of an Affect Mind check sets the DC for the target's Will save. (Note that this skill works best on weak-willed characters. Those with good Will save bonuses are harder to fool with \"Jedi mind tricks.\"\\n Declare ",
+			"check": "The result of an Affect Mind check sets the DC for the target's Will save. (Note that this skill works best on weak-willed characters. Those with good Will save bonuses are harder to fool with \"Jedi mind tricks.\"\\n Declare whether you are attempting to alter perceptions or make a suggestion when you make your Affect Mind check. If the target's saving throw fails, you can do one of the following things.",
 			"retry": "",
 			"special": "",
 			"time": "",
