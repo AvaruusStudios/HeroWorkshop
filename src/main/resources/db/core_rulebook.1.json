@@ -76,7 +76,7 @@
 					"charisma": 0
 				}
 			],
-			"size": "Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.",
+			"size": "Medium",
 			"speed": 10
 		},
 		"1": {
