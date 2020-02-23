@@ -38,8 +38,14 @@
                                                 <Spinner prefHeight="25.0" prefWidth="75.0" />
                                                 <Button mnemonicParsing="false" text="Add Level(s)" />
                                             </children>
+                                            <opaqueInsets>
+                                                <Insets bottom="10.0" />
+                                            </opaqueInsets>
                                         </HBox>
                                     </children>
+                                    <opaqueInsets>
+                                        <Insets bottom="10.0" />
+                                    </opaqueInsets>
                                 </VBox>
                             </children>
                         </AnchorPane>

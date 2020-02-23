@@ -13,7 +13,7 @@ package com.avaruus.hero;
  */
 import javafx.beans.property.*;
 
-public class AbilityModel {
+public class AbilitiesTableModel {
     private final SimpleStringProperty AbilityName;
     private SimpleIntegerProperty AbilityScore;
     private SimpleIntegerProperty AbilityModifier;
@@ -21,7 +21,7 @@ public class AbilityModel {
     private SimpleIntegerProperty AbilitySpeciesAdjustment;
     private SimpleIntegerProperty AbilityMiscAdjustment;
 
-    public AbilityModel(String AbilityName, Integer AbilityScore, Integer AbilityModifier, Integer AbilityAdjustableScore, Integer AbilitySpeciesAdjustment, Integer AbilityMiscAdjustment) {
+    public AbilitiesTableModel(String AbilityName, Integer AbilityScore, Integer AbilityModifier, Integer AbilityAdjustableScore, Integer AbilitySpeciesAdjustment, Integer AbilityMiscAdjustment) {
         this.AbilityName = new SimpleStringProperty(AbilityName);
         this.AbilityScore = new SimpleIntegerProperty(AbilityScore);
         this.AbilityModifier = new SimpleIntegerProperty(AbilityModifier);
@@ -38,7 +38,7 @@ public class AbilityModel {
 //        this.AbilityName = new SimpleStringProperty(AbilityName);
 //    }
     
-    public int getAbilityScore() {
+    public Integer getAbilityScore() {
         return AbilityScore.get();
     }
     
@@ -46,7 +46,7 @@ public class AbilityModel {
         this.AbilityScore = new SimpleIntegerProperty(AbilityScore);
     }
     
-    public int getAbilityModifier() {
+    public Integer getAbilityModifier() {
         return AbilityModifier.get();
     }
     
@@ -54,7 +54,7 @@ public class AbilityModel {
         this.AbilityModifier = new SimpleIntegerProperty(AbilityModifier);
     }
     
-    public int getAbilityAdjustableScore() {
+    public Integer getAbilityAdjustableScore() {
         return AbilityAdjustableScore.get();
     }
     
@@ -62,7 +62,7 @@ public class AbilityModel {
         this.AbilityAdjustableScore = new SimpleIntegerProperty(AbilityAdjustableScore);
     }
     
-    public int getAbilitySpeciesAdjustment() {
+    public Integer getAbilitySpeciesAdjustment() {
         return AbilitySpeciesAdjustment.get();
     }
     
@@ -70,7 +70,7 @@ public class AbilityModel {
         this.AbilitySpeciesAdjustment = new SimpleIntegerProperty(AbilitySpeciesAdjustment);
     }
     
-    public int getAbilityMiscAdjustment() {
+    public Integer getAbilityMiscAdjustment() {
         return AbilityMiscAdjustment.get();
     }
     

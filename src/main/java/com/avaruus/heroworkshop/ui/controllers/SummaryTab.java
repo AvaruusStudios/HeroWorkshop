@@ -9,9 +9,8 @@ import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
-import com.avaruus.hero.AbilityModel;
+import com.avaruus.hero.AbilitiesTableModel;
 import com.avaruus.hero.SingleStringColumn;
-import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonMappingException;
@@ -19,15 +18,13 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
-
 import javafx.collections.ListChangeListener;
-
 
 /*
     SummaryTab is the code-behind file for src/main/resources/fxml/tabs/summary.fxml
  */
+
 @Controller
 public class SummaryTab {
     // autowire a reference to the label in the Summary tab by its fx:id
@@ -35,14 +32,13 @@ public class SummaryTab {
     @FXML private ComboBox<String> cmbGender;
     @FXML private ComboBox<String> cmbDominantHand;
     @FXML private ComboBox<String> cmbSpecies;
-    @FXML private TableView<AbilityModel> tblAbilities;
-    @FXML private TableColumn<AbilityModel, String> colAbilityName;
-    @FXML private TableColumn<AbilityModel, Integer> colAbilityScore;
-    @FXML private TableColumn<AbilityModel, Integer> colAbilityModifier;
-    @FXML private TableColumn<AbilityModel, Integer> colAbilityAdjustableScore;
-    @FXML private TableColumn<AbilityModel, Integer> colAbilitySpeciesAdjustment;
-    @FXML private TableColumn<AbilityModel, Integer> colAbilityMiscAdjustment;
-
+    @FXML private TableView<AbilitiesTableModel> tblAbilities;
+    @FXML private TableColumn<AbilitiesTableModel, String> colAbilityName;
+    @FXML private TableColumn<AbilitiesTableModel, Integer> colAbilityScore;
+    @FXML private TableColumn<AbilitiesTableModel, Integer> colAbilityModifier;
+    @FXML private TableColumn<AbilitiesTableModel, Integer> colAbilityAdjustableScore;
+    @FXML private TableColumn<AbilitiesTableModel, Integer> colAbilitySpeciesAdjustment;
+    @FXML private TableColumn<AbilitiesTableModel, Integer> colAbilityMiscAdjustment;
     @FXML private TableView<SingleStringColumn> tblLanguages;
     @FXML private TableColumn<SingleStringColumn, String> colLang;
     
@@ -61,13 +57,9 @@ public class SummaryTab {
 		File coreRulebook = new File("src/main/resources/db/core_rulebook.json");
 		
 		SpeciesCommunity sc = objectMapper.readValue(coreRulebook, SpeciesCommunity.class);
-		
-		
-		
+
 		knownLangsList = new HashMap<String, ObservableList<SingleStringColumn>>();
-		
-		
-		
+
 		for (SpeciesModel species : sc.getSpecies()) {
 //			System.out.println(species.getName());
 			ObservableList<SingleStringColumn> list = FXCollections.observableArrayList();
@@ -77,10 +69,7 @@ public class SummaryTab {
 			knownLangsList.put(species.getName(), list);
 			//System.out.println(species.getKnownLanguages());
 		}
-		
-				
-		
-		
+
 		cmbSpecies.setItems(JsonConnection.getInstance().getSpeciesList());
 		cmbSpecies.getSelectionModel().selectedItemProperty().addListener((options, oldValue, newValue) -> {
 			for (SpeciesModel species : sc.getSpecies()) {
@@ -127,12 +116,12 @@ public class SummaryTab {
     }
     
 	// creates an ObservableList of the character abilities
-    private ObservableList<AbilityModel> AbilitiesList = FXCollections.observableArrayList(
-        new AbilityModel("Strength", 0, 0, 0, 0, 0),
-        new AbilityModel("Dexterity", 0, 0, 0, 0, 0),
-        new AbilityModel("Constitution", 0, 0, 0, 0, 0),
-        new AbilityModel("Intelligence", 0, 0, 0, 0, 0),
-        new AbilityModel("Wisdom", 0, 0, 0, 0, 0),
-        new AbilityModel("Charisma", 0, 0, 0, 0, 0)
+    private ObservableList<AbilitiesTableModel> AbilitiesList = FXCollections.observableArrayList(
+        new AbilitiesTableModel("Strength", 0, 0, 0, 0, 0),
+        new AbilitiesTableModel("Dexterity", 0, 0, 0, 0, 0),
+        new AbilitiesTableModel("Constitution", 0, 0, 0, 0, 0),
+        new AbilitiesTableModel("Intelligence", 0, 0, 0, 0, 0),
+        new AbilitiesTableModel("Wisdom", 0, 0, 0, 0, 0),
+        new AbilitiesTableModel("Charisma", 0, 0, 0, 0, 0)
     );
 }

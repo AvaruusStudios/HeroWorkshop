@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<BorderPane prefHeight="600.0" prefWidth="1183.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+<BorderPane prefHeight="600.0" prefWidth="1183.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
    <center>
       <TabPane prefHeight="576.0" prefWidth="1183.0" BorderPane.alignment="CENTER">
          <tabs>
-            <Tab text="Summary">
+            <Tab closable="false" text="Summary">
                <content>
                   <AnchorPane>
                      <children>
@@ -948,7 +947,7 @@
                   </AnchorPane>
                </content>
             </Tab>
-            <Tab text="Description">
+            <Tab closable="false" text="Description">
                <content>
                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                      <children>
@@ -966,7 +965,7 @@
                   </AnchorPane>
                </content>
             </Tab>
-            <Tab text="Species">
+            <Tab closable="false" text="Species">
                <content>
                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                      <children>
@@ -980,9 +979,9 @@
                                              <children>
                                                 <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="512.5" prefViewportHeight="515.0" prefViewportWidth="200.0" prefWidth="349.0">
                                                    <content>
-                                                      <TableView prefHeight="400.0" prefWidth="348.0">
+                                                      <TableView fx:id="tblSpecies" prefHeight="400.0" prefWidth="348.0">
                                                         <columns>
-                                                           <TableColumn editable="false" prefWidth="150.0" sortable="false" text="Name" />
+                                                           <TableColumn fx:id="colSpeciesName" editable="false" prefWidth="150.0" sortable="false" text="Name" />
                                                            <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Size" />
                                                            <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Speed" />
                                                         </columns>
@@ -993,7 +992,7 @@
                                           </HBox>
                                           <HBox alignment="CENTER_RIGHT" layoutX="10.0" layoutY="10.0" prefWidth="349.0">
                                              <children>
-                                                <Button mnemonicParsing="false" text="Select Species" />
+                                                <Button fx:id="btnSelectSpecies" mnemonicParsing="false" text="Select Species" />
                                              </children>
                                              <padding>
                                                 <Insets bottom="5.0" left="5.0" right="5.0" />
@@ -1010,7 +1009,7 @@
                                           <HBox alignment="CENTER_LEFT" spacing="5.0">
                                              <children>
                                                 <Label text="Selected Species:" />
-                                                <TextField editable="false" prefWidth="775.0" text="&lt;None Selected&gt;" />
+                                                <TextField fx:id="txtSelectedSpecies" editable="false" prefWidth="775.0" text="&lt;None Selected&gt;" />
                                              </children>
                                              <padding>
                                                 <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
@@ -1044,7 +1043,7 @@
                   </AnchorPane>
                </content>
             </Tab>
-            <Tab text="Class">
+            <Tab closable="false" text="Class">
                <content>
                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                      <children>
@@ -1073,8 +1072,14 @@
                                                 <Spinner prefHeight="25.0" prefWidth="75.0" />
                                                 <Button mnemonicParsing="false" text="Add Level(s)" />
                                              </children>
+                                             <opaqueInsets>
+                                                <Insets bottom="10.0" />
+                                             </opaqueInsets>
                                           </HBox>
                                        </children>
+                                       <opaqueInsets>
+                                          <Insets bottom="10.0" />
+                                       </opaqueInsets>
                                     </VBox>
                                  </children>
                               </AnchorPane>
@@ -1127,17 +1132,17 @@
                      </children></AnchorPane>
                </content>
             </Tab>
-            <Tab text="Skills">
+            <Tab closable="false" text="Skills">
                <content>
                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
                </content>
             </Tab>
-            <Tab text="Feats">
+            <Tab closable="false" text="Feats">
                <content>
                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
                </content>
             </Tab>
-            <Tab text="Equipment">
+            <Tab closable="false" text="Equipment">
                <content>
                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
                </content>

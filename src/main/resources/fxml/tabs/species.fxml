@@ -3,7 +3,7 @@
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.text.*?>
 
-<Tab text="Species" closable="false">
+<Tab xmlns:fx="http://javafx.com/fxml" fx:controller="com.avaruus.heroworkshop.ui.controllers.SpeciesTab" text="Species" closable="false">
     <!--<HBox>
         <padding>
             <Insets left="10" right="10" top="10" bottom="10"/>
@@ -23,9 +23,9 @@
                                             <children>
                                                 <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="512.5" prefViewportHeight="515.0" prefViewportWidth="200.0" prefWidth="349.0">
                                                     <content>
-                                                        <TableView prefHeight="400.0" prefWidth="348.0">
+                                                        <TableView fx:id="tblSpecies" prefHeight="400.0" prefWidth="348.0">
                                                             <columns>
-                                                                <TableColumn editable="false" prefWidth="150.0" sortable="false" text="Name" />
+                                                                <TableColumn fx:id="colSpeciesName" editable="false" prefWidth="150.0" sortable="false" text="Name" />
                                                                 <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Size" />
                                                                 <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Speed" />
                                                             </columns>
@@ -36,7 +36,7 @@
                                         </HBox>
                                         <HBox alignment="CENTER_RIGHT" layoutX="10.0" layoutY="10.0" prefWidth="349.0">
                                             <children>
-                                                <Button mnemonicParsing="false" text="Select Species" />
+                                                <Button fx:id="btnSelectSpecies" mnemonicParsing="false" text="Select Species" />
                                             </children>
                                             <padding>
                                                 <Insets bottom="5.0" left="5.0" right="5.0" />
@@ -53,7 +53,7 @@
                                         <HBox alignment="CENTER_LEFT" spacing="5.0">
                                             <children>
                                                 <Label text="Selected Species:" />
-                                                <TextField editable="false" prefWidth="775.0" text="&lt;None Selected&gt;" />
+                                                <TextField fx:id="txtSelectedSpecies" editable="false" prefWidth="775.0" text="&lt;None Selected&gt;" />
                                             </children>
                                             <padding>
                                                 <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
