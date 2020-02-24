@@ -89,7 +89,7 @@ public class SummaryTab {
             "Right", "Left")
         );
         
-        // displays the abilites data
+        // displays the abilities data
         colAbilityName.setCellValueFactory(new PropertyValueFactory<>("AbilityName"));
         colAbilityScore.setCellValueFactory(new PropertyValueFactory<>("AbilityScore"));
         colAbilityModifier.setCellValueFactory(new PropertyValueFactory<>("AbilityModifier"));

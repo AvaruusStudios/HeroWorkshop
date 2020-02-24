@@ -42,7 +42,7 @@
 					"wisdom": 0,
 					"charisma": 0
 				}],
-			"size": "Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.",
+			"size": "Medium",
 			"speed": 0
 		},
 		{
@@ -88,7 +88,7 @@
 					"wisdom": 0,
 					"charisma": 0
 				}],
-			"size": "Medium: As Medium-size creatures, Bothans have no special bonuses or penalties due to their size.",
+			"size": "Medium",
 			"speed": 0
 		},
 		{

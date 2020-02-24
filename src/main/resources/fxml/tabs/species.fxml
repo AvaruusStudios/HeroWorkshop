@@ -23,11 +23,11 @@
                                             <children>
                                                 <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="512.5" prefViewportHeight="515.0" prefViewportWidth="200.0" prefWidth="349.0">
                                                     <content>
-                                                        <TableView fx:id="tblSpecies" prefHeight="400.0" prefWidth="348.0">
+                                                        <TableView fx:id="tblSpeciesSelectionList" prefHeight="400.0" prefWidth="348.0">
                                                             <columns>
                                                                 <TableColumn fx:id="colSpeciesName" editable="false" prefWidth="150.0" sortable="false" text="Name" />
-                                                                <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Size" />
-                                                                <TableColumn editable="false" prefWidth="75.0" sortable="false" text="Speed" />
+                                                                <TableColumn fx:id="colSpeciesSize" editable="false" prefWidth="75.0" sortable="false" text="Size" />
+                                                                <TableColumn fx:id="colSpeciesSpeed" editable="false" prefWidth="75.0" sortable="false" text="Speed" />
                                                             </columns>
                                                         </TableView>
                                                     </content>

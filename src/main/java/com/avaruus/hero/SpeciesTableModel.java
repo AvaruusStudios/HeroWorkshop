@@ -4,12 +4,12 @@ import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 
 /**
- * @name SpeciesTableModel.java
  * @author Avaruus Studios
+ * @name SpeciesTableModel.java
  * @date Feb 23, 2020
  */
 public class SpeciesTableModel {
-    private final SimpleStringProperty SpeciesName;
+    private SimpleStringProperty SpeciesName;
     private SimpleStringProperty SpeciesSize;
     private SimpleIntegerProperty SpeciesSpeed;
 
@@ -23,11 +23,23 @@ public class SpeciesTableModel {
         return SpeciesName.get();
     }
 
+    public void setSpeciesName(String SpeciesName) {
+        this.SpeciesName = new SimpleStringProperty(SpeciesName);
+    }
+
     public String getSpeciesSize() {
         return SpeciesSize.get();
     }
 
+    public void setSpeciesSize(String SpeciesSize) {
+        this.SpeciesSize = new SimpleStringProperty(SpeciesSize);
+    }
+
     public Integer getSpeciesSpeed() {
         return SpeciesSpeed.get();
+    }
+
+    public void setSpeciesSpeed(Integer SpeciesSpeed) {
+        this.SpeciesSpeed = new SimpleIntegerProperty(SpeciesSpeed);
     }
 }
