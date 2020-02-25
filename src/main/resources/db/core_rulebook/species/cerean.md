@@ -1,0 +1,8 @@
+**Name:** Cerean  
+**Description:** Cereans come from a remote utopian world. Most Cereans are peaceful, following farming traditions that date back thousands of years. The species includes more females than males, and Cerean society is matriarchal. Their high-domed heads hold binary brians, and two hearts beat in a Cerean's chest. With a nonaggressive heritage, it is only rarely that a Cerean develops the desire to adventure, and even more rare that one takes up the robes of a Jedi Knight.  
+**Personality:** Cereans tend to be calm, rational, and extremely logical.  
+**Appearance:** Cereans average about two meters tall, with elongated craniums. They have a maturity rate and life span similar to that of Humans.  
+**Homeworld:** The blissful planet Cerea.  
+**Language:** Cereans speak and read Cerean and Basic.  
+**Adventurers:** Cereans who become adventurers do so in direct contradiction to their traditions and beliefs. Even so, when a cause or situation turns a Cerean to this path, he or she tries to approach life with as many of the Cerena beliefs as possible. Aggression should be the last resort after all peaceful solutions are attempted, for example. The binary brain allows a Cerean to constantly weigh both sides in an disagreement and give two points of view equal consideration. This ability extends even to issues surrounding the Force, and a Cerean Force-user often contemplates the light and dark side simultaneously.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

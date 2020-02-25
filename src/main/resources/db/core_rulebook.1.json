@@ -165,10 +165,10 @@
 			"file": "",
 			"description": "Cereans come from a remote utopian world. Most Cereans are peaceful, following farming traditions that date back thousands of years. The species includes more females than males, and Cerean society is matriarchal. Their high-domed heads hold binary brians, and two hearts beat in a Cerean's chest. With a nonaggressive heritage, it is only rarely that a Cerean develops the desire to adventure, and even more rare that one takes up the robes of a Jedi Knight.",
 			"personality": "Cereans tend to be calm, rational, and extremely logical.",
-			"appearance": "Cereans average about two meters tall, withg elongated craniums. They have a maturity rate and life span similar to that of Humans.",
+			"appearance": "Cereans average about two meters tall, with elongated craniums. They have a maturity rate and life span similar to that of Humans.",
 			"homeworld": "The blissful planet Cerea.",
 			"language": "Cereans speak and read Cerean and Basic.",
-			"adventurers": "Cereans who become adventurers do so in direct contradiction to their traditions and beliefs. Even so, when a cause or situation turns a Cerean to this path, he or she tries to approach life with as many of the Cerena beliefs as possible. Aggression should be the last resort after all peaceful solutions are attempted, for example. The binary brain allows a Cerean to constantly weigh both sides in an disagreement and give two points of view equal consideration. This ability extends even to isses surrounding the Force, and a Cerean Force0user often contemplates the light and dark side simultaneously.",
+			"adventurers": "Cereans who become adventurers do so in direct contradiction to their traditions and beliefs. Even so, when a cause or situation turns a Cerean to this path, he or she tries to approach life with as many of the Cerena beliefs as possible. Aggression should be the last resort after all peaceful solutions are attempted, for example. The binary brain allows a Cerean to constantly weigh both sides in an disagreement and give two points of view equal consideration. This ability extends even to issues surrounding the Force, and a Cerean Force-user often contemplates the light and dark side simultaneously.",
 			"spoke_languages": [
 				{
 					"Basic": true,
@@ -243,7 +243,7 @@
 		"3": {
 			"name": "Duros",
 			"file": "",
-			"description": "The Duros roiginate in the Duro star system, located at the extreme edge of the Core region of space. With an almost innate affinity for space travel, the Duros were among the first to leave their world and spread to the stars. Whatever the reason for their wanderlust, the Duros tend to gravitate toward the space lanes for income and adventure. Their home system is governed by vast starship engineering corporations, and most Duros learn to pilot a ship or rebuild a hyperdrive shortly after they begin to walk and talk.",
+			"description": "The Duros originate in the Duro star system, located at the extreme edge of the Core region of space. With an almost innate affinity for space travel, the Duros were among the first to leave their world and spread to the stars. Whatever the reason for their wanderlust, the Duros tend to gravitate toward the space lanes for income and adventure. Their home system is governed by vast starship engineering corporations, and most Duros learn to pilot a ship or rebuild a hyperdrive shortly after they begin to walk and talk.",
 			"personality": "A Duros tends to be intense and adventureous, always seeking to learn what's at the end of the next hyperspce jump. They are a proud, self-sufficient, fun-loving people who also have a tendency toward gregariousness.",
 			"appearance": "Duros average about 1.8 meters tall. They are hairless, with large eyes and wide, lipless mouths. Skin color ranges from blue-gray to deep azure.",
 			"homeworld": "The orbiting cities of the Duro system.",
