@@ -1,8 +1,8 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
-import com.avaruus.db.core.SpeciesCommunity;
-import com.avaruus.db.core.SpeciesModel;
-import com.avaruus.hero.SpeciesTableModel;
+import com.avaruus.db.core.species.SpeciesCommunity;
+import com.avaruus.db.core.species.SpeciesModel;
+import com.avaruus.db.core.species.SpeciesTableModel;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonMappingException;

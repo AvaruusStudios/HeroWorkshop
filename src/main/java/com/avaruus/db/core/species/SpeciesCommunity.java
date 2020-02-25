@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 
-package com.avaruus.db.core;
+package com.avaruus.db.core.species;
 
 import java.util.List;
-import com.avaruus.db.core.SpeciesModel;
 
 /**
  * @name SpeciesCommunity.java

@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 
-package com.avaruus.db.core;
+package com.avaruus.db.core.species;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
 /**
  * @name SpeciesModel.java

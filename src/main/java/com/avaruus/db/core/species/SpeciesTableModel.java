@@ -1,4 +1,4 @@
-package com.avaruus.hero;
+package com.avaruus.db.core.species;
 
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
