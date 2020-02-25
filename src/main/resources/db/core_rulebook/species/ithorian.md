@@ -1,0 +1,8 @@
+**Name:** Ithorian  
+**Description:** Ithorians come from the jungle world of Ithor or one of its many spaceworthy "herd" ships. Also known as Hammerheads by the galaxy at large, Ithorians are a peaceful people. Ithorians dedicate themselves to ecological endeavors, especially on their homeworld, where they seek to preserve the pastoral beauty of the great tropical jungle - the Mother Jungle. A gentle people, Ithorians have a great love of art. Many travel the galaxy in giant hyperdrive herd ships designed to serve as ecological replicas of the Ithorian homeworld, bringing the beauty of Ithor wherever they go.  
+**Personality:** Ithorians tend to be calm, peaceful, tranquil, and gentle.  
+**Appearance:** Ithorians are humanoid, ranging in height from 1.8 to 2.3 meter tall, with long necks that curls forward and end in dome-shaped heads. They have two mouths, one on each side of their neck, producing a stereo effect when talk. 
+**Homeworld:** Ithor, or a specific herd ship.  
+**Language:** Ithorians speak stereophonic Ithorese and Basic.  
+**Adventurers:** Ithorians tend to concentrate on peaceful professions. They love to meet new beings and see new places. They enjoy negotiating deals and finding peaceful solutions to conflict. They have a spiritual nature tied to their devotion to the Mother Jungle of their homeworld. Often, wanderlust leads them to explore the greater galaxy for a time before they eventually return to Ithor or the herd ship that spawned them.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

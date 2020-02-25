@@ -1,0 +1,8 @@
+**Name:** Gungan  
+**Description:** From the watery depths of Naboo, the Gungans are an ancient species with a warlike tradition. Gungans can hold their breath for extended periods, and they live within underwater cities. Their bubble dwellings contain a breathable atmosphere. The most common Gungan race is the Otolla Gungan, characterized by taller, leaner frames and extended eyestalks. The rare Ankura Gungan has recessed eyes, green skin, and a heavier, shorter frame. Except for the physical characteristics, there are no genetic differences between the two Gungan races.Usually distrustful of strangers and slow to accept aid, Gungans are nevertheless brave, strong and confident of their own traditions.  
+**Personality:** Gungans tend to be inquisitive, cautious and suspicious.  
+**Appearance:** Gungans range from 1.6 to 2 meters tall, with two eyestalks, floppy ears, and long tongues. 
+**Homeworld:** Naboo (with colonies on the Ohma-D'un moon).  
+**Language:** Gungans speak Gungan and Basic.  
+**Adventurers:** Gungan adventurers have a strong warrior tradition. Many leave the underwater cities to explore the ancient swamps and shorelines. Since the treaty with the Humans of Naboo, some Gungans have taken a larger step into galactic society. These brave individuals are driven by an impulse to explore and regain the warrior spirit of olf. There are no examples of Gungan Jedi as yet, though there have been legends of Force adepts among these people.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

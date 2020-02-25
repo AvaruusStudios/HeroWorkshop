@@ -162,7 +162,7 @@
 		},
 		"2": {
 			"name": "Cerean",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/cerean.md",
 			"description": "Cereans come from a remote utopian world. Most Cereans are peaceful, following farming traditions that date back thousands of years. The species includes more females than males, and Cerean society is matriarchal. Their high-domed heads hold binary brians, and two hearts beat in a Cerean's chest. With a nonaggressive heritage, it is only rarely that a Cerean develops the desire to adventure, and even more rare that one takes up the robes of a Jedi Knight.",
 			"personality": "Cereans tend to be calm, rational, and extremely logical.",
 			"appearance": "Cereans average about two meters tall, with elongated craniums. They have a maturity rate and life span similar to that of Humans.",
@@ -242,7 +242,7 @@
 		},
 		"3": {
 			"name": "Duros",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/duros.md",
 			"description": "The Duros originate in the Duro star system, located at the extreme edge of the Core region of space. With an almost innate affinity for space travel, the Duros were among the first to leave their world and spread to the stars. Whatever the reason for their wanderlust, the Duros tend to gravitate toward the space lanes for income and adventure. Their home system is governed by vast starship engineering corporations, and most Duros learn to pilot a ship or rebuild a hyperdrive shortly after they begin to walk and talk.",
 			"personality": "A Duros tends to be intense and adventureous, always seeking to learn what's at the end of the next hyperspce jump. They are a proud, self-sufficient, fun-loving people who also have a tendency toward gregariousness.",
 			"appearance": "Duros average about 1.8 meters tall. They are hairless, with large eyes and wide, lipless mouths. Skin color ranges from blue-gray to deep azure.",
@@ -322,10 +322,10 @@
 		},
 		"4": {
 			"name": "Ewok",
-			"file": "",
-			"description": "Ewoks hail from the forst moon of Endor, where they maintain a primitive hunter/gather society. Prior to the Battle of Endor (four year after Episode IV), Ewoks were almost entirely unknown to the galaxy at large. Som traders and explorer visited Endor's moon, but with no form of space travel, Ewoks never left their homeworld. Although primitive by galatic standards, the tribal Ewoks are resourceful and highly adaptable. The trbial Ewoks may be technologically prmitive when compared to most of the galactic society, but they are also clever and inventive. While they tend to initially be wary around machinery, it isn't long before their natural curiosity wins out and they plunge into wild and exuberant experimentation.",
-			"personality": "Ewoks tend to be curious, supersitious, and courageous, though they can be fearful around things that are strange and new.",
-			"appearance": "Ewoks average about 1 meter tall. Their thick fur varies widely in color and patern. They often waer hoods, decorative feather, and animal bones.",
+			"file": "src/main/resources/db/core_rulebook/species/ewok.md",
+			"description": "Ewoks hail from the forest moon of Endor, where they maintain a primitive hunter/gather society. Prior to the Battle of Endor (four year after Episode IV), Ewoks were almost entirely unknown to the galaxy at large. Som traders and explorer visited Endor's moon, but with no form of space travel, Ewoks never left their homeworld. Although primitive by galactic standards, the tribal Ewoks are resourceful and highly adaptable. The tribal Ewoks may be technologically primitive when compared to most of the galactic society, but they are also clever and inventive. While they tend to initially be wary around machinery, it isn't long before their natural curiosity wins out and they plunge into wild and exuberant experimentation.",
+			"personality": "Ewoks tend to be curious, superstitious, and courageous, though they can be fearful around things that are strange and new.",
+			"appearance": "Ewoks average about 1 meter tall. Their thick fur varies widely in color and pattern. They often wear hoods, decorative feather, and animal bones.",
 			"homeworld": "The forest moon of Endor.",
 			"language": "Ewoks speak Ewokese. They have no written form of their language. They can learn to speak Basic.",
 			"adventurers": "An Ewok adventurer may be motivated by a love of excitement, a natural inquisitiveness, or a warrior's quest. Usually, an Ewok hero joins up with a scout or hero who has access to a starship. Collecting powerful \"magic\" items from fallen opponents, such as a stormtrooper's helmet or a range finder from a blaster rifle, is a sure way for an Ewok to earn the respect of his tribe.",
@@ -397,17 +397,17 @@
 					"charisma": 0
 				}
 			],
-			"size": "Small: As Small creatyures, Ewoks gain a +1 size bonus to the Defense, a +1 size bonus on Attack Rolls, and a +4 size bonus on Hide Checks, but they must use smaller weapons than Humans use, and their lifting and carrying limits are three-quarter of those of Medium-sized characters.",
+			"size": "Small: As Small creatures, Ewoks gain a +1 size bonus to the Defense, a +1 size bonus on Attack Rolls, and a +4 size bonus on Hide Checks, but they must use smaller weapons than Humans use, and their lifting and carrying limits are three-quarter of those of Medium-sized characters.",
 			"speed": 6
 		},
 		"5": {
 			"name": "Gamorrean",
-			"file": "",
-			"description": "Brutish and violent, the porcine Gamorreans come from the Outer Rin world of Gamorr. Green-skinned with piglike snouts, tusks, and small horns, Gamorreans are respected for their great strength and short tempers. The history of Gamorr is marked by an almost constant state of warfare. Males train for and fight wars, while the females farm, hunt, and handle trade. Since their homeworld was discovered, a number of Gamorreans have found their way into the galactic society. The technologically poor homeworld has a savage, primitive culture that resembles the preindustrial periods that human civilizations experienced more than 25,000 years ago. Even so, the physically imposing Gamorreans make good laborer, bodyguards, and mercenaries. While they prefer primitive melee weapons, they have no problem learning to use powered weapons and even blasters.",
+			"file": "src/main/resources/db/core_rulebook/species/gamorrean.md",
+			"description": "Brutish and violent, the porcine Gamorreans come from the Outer Rin world of Gamorr. Green-skinned with piglike snouts, tusks, and small horns, Gamorreans are respected for their great strength and short tempers. The history of Gamorr is marked by an almost constant state of warfare. Males train for and fight wars, while the females farm, hunt, and handle trade. Since their homeworld was discovered, a number of Gamorreans have found their way into the galactic society. The technologically poor homeworld has a savage, primitive culture that resembles the pre-industrial periods that human civilizations experienced more than 25,000 years ago. Even so, the physically imposing Gamorreans make good laborer, bodyguards, and mercenaries. While they prefer primitive melee weapons, they have no problem learning to use powered weapons and even blasters.",
 			"personality": "Gamorreans are brutish, violent and proud. They respect physical prowess and have no problem facing death against a foe they feel they are on at least equal footing with. They do display fear in the face of obviously superior opponents, however, considering such a display to be prudent and even rational.",
 			"appearance": "Gamorreans average about 1.8 meters tall, with thick green skin covering powerful muscles. Close-set eyes, a thick snout, tusks, and small horns lend a distinct look to every Gamorrean.",
-			"homeworld": "The preindustrial agricultural world of Gamorr.",
-			"language": "Gamorreans speak Gamorrean. They have no written version of the language. They can learn to understand ",
+			"homeworld": "The pre-industrial agricultural world of Gamorr.",
+			"language": "Gamorreans speak Gamorrean. They have no written version of the language. They can learn to understand other languages, but Gamorreans lack the mechanism to speak any tongue but their own.",
 			"adventurers": "Gamorreans leave their homeworld for a variety of reasons. Some are taken as slaves and later escape or buy out their contracts. Others sell their contracts on the open market, finding employment as bodyguards, mercenaries, and professional soldiers. A Gamorrean is constantly at war, no matter where he or she resides in the galaxy; it's often only a matter of figuring out who the enemy is. Gamorrean heroes tend to selec the fringer or soldier classes. To date, there are no known examples of Gamorrean Force-users.",
 			"spoken_languages": [
 				{
@@ -482,13 +482,13 @@
 		},
 		"6": {
 			"name": "Gungan",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/gungun.md",
 			"description": "From the watery depths of Naboo, the Gungans are an ancient species with a warlike tradition. Gungans can hold their breath for extended periods, and they live within underwater cities. Their bubble dwellings contain a breathable atmosphere. The most common Gungan race is the Otolla Gungan, characterized by taller, leaner frames and extended eyestalks. The rare Ankura Gungan has recessed eyes, green skin, and a heavier, shorter frame. Except for the physical characteristics, there are no genetic differences between the two Gungan races.Usually distrustful of strangers and slow to accept aid, Gungans are nevertheless brave, strong and confident of their own traditions.",
 			"personality": "Gungans tend to be inquisitive, cautious and suspicious.",
 			"appearance": "Gungans range from 1.6 to 2 meters tall, with two eyestalks, floppy ears, and long tongues.",
 			"homeworld": "Naboo (with colonies on the Ohma-D'un moon).",
 			"language": "Gungans speak Gungan and Basic.",
-			"adventurers": "Gungan adventurers have a strong warrior tradition. Many leave the underwater cities to explore the ancient swamps and shorelines. Since the treaty with the Humans of Naboo, some Gungans have taken a larger step into galactic society. These brave individuals are driven by an impulse to explore and regain the warrior spirit of olf. There are no examples of Gungan Jedi as yet, though there have been ledgends of Force adepts among these people.",
+			"adventurers": "Gungan adventurers have a strong warrior tradition. Many leave the underwater cities to explore the ancient swamps and shorelines. Since the treaty with the Humans of Naboo, some Gungans have taken a larger step into galactic society. These brave individuals are driven by an impulse to explore and regain the warrior spirit of olf. There are no examples of Gungan Jedi as yet, though there have been legends of Force adepts among these people.",
 			"spoke_languages": [
 				{
 					"Basic": true,
@@ -562,12 +562,12 @@
 		},
 		"7": {
 			"name": "Ithorian",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/ithorian.md",
 			"description": "Ithorians come from the jungle world of Ithor or one of its many spaceworthy \"herd\" ships. Also known as Hammerheads by the galaxy at large, Ithorians are a peaceful people. Ithorians dedicate themselves to ecological endeavors, especially on their homeworld, where they seek to preserve the pastoral beauty of the great tropical jungle - the Mother Jungle. A gentle people, Ithorians have a great love of art. Many travel the galaxy in giant hyperdrive herd ships designed to serve as ecological replicas of the Ithorian homeworld, bringing the beauty of Ithor wherever they go.",
 			"personality": "Ithorians tend to be calm, peaceful, tranquil, and gentle.",
-			"appearance": "Ithorians are humaniod, ranging in height from 1.8 to 2.3 meter tall, with long necks that curls forward and end in dome-shaped heads. They have two mouths, one on each side of their neck, producing a stereo effect when talk.",
-			"homeworld": "Ithor, or a specific her ship.",
-			"language": "Ithorians speak stereophonic Ithorese and Basic",
+			"appearance": "Ithorians are humanoid, ranging in height from 1.8 to 2.3 meter tall, with long necks that curls forward and end in dome-shaped heads. They have two mouths, one on each side of their neck, producing a stereo effect when talk.",
+			"homeworld": "Ithor, or a specific herd ship.",
+			"language": "Ithorians speak stereophonic Ithorese and Basic.",
 			"adventurers": "Ithorians tend to concentrate on peaceful professions. They love to meet new beings and see new places. They enjoy negotiating deals and finding peaceful solutions to conflict. They have a spiritual nature tied to their devotion to the Mother Jungle of their homeworld. Often, wanderlust leads them to explore the greater galaxy for a time before they eventually return to Ithor or the herd ship that spawned them.",
 			"spoke_languages": [
 				{
