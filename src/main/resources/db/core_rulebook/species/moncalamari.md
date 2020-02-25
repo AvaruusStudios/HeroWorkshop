@@ -1,0 +1,9 @@
+**Name:** Mon Calamari  
+**Description:** Soft-spoken but forceful, the Mon Calamari are great starship engineers. They see everything they create as a work of art, not just as a tool or weapon. They are a lawful, organized people who have little tolerance for those who operate outside the status quo. They come from a water-covered world and can breathe both air and water.  
+Recognized for their analytical and organizational skills, Mon Calamari also have keen love of flying among the stars. They believe in order and the greater good, sometim,es going so far as to support the good of society over the good of the individual.  
+**Personality:** Creative, quiet, and inquisitive, the Mon Calamari are dreamers who cherish peace but aren't afraid to wage war for the causes they believe in.  
+**Appearance:** The average Mon Calamari stands between 1.3 and 1.8 meters tall. They smell of salt and the sea, with high-domed heads, large eyes, and smooth, mottled skin.  
+**Homeworld:** The watery, technological planet of Mon Calamari.  
+**Language:** The Mon Calamari speak Mon Calamari and Basic. They tend to learn Quarrenese.  
+**Adventurers:** Mon Calamari seek their dreams among the stars. They are idealistic and daring, often attaching themselves to cause that seem hopeless or lost right from the start. An individual Mon Calamari has great spirit and an entusiasm that often remains hidden behind a quiet, orderly exterior. They strive to prove that even thinkers and dreamers can br brave and daring when the need arises.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

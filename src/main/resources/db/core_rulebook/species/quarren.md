@@ -1,0 +1,8 @@
+**Name:** Quarren  
+**Description:** The humaniod Quarren share the watery world of Mon Calamari with the Mon Calamari. While the Mon Calamari live on the surface, the Quarren dwell in air-filled underwater cities. Where the Mon Calamari are curious and optimistic, the Quarren tend to be staid and pessimistic. They consider the Mon Calamari idealism to be the result of foolish, even dangerous, dreaming that only leads to trouble. Many Quarren tend to be pragmatic, unwilling to trust or accept new ideas.  
+**Personality:** Practical and conservative, Quarren tend to hate change and distrust anyone who displays overt optimism and idealism.  
+**Appearance:** The average Quarren stand between 1.4 and 1.9 meter tall. They have head that resemble four-tentacled squids, hence the name "squid head" that has followed them to other worlds. They have leathery skin and suction-cupped fingers.  
+**Homeworld:** The watery, technological planet of Mon Calamari.  
+**Language:** Quarren speak Quarrenese and Basic. They tend to learn Mon Calamari.  
+**Adventurers:** Quarren leave their homeworld to escape their dependency on the Mon Calamari. They tend to seek out the fringes of society, operating as scoundrels or nobles in criminal organizations or with mercenary groups, pirates, outlaw bands, or smugglers.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

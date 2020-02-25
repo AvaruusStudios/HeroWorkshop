@@ -642,7 +642,7 @@
 		},
 		"8": {
 			"name": "Kel Dor",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/keldor.md",
 			"description": "The Kel Dor originate on the planet Dorin, where they developed in an atmosphere of helium and a gas unique to their world. Consequently, more common atmospheres, including those that consist of oxygen, nitrogen, and carbon dioxide, are deadly to the Kel Dor. Those Kel Dor that operate beyond the confines of their homeworld must wear breath masks and protective goggles. \\n The Kel Dor have a long and proud Force tradition, though they have adapted it to the Jedi tradition since joining the Republic over six thousand years ago. Kind-hearted, the Kel Dor nevertheless believe in swift justice.",
 			"personality": "Even-tempered and kind-hearted, the Kel Dor never turn away a being in need. At the same time, the average Kel Dor believes in quick, simple justice and isn't averse to taking the law into his or her own hands.",
 			"appearance": "The average Kel Dor stands between 1.4 and 2 meters tall. Their skin ranges in color from peach to deep red. Most have black eyes, though a few are born with silver irises that some believe mark them as strong in the Force.",
@@ -722,10 +722,10 @@
 		},
 		"9": {
 			"name": "Mon Calamari",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/moncalamari.md",
 			"description": "Soft-spoken but forceful, the Mon Calamari are great starship engineers. They see everything they create as a work of art, not just as a tool or weapon. They are a lawful, organized people who have little tolerance for those who operate outside the status quo. They come from a water-covered world and can breathe both air and water. \\n Recognized for their analytical and organizational skills, Mon Calamari also have keen love of flying among the stars. They believe in order and the greater good, sometim,es going so far as to support the good of society over the good of the individual.",
 			"personality": "Creative, quiet, and inquisitive, the Mon Calamari are dreamers who cherish peace but aren't afraid to wage war for the causes they believe in.",
-			"appearance": "The average Mon Calamari stands between 1.3 and 1.8 meters tall. They smell of salt and the sea, with high-domed heads, large eyes, and smoth, mottled skin.",
+			"appearance": "The average Mon Calamari stands between 1.3 and 1.8 meters tall. They smell of salt and the sea, with high-domed heads, large eyes, and smooth, mottled skin.",
 			"homeworld": "The watery, technological planet of Mon Calamari.",
 			"language": "The Mon Calamari speak Mon Calamari and Basic. They tend to learn Quarrenese.",
 			"adventurers": "Mon Calamari seek their dreams among the stars. They are idealistic and daring, often attaching themselves to cause that seem hopeless or lost right from the start. An individual Mon Calamari has great spirit and an entusiasm that often remains hidden behind a quiet, orderly exterior. They strive to prove that even thinkers and dreamers can br brave and daring when the need arises.",
@@ -802,7 +802,7 @@
 		},
 		"10": {
 			"name": "Quarren",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/quarren.md",
 			"description": "The humaniod Quarren share the watery world of Mon Calamari with the Mon Calamari. While the Mon Calamari live on the surface, the Quarren dwell in air-filled underwater cities. Where the Mon Calamari are curious and optimistic, the Quarren tend to be staid and pessimistic. They consider the Mon Calamari idealism to be the result of foolish, even dangerous, dreaming that only leads to trouble. Many Quarren tend to be pragmatic, unwilling to trust or accept new ideas.",
 			"personality": "Practical and conservative, Quarren tend to hate change and distrust anyone who displays overt optimism and idealism.",
 			"appearance": "The average Quarren stand between 1.4 and 1.9 meter tall. They have head that resemble four-tentacled squids, hence the name \"squid head\" that has followed them to other worlds. They have leathery skin and suction-cupped fingers.",
