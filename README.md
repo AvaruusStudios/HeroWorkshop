@@ -45,6 +45,7 @@ This will output a `hero-workshop-${version}.jar` in the `target` folder.  This 
 At its core, The Star Wars Role-Playing Game (RPG) is about telling a story. The Game Master along with the players tell the story together, guiding the heroes through quests for credits and fame, battling with deadly foes, daring rescues, courtly intrigue, and much more. You explore the universe and sprawling galaxies of the Star Wars saga through the personification of the players heroes.
 
 The Star Wars RPG is played in the D20 System. This means that to resolve an action in the D20 System, a player rolls a 20-sided die and adds modifiers based on the natural aptitude of the character (defined by six attributes: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma) and how skilled the character is in various fields (such as in combat), as well as other, situational modifiers. If the result is greater than or equal to a target number (called a Difficulty Class or DC) then the action succeeds. This is called the Core Mechanic. This system is consistently used for all action resolution in the d20 System.  
+
 The Hero Workshop is designed to bridge the gap between the old fashioned way of writing everything down with a pen+paper and allow players to electronically create a Role-Playing Game (RPG) Hero for use with the Star Wars Role-Playing Game (RPG) and use that Hero to play with others via the application Game Chat module.
 
 The application will consist of two modules: the Hero Workshop and The Game Master Module
