@@ -72,7 +72,7 @@
                         <configuration>
                             <classifier>spring-boot</classifier>
                             <mainClass>
-                                com.avaruus.heroworkshop.HeroWorkshopApplication
+                                com.avaruus.heroworkshop.HeroWorkshopMain
                             </mainClass>
                         </configuration>
                     </execution>

@@ -9,8 +9,8 @@ package com.avaruus.db;
 import java.io.File;
 import java.io.IOException;
 
-import com.avaruus.db.core.species.SpeciesCommunity;
-import com.avaruus.db.core.species.SpeciesModel;
+import com.avaruus.db.species.SpeciesCommunity;
+import com.avaruus.db.species.SpeciesModel;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonMappingException;

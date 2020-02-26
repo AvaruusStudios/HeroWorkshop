@@ -11,19 +11,19 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
-public class HeroWorkshopApplication extends Application {
+public class HeroWorkshopMain extends Application {
     private ConfigurableApplicationContext context;
     private Parent rootNode;
 
     public static void main(final String[] args) {
         // boostrap the JavaFX-enabled spring boot application
-        launch(HeroWorkshopApplication.class, args);
+        launch(HeroWorkshopMain.class, args);
     }
 
     @Override
     public void init() throws Exception {
         // Initialize the spring boot application
-        SpringApplicationBuilder builder = new SpringApplicationBuilder(HeroWorkshopApplication.class);
+        SpringApplicationBuilder builder = new SpringApplicationBuilder(HeroWorkshopMain.class);
 
         // build the spring context
         context = builder.run(getParameters().getRaw().toArray(new String[0]));

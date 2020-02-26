@@ -1,4 +1,4 @@
-package com.avaruus.db.core.abilities;
+package com.avaruus.db.abilities;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

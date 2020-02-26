@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.avaruus.db.core.species;
+package com.avaruus.db.species;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.avaruus.db.core.species;
+package com.avaruus.db.species;
 
 import java.util.ArrayList;
 import java.util.List;
