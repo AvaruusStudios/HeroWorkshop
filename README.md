@@ -4,26 +4,26 @@
 Hero Workshop is a Pen+Paper Role-Playing Game Hero Generator which can then be used to the play via a chat application.
 
 ## Table Of Contents
-- [Development](#development)
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Roadmap and Changelog](#roadmap-and-changelog)
-  - [Roadmap](#roadmap)
-  - [Changelog](#changelog)
-- [Contributing](#contributing)
-- [Authors and Acknowledgements](#authors-and-acknowledgement)
-  - [Authors](#authors)
-  - [Acknowledgements](#acknowledgements)
-- [License](#license)
-- [Project Status](#project-status)
+* [Development](#development)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Support](#support)
+* [Roadmap and Changelog](#roadmap-and-changelog)
+  * [Roadmap](#roadmap)
+  * [Changelog](#changelog)
+* [Contributing](#contributing)
+* [Authors and Acknowledgements](#authors-and-acknowledgement)
+  * [Authors](#authors)
+  * [Acknowledgements](#acknowledgements)
+* [License](#license)
+* [Project Status](#project-status)
 
 ## Development
 Prerequisites:
-  - JDK13 Installed: https://jdk.java.net/13/
-  - Maven Installed: https://maven.apache.org/install.html
-  - OpenJFX Installed: https://openjfx.io/index.html
+  * JDK13 Installed: https://jdk.java.net/13/
+  * Maven Installed: https://maven.apache.org/install.html
+  * OpenJFX Installed: https://openjfx.io/index.html
   
 Build:
 ```
@@ -49,8 +49,8 @@ The Star Wars RPG is played in the D20 System. This means that to resolve an act
 The Hero Workshop is designed to bridge the gap between the old fashioned way of writing everything down with a pen+paper and allow players to electronically create a Role-Playing Game (RPG) Hero for use with the Star Wars Role-Playing Game (RPG) and use that Hero to play with others via the application Game Chat module.
 
 The application will consist of two modules: the Hero Workshop and The Game Master Module
-  - By following the user guide and going the each tab, **The Hero Workshop** allows a player to create a character in the Star Wars Universe for play in in the D20 System. The character can also be saved and open in The Game Master Module to allow play with other players.
-  - At its core, **The Game Master Module** is a chatroom hosted by the Game Master (GM) (Storyteller of the game). Players then connect to the chat session of the GM and load their character to use during play.
+* By following the user guide and going the each tab, **The Hero Generator Module** allows a player to create a character in the Star Wars Universe for play in in the D20 System. The character can also be saved and open in The Game Master Module to allow play with other players.
+* At its core, **The Game Master Module** is a chat room hosted by The Game Master (GM) Module (Storyteller of the game). Players then connect to the chat session of the GM and load their character to use during play.
 
 ## Installation
 Installation can be achieved by extracting the archive (.zip) to a directory of your choosing and running the main application in the bin folder.
