@@ -28,7 +28,7 @@ We are currently in the process of building a Wiki page with Frequently Asked Qu
 > **Note:** Please don't submit an issue to ask questions. You'll get faster results by reviewing the Frequently Asked Questions (FAQs).
 
 ## <a name='WhatShouldIKnowBeforeIStart'></a>What Should I Know Before I Start
-Hero Workshop is an open source project to support the players of the Star Wars Role Playing Game. We aim to make it easier to crete a character and build a unique story with other fellow players.
+Hero Workshop is an open source project to support the players of Pen+Paper Role-Playing Games with a focus on Star Wars. We aim to make it easier to crete a character and build a unique story with other fellow players.
 
 The Hero Generator Module is as a modular JavaFX application. Every tab you interact with and the menubar are their own FXML file. The Game Master Module will also be a modular JavaFX application.
 
