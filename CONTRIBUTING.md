@@ -2,6 +2,7 @@
 The following is a set of guidelines for the contributing to the Project Hero Workshop.
 
 ## <a name='TableofContents'></a>Table of Contents
+* [Table of Contents](#TableofContents)  
 * [Code Of Conduct](#CodeOfConduct)  
 * [Frequently Asked Questions (FAQ)](#FrequentlyAskedQuestionsFAQ)  
 * [What Should I Know Before I Start](#WhatShouldIKnowBeforeIStart)  
