@@ -2,19 +2,22 @@
 The following is a set of guidelines for the contributing to the Project Hero Workshop.
 
 ## Table of Contents
-1. Code of Conduct<!-- ## -->
-2. Frequently Asked Questions (FAQ)<!-- ## -->
-3. What Should I Know Before I Start?<!-- ## -->
-    1. Directory Convention<!-- ### -->
-4. How To Contribute?<!-- ## -->
-    1. Reporting Issues<!-- ### -->
-        1. Before Submitting A Issue<!-- #### -->
-        2. How Do I Submit A Good Issue<!-- #### -->
-    2. Submitting Enhancement Requests<!-- ### -->
-        1. Before Submitting An Enhancement Request<!-- #### -->
-        2. How Do I Submit A Good Enhancement Request<!-- #### -->
-5. Project Style Guide<!-- ## -->
-6. Additional Notes<!-- ## -->
+- [Code of Conduct](#code-of-conduct)<!-- ## -->
+- [Frequently Asked Questions (FAQ)](#Frequently-Asked-Questions-(FAQ))<!-- ## -->
+- [What Should I Know Before I Start?](#What-Should-I-Know-Before-I-Start?)<!-- ## -->
+    - Directory Convention<!-- ### -->
+- How To Contribute?<!-- ## -->
+    - Reporting Issues<!-- ### -->
+        - Before Submitting A Issue<!-- #### -->
+        - How Do I Submit A Good Issue<!-- #### -->
+    - Submitting Enhancement Requests<!-- ### -->
+        - Before Submitting An Enhancement Request<!-- #### -->
+        - How Do I Submit A Good Enhancement Request<!-- #### -->
+- Project Style Guide<!-- ## -->
+    - Commit Messages<!-- ### -->
+    - Java Language Styling<!-- ### -->
+    - Documentation Guide<!-- ### -->
+- Additional Notes<!-- ## -->
 
 ## Code Of Conduct
 This project and everyone participating in it is governed by the Avaruus Studios Code of Conduct. By participating, in the project you are expected to uphold the code. Please report any unacceptable behavior to 
