@@ -1,38 +1,37 @@
 # Contributing to Hero Workshop
 The following is a set of guidelines for the contributing to the Project Hero Workshop.
 
-## Table of Contents
-- [Code of Conduct](#code-of-conduct)<!-- ## -->
-- [Frequently Asked Questions (FAQ)](#Frequently-Asked-Questions-(FAQ))<!-- ## -->
-- [What Should I Know Before I Start?](#What-Should-I-Know-Before-I-Start?)<!-- ## -->
-    - Directory Convention<!-- ### -->
-- How To Contribute?<!-- ## -->
-    - Reporting Issues<!-- ### -->
-        - Before Submitting A Issue<!-- #### -->
-        - How Do I Submit A Good Issue<!-- #### -->
-    - Submitting Enhancement Requests<!-- ### -->
-        - Before Submitting An Enhancement Request<!-- #### -->
-        - How Do I Submit A Good Enhancement Request<!-- #### -->
-- Project Style Guide<!-- ## -->
-    - Commit Messages<!-- ### -->
-    - Java Language Styling<!-- ### -->
-    - Documentation Guide<!-- ### -->
-- Additional Notes<!-- ## -->
+## <a name='TableofContents'></a>Table of Contents
+* [Code Of Conduct](#CodeOfConduct)  
+* [Frequently Asked Questions (FAQ)](#FrequentlyAskedQuestionsFAQ)  
+* [What Should I Know Before I Start](#WhatShouldIKnowBeforeIStart)  
+	* [Directory Convention](#DirectoryConvention)  
+* [How Can I Contribute](#HowCanIContribute)  
+	* [Reporting Issues](#ReportingIssues)  
+		* [Before Submitting A Issue Report](#BeforeSubmittingAIssueReport)  
+		* [How Do I Submit A Good Issue Report](#HowDoISubmitAGoodIssueReport)  
+	* [Submitting Enhancements](#SubmittingEnhancements)  
+		* [Before Submitting An Enhancement Request](#BeforeSubmittingAnEnhancementRequest)  
+		* [How Do I Submit A Good Enhancement Request](#HowDoISubmitAGoodEnhancementRequest)  
+* [Project Style Guide](#ProjectStyleGuide)  
+	* [Commit Messages](#CommitMessages)  
+	* [Java Language Styling](#JavaLanguageStyling)  
+	* [Documentation Guides](#DocumentationGuides)  
 
-## Code Of Conduct
+## <a name='CodeOfConduct'></a>Code Of Conduct
 This project and everyone participating in it is governed by the Avaruus Studios Code of Conduct. By participating, in the project you are expected to uphold the code. Please report any unacceptable behavior to 
 
-## Frequently Asked Questions (FAQ)
+## <a name='FrequentlyAskedQuestionsFAQ'></a>Frequently Asked Questions (FAQ)
 We are currently in the process of building a Wiki page with Frequently Asked Questions (FAQs).
 
 > **Note:** Please don't submit an issue to ask questions. You'll get faster results by reviewing the Frequently Asked Questions (FAQs).
 
-## What Should I Know Before I Start
+## <a name='WhatShouldIKnowBeforeIStart'></a>What Should I Know Before I Start
 Hero Workshop is an open source project to support the players of the Star Wars Role Playing Game. We aim to make it easier to crete a character and build a unique story with other fellow players.
 
 The Hero Generator Module is as a modular JavaFX application. Every tab you interact with and the menubar are their own FXML file. The Game Master Module will also be a modular JavaFX application.
 
-### Directory Convention
+### <a name='DirectoryConvention'></a>Directory Convention
 There is a convention that has been adopted to make understanding where everything goes easier.
 * Java Class Files
 All Java Class files reside in the following directory:`src/main/java`.
@@ -47,7 +46,7 @@ Every resource file resides in the following directory:`src/main/resources`.
 * Icon Files: Image files which are used as icons will be located in the following directory: `src/main/resources/icons`.
 * Sourcebooks: The sourcebooks are the rules and guidelines on how to run you storytelling experience and live in the Star Wars Universe through the experiences of your created character. These source can be used as reference and are located in the following directory: `src/main/resources/sourcebooks`
 
-## How Can I Contribute
+## <a name='HowCanIContribute'></a>How Can I Contribute
 Currently, we need developers to help develop the Hero Workshop. The areas we are in need of help are in the following:
 * Software Development (Java): This should have a focus on JavaFX.
 * Back-End Development (Database): Currently, the database convention we are going with is to utilise JavaScript Object Notation (JSON) files. If you would like to discuss and suggest a better way, please do.
@@ -55,17 +54,17 @@ Currently, we need developers to help develop the Hero Workshop. The areas we ar
 
 If you cannot help with the above positions, please feel free to check back with us when there is a working release.
 
-### Reporting Issues
+### <a name='ReportingIssues'></a>Reporting Issues
 This section guides you in submitting a issue for Hero Workshop. Following these guidelines help the maintainers and developers of the project understand your reported issue in the Hero Workshop, reproduce the issue, and find related reports.
 
 Before creating a issue report, please check the list of already reported issues to see if your issue has been reported already. When creating a issue report, please include as many details as possible about the reported issue. Please follow the required issue template, this helps us resolve issues faster.
 
 > **Note:** If you find a **`CLOSED`** issue that seems like it is the same thing you are experiencing, open a new issue and select the closed issues as a related issue.
 
-#### Before Submitting A Issue Report
+#### <a name='BeforeSubmittingAIssueReport'></a>Before Submitting A Issue Report
 * Perform a cursory search to see if the issue has already been reported. If it has already been reported and is still **`OPEN`**, add a comment to the existing issue instead of opening a new issue.
 
-#### How Do I Submit A Good Issue Report
+#### <a name='HowDoISubmitAGoodIssueReport'></a>How Do I Submit A Good Issue Report
 Issues are tracked as GitHub Issues. Create an issue from within the repository and provide the following information via the template.
 
 Explain the issue and include additional details to help developers and maintainers reproduce the issue:
@@ -86,17 +85,17 @@ Include details about your configuration and environment:
 2. What is the name and version of the Operating System (OS) you are using?
 3. Are you running Hero Workshop in a Virtual Machine (VM)? If so, which Virtual Machine (VM) software are you using and which Operating System (OS) and version are used for the host and the guest?
 
-### Submitting Enhancements
+### <a name='SubmittingEnhancements'></a>Submitting Enhancements
 This section guides you through submitting an enhancement suggestion for Hero Workshop, including completely new features and minor improvements to existing functionality. Following these guidelines helps Developers and Maintainers understand your suggestion and find related suggestions.
 
 Before creating enhancement suggestions, please check this list as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible. Fill in the template, including the steps that you imagine you would take if the feature you're requesting existed.
 
-#### Before Submitting An Enhancement Request
+#### <a name='BeforeSubmittingAnEnhancementRequest'></a>Before Submitting An Enhancement Request
 Before Submitting an enhancement request:
 * Review the changelog for the Hero Workshop - you might discover the enhancement has already been implemented. Ensure that you are using the latest version of the Hero Workshop.
 * Perform a cursory search to see if the enhancement has already been reported. If it has already been reported and is still **`OPEN`**, add a comment to the existing issue instead of opening a new issue.
 
-#### How Do I Submit A Good Enhancement Request
+#### <a name='HowDoISubmitAGoodEnhancementRequest'></a>How Do I Submit A Good Enhancement Request
 Enhancements Requests are tracked as GitHub Issues. Create an issue from within the repository and provide the following information via the template.
 * Use a clear and descriptive title for the enhancement request you are submitting.
 * Provide a step-by-step description of the suggested enhancement in as many details as possible.
@@ -107,14 +106,14 @@ Enhancements Requests are tracked as GitHub Issues. Create an issue from within 
 * Specify which version of Hero Workshop you are using.
 * Specify which name and version of the Operating System (OS) you are using.
 
-## Project Style Guide
+## <a name='ProjectStyleGuide'></a>Project Style Guide
 This section guides you through the convention used while developing Hero Workshop, including but not limited to, `Commit Messages`, `Java Language Styling`, `Documentation Guide`. Following these guidelines helps Developers and Maintainers and the community which submits code to Hero Workshop all conform to the same code style and understand everything.
 
-### Commit Messages
+### <a name='CommitMessages'></a>Commit Messages
 When making `Commit Messages` please follow these guidelines:
 * Use past tense ("Added feature" not "Add feature"). This is because the commit message you are submitting is after you completed work, therefore the work you completed is in the past.
 * If multiple items were worked on in one commit, separate each item worked on with a semi-colon (;).
 
-### Java Language Styling
+### <a name='JavaLanguageStyling'></a>Java Language Styling
 
-### Documentation Guides
+### <a name='DocumentationGuides'></a>Documentation Guides
