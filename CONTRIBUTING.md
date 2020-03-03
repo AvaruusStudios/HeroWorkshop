@@ -35,17 +35,17 @@ The Hero Generator Module is as a modular JavaFX application. Every tab you inte
 ### <a name='DirectoryConvention'></a>Directory Convention
 There is a convention that has been adopted to make understanding where everything goes easier.
 * Java Class Files
-All Java Class files reside in the following directory:`src/main/java`.
-* A class that deals with the display or manipulation of items from the sourcebooks to the Hero Generator Module would reside in the following directory: `src/main/java/com/avaruus/db`
-* A class that deals with the interaction of the user interface or is a controller for an FXML file would reside in the following directory: `src/main/java/com/avaruus/heroworkshop/ui/controllers`
-* The main application is the HeroWorkshopMain.java which is in the following directory: `src/main/java/com/avaruus/heroworkshop/HeroWorkshopMain.java`
+	All Java Class files reside in the following directory:`src/main/java`.
+	* A class that deals with the display or manipulation of items from the sourcebooks to the Hero Generator Module would reside in the following directory: `src/main/java/com/avaruus/db`
+	* A class that deals with the interaction of the user interface or is a controller for an FXML file would reside in the following directory: `src/main/java/com/avaruus/heroworkshop/ui/controllers`
+	* The main application is the HeroWorkshopMain.java which is in the following directory: `src/main/java/com/avaruus/heroworkshop/HeroWorkshopMain.java`
 * Resource Files
-Every resource file resides in the following directory:`src/main/resources`.
-* Database Files: The database files being used to store the required data from the rulebooks is a JavaScript Object Notation (JSON) file. There will be multiple sourcebooks which may or may not add data to any number of controls. Each sourcebook will have their own JSON file and will structured the same way. These JSON files will be in the following directory: `src/main/resources/db`
-* Object Description Files: The very lengthy and descriptive text about every object will be Markdown (.md) files. This will be to alleviate any overly descriptive to test in the JavaScript Object Notation (JSON) files. Each sourcebook will have their own directory and it will be split up into sub categories: Species, Classes, Skills, Feats, Equipment. These Markdown files will be located in the following directory in a sub-folder for the sourcebook the pertain to: `src/main/resources/db`
-* The JavaFX XML Files: The JavaFX XML (.fxml) files are those which describe the way the user interface will look. The user interface is built to be modular, so each piece of the user interface has its' own (.fxml) file. These files are located in the following directory: `src/main/resources/fxml`.
-* Icon Files: Image files which are used as icons will be located in the following directory: `src/main/resources/icons`.
-* Sourcebooks: The sourcebooks are the rules and guidelines on how to run you storytelling experience and live in the Star Wars Universe through the experiences of your created character. These source can be used as reference and are located in the following directory: `src/main/resources/sourcebooks`
+	Every resource file resides in the following directory:`src/main/resources`.
+	* Database Files: The database files being used to store the required data from the rulebooks is a JavaScript Object Notation (JSON) file. There will be multiple sourcebooks which may or may not add data to any number of controls. Each sourcebook will have their own JSON file and will structured the same way. These JSON files will be in the following directory: `src/main/resources/db`
+	* Object Description Files: The very lengthy and descriptive text about every object will be Markdown (.md) files. This will be to alleviate any overly descriptive to test in the JavaScript Object Notation (JSON) files. Each sourcebook will have their own directory and it will be split up into sub categories: Species, Classes, Skills, Feats, Equipment. These Markdown files will be located in the following directory in a sub-folder for the sourcebook the pertain to: `src/main/resources/db`
+	* The JavaFX XML Files: The JavaFX XML (.fxml) files are those which describe the way the user interface will look. The user interface is built to be modular, so each piece of the user interface has its' own (.fxml) file. These files are located in the following directory: `src/main/resources/fxml`.
+	* Icon Files: Image files which are used as icons will be located in the following directory: `src/main/resources/icons`.
+	* Sourcebooks: The sourcebooks are the rules and guidelines on how to run you storytelling experience and live in the Star Wars Universe through the experiences of your created character. These source can be used as reference and are located in the following directory: `src/main/resources/sourcebooks`
 
 ### <a name='Branches'></a>Branches
 Hero Workshop utilizes specific branches to for development of the project.
