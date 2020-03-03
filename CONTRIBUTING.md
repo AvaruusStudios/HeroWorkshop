@@ -47,6 +47,9 @@ Every resource file resides in the following directory:`src/main/resources`.
 * Icon Files: Image files which are used as icons will be located in the following directory: `src/main/resources/icons`.
 * Sourcebooks: The sourcebooks are the rules and guidelines on how to run you storytelling experience and live in the Star Wars Universe through the experiences of your created character. These source can be used as reference and are located in the following directory: `src/main/resources/sourcebooks`
 
+### <a name='Branches'></a>Branches
+Hero Workshop utilizes specific branches to for development of the project.
+
 ## <a name='HowCanIContribute'></a>How Can I Contribute
 Currently, we need developers to help develop the Hero Workshop. The areas we are in need of help are in the following:
 * Software Development (Java): This should have a focus on JavaFX.
