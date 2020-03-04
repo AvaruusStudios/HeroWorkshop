@@ -882,7 +882,7 @@
 		},
 		"11": {
 			"name": "Rodian",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/rodian.md",
 			"description": "Rodians grow up in the culture based on hunting and tracking. They consider bounty hunting to be an art form. They romanticize death and the hunt, revering gladiatorial games and violence. They come from a tightly controlled society on an industrial world where the greatest aspiration is to become the best hunter in the galaxy.",
 			"personality": "Rodians tend to be violent, tenacious, and dedicated.",
 			"appearance": "Humaniod, with multifaceted eyes, tapered snout, and deep green skin, the average Rodian stands between 1.5 and 1.7 meters tall.",
