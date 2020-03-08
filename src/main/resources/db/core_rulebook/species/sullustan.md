@@ -1,0 +1,8 @@
+**Name:** Sullustan  
+**Description:** Sullustans live in a series of complex city-caves beneath the surface of Sullust, a harsh, volcanic world coverd in thick clouds of noxious gas. Their planet host the headquarters for the mighty sorosuub Corporation, and visitors from all over the galaxy come to see its underground cities. Living undergound has allowed the Sullustans to develop acute senses, and they are renowned for their navigational and piloting skills.\n Friendly and outgoing, Sullustans enjoy interacting with unusual and interesting beings of other species. They have a corporate mindset and a knack for business, as well as a love of space travel.  
+**Personality:** Sullustans tend to be pragmatic, pleasant and fond of practical jokes.  
+**Appearance:** Humaniod with large round eyes, big ears, and jowls, the average Sullustan stands between 1.3 and 1.8 meters tall.  
+**Homeworld:** The volcanic, technological world of Sullust.  
+**Language:** Sullustans speak Sullustese and Basic.  
+**Adventurers:** Sullustan adventurers enjoy exploring the galaxy, conducting business, andc pulling pranks to see how other react. They are inquisitive and love to discover things through personal experience. At times they can even be a bit reckless. Though some Sullustans hear the call of the Force, few attempt to follow its path.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

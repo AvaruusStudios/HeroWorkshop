@@ -962,7 +962,7 @@
 		},
 		"12": {
 			"name": "Sullustan",
-			"file": "",
+			"file": "src/main/resources/db/core_rulebook/species/Sullustan.md",
 			"description": "Sullustans live in a series of complex city-caves beneath the surface of Sullust, a harsh, volcanic world coverd in thick clouds of noxious gas. Their planet host the headquarters for the mighty sorosuub Corporation, and visitors from all over the galaxy come to see its underground cities. Living undergound has allowed the Sullustans to develop acute senses, and they are renowned for their navigational and piloting skills.\\n Friendly and outgoing, Sullustans enjoy interacting with unusual and interesting beings of other species. They have a corporate mindset and a knack for business, as well as a love of space travel.",
 			"personality": "Sullustans tend to be pragmatic, pleasant and fond of practical jokes.",
 			"appearance": "Humaniod with large round eyes, big ears, and jowls, the average Sullustan stands between 1.3 and 1.8 meters tall.",
