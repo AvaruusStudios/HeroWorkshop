@@ -32,10 +32,16 @@ Hero Workshop is an open source project to support the players of Pen+Paper Role
 
 The Hero Generator Module is as a modular JavaFX application. Every tab you interact with and the menubar are their own FXML file. The Game Master Module will also be a modular JavaFX application.
 
-### Setting Up Your Interactive Development Environment (IDE)
+### <a name='SettingUpYourInteractiveDevelopmentEnvironment'></a>Setting Up Your Interactive Development Environment (IDE)
 Please find below instructions to set up your Interactive Development Environment:
 
-#### IntelliJ IDEA by JetBrains
+#### <a name='IntelliJIDEA'></a>IntelliJ IDEA by JetBrains
+
+```
+--module-path "C:\Program Files\Java\javafx-sdk-13.0.2\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web
+```
+
+#### <a name='Netbeans11'></a>Netbeans v11.3
 
 
 ### <a name='DirectoryConvention'></a>Directory Convention
