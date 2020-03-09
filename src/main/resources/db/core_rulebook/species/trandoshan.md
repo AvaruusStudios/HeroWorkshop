@@ -1,0 +1,8 @@
+**Name:** Trandoshan  
+**Description:** The reptilian Trandoshans are known for their great strength and warlike natures. Many of these beings dedicate themselves to martial training, and some follow the path of the hunter on their native world. A few have even become renowned (or infamous) bounty hunters in the galactic society, taking what they learned on Trandosha and utilizing it beyond their home star system,. These reptilian humaniods make good scouts and soldiers, but all of the non-Force-using classes apear throughout their society. (Force-using Trandoshans are extremely rare.) A fued has developed between some Trandoshans and some Wookiees (their homeworlds are in close proximity), but there are as many or more examples of Trandoshans and Wookiees working together and cooperating as there are instances of problems between the two cultures.  
+**Personality:** Violent, brutal, and driven, Trandoshans love to compete, but can show compassion and mercy as the situation warrants.  
+**Appearance:** Trandoshans range from 1.5 to 2.1 meters tall. Their scaly hides offer additional defense against attackers.  
+**Homeworld:** Trandosha (also known as Dosha).  
+**Language:** Trandoshans speak Dosh and Basic.  
+**Adventurers:** A Trandoshan adventureer craves the thrill of battle. Some leave Dosha to become bodyguards or mercenaries. OTher set out to find new places to hunt and explore. A few use their warrior traditions to become soldiers, some even developing into bounty hunters as time does by. They may appear gruff and unpleasant at first, but if given the chance they become valuable members of any mission team.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.
