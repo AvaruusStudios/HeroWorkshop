@@ -1,0 +1,8 @@
+**Name:** Wookiee  
+**Description:** Known for their battle skills, Wookiees are long-lived and very strong, with an aptitude for mechanical endeavors. They may appear to be primitive, but they are quite adept with high technology. While Wookiees have a reputation for hostility (such as pulling arms off driods), they also possess a great capacity for kindness. They make loyal friends. Wookiees have a great many customs and traditions that revolve around honor and loyalty, including the special bond of friendship called the honor family, and the sacred pledge of honor called the life debt. Though arboreal, a Wookiee never uses its climbing claws in combat. Doing this is considered dishonorable and a sign of madness.  
+**Personality:** Wookiees tend to be honorable, rash, loyal, and short-tempered.  
+**Appearance:** Large, arboreal humaniods covered in thick fur, Wookiees range in height from 2 to 2.3 meters.  
+**Homeworld:** Wookiees come from the jungle world of Kashyyyk.  
+**Language:** Wookiees speak Shyriiwook, which consists of grunts and growls. They can understand Basic, but they can't speak anything other than Shyriiwook due to vocal limitations.  
+**Adventurers:** Wookiee adventurers usually start out as wanders or explorers. They tend to bond with fellow adventurers, forming extended honor families. Some even pledge life debts to individuals who perform a great service (equivalent to saving a Wookiee's life). There are Force adepts among the giant trees of Kashyyyk, and a few Wookiees have even taken up the traditions of Jedi.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.

@@ -1,0 +1,8 @@
+**Name:** Twi'lek  
+**Description:** From the dry, rocky world of Ryloth, Twi'leks have made a place for themselves along the galactic rim. These exotic beings, known for beautiful head-tails (called lekku), can also be found on planets such as Tatooine and Malastare. Sly, calculating beings, Twi'leks prefer to avoid trouble and stick to the shadows until an opportunity to act without undue danger to themselves presents itself. They like to observe, plan, and prepare - rarely does an individual Twi'lek rush into anything. Some can be vain, but most keep an eye out for a way to profit from any situation.  
+**Personality:** Twi'leks tend to be cunning, charismatic, and profit-oriented.  
+**Appearance:** Humaniod, with long, tapered head-tails, the average Twi'lek stands between 1.6 and 2.1 meters tall. Skin tones include shades of blue, white, and green.  
+**Homeworld:** Twi'leks come from the planet Ryloth.  
+**Language:** Twi'leks speak Ryl and Basic. Some learn Huttese.  
+**Adventurers:** Twi'lek adventurers leave their storm-wept planet to explore the Outer Rim and seek fame and fortune. They prefer to work behind the scenes, letting others stand in the full light of day. Few Twi'leks can stand the regimented lifestyle of the soldier, but many wind up in business (whether legal or illegal), performing as enterainers, or even serving as diplomats. The Force is strong in this species, and some Twi'leks gravitate toward Jedi studies.  
+**Size:** Medium: As Medium-size creatures, Humans have no special bonuses or penalties due to their size.
