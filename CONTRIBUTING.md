@@ -36,12 +36,36 @@ The Hero Generator Module is as a modular JavaFX application. Every tab you inte
 Please find below instructions to set up your Interactive Development Environment:
 
 #### <a name='IntelliJIDEA'></a>IntelliJ IDEA by JetBrains
+The below set of instructions will help you setup IntelliJ IDEA as you development environment:
+1. Download and Install IntelliJ IDEA [here](https://www.jetbrains.com/idea/download/)
+2. Download JavaFX 13 [here](https://gluonhq.com/products/javafx/) and Extract to a location of your choice
+3. Launch IntelliJ IDEA by clicking the icon on your desktop
+4. Click `Get from Version Control` on the Welcome to IntelliJ IDEA window
+5. Paste `https://github.com/AvaruusStudios/HeroWorkshop.git` in the URL textbox
+6. Click the `Close` button
+7. Enable Auto-Import for Maven Projects
+8. Click `File` > `Project Structure...`
+9.  Click `Modules` under Project Settings
+10. Remove all modules except for one
+11. Click `Libraries` under Project Settings
+12. Click the `+` to Add a New Library
+13. Browse to the JavaFX 13 location and add the lib folder
+14. Click `OK`
+15. Rename the newly added library to `JavaFX`
+16. Click `Add Configuration...` at the top right of the screen
+17. Click the `+` to Add a Application Build
+18. Ensure the following options are set:  
+    1.  Main Class: `com.avaruus.heroworkshop.HeroWorkshopMain`
+    2.  VM Options:  `--module-path "C:\Program Files\Java\javafx-sdk-13.0.2\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web`
+    3.  Working Directory: `C:\Users\Troy Pilewski\IdeaProjects\HeroWorkshop`
+    4.  Java Runtime Environment (JRE): `Default`
+19. Click `OK`
 
 ```
 --module-path "C:\Program Files\Java\javafx-sdk-13.0.2\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web
 ```
 
-#### <a name='Netbeans11'></a>Netbeans v11.3
+#### <a name='Netbeans11'></a>Netbeans by Apache
 
 
 ### <a name='DirectoryConvention'></a>Directory Convention
