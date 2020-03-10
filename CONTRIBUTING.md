@@ -61,10 +61,6 @@ The below set of instructions will help you setup IntelliJ IDEA as you developme
     4.  Java Runtime Environment (JRE): `Default`
 19. Click `OK`
 
-```
---module-path "C:\Program Files\Java\javafx-sdk-13.0.2\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web
-```
-
 #### <a name='Netbeans11'></a>Netbeans by Apache
 
 
