@@ -13,7 +13,7 @@
     <content>
         <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
             <children>
-                <SplitPane dividerPositions="0.25" prefHeight="544.0" prefWidth="1183.0">
+                <SplitPane dividerPositions="0.25">
                     <items>
                         <AnchorPane minHeight="0.0" minWidth="0.0">
                             <children>
@@ -51,7 +51,7 @@
                         </AnchorPane>
                         <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                             <children>
-                                <VBox prefHeight="544.0" prefWidth="883.0" spacing="5.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                <VBox prefWidth="883.0" spacing="5.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                                     <children>
                                         <HBox>
                                             <children>
@@ -95,6 +95,7 @@
                         </AnchorPane>
                     </items>
                 </SplitPane>
-            </children></AnchorPane>
+            </children>
+        </AnchorPane>
     </content>
 </Tab>
