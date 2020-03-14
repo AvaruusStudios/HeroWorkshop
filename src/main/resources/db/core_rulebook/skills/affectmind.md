@@ -2,6 +2,7 @@
 _Force Skill; Requires Force Sensitive and Alter Feats_    
 You can use the Force to alter a target's perceptions or make a telepathic suggestion in another character's mind.  
 **Check:** The result of an Affect Mind check sets the DC for the target's Will save. (Note that this skill works best on weak-willed characters. Those with good Will save bonuses are harder to fool with "Jedi mind tricks.")  
+
 | Result  	| Will Saving Throw DC 	|
 |---------	|:--------------------:	|
 | Up to 4 	|           5          	|
