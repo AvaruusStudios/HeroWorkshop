@@ -16,7 +16,8 @@ You can use the Force to alter a target's perceptions or make a telepathic sugge
     Obi-Wan Kenobi uses this application of this skill in A New Hope to distract the stormtroopers aboard the Death Star.  
     _Suggestion:_ This is a classic "Jedi Mind Trick", allowing you to make an otherwise unpalatable suggestion seem completely acceptable to the target. You must be able to communicate with the target, and the suggestion can't obviously threaten the target's life. The target won't wont realize later that what they did was unreasonable.  
     Obi-Wan Kenobi successfully uses this application of this skill to get past the stormtrooper in A New Hope. Jabba the Hutt and Watto both make their Will saves against this application of the skill in Return of the Jedi and The Phantom Menace, respectively.  
-**Retry:** Text  
-**Special:** Text  
-**Time:** Text  
-**Vitality Point Cost:** Text  
+**Retry:** No. You can attempt to affect the mind of the same character in another situation after time has passed, but not in the same encounter or scene.   
+**Special:** You can take 10 when making an Affect Mind check, but you can't take 20.  
+A character with the Mind Trick feat gets a +2 aptitude bonus on Affect Mind checks.
+**Time:** Affect Mind is a full-round action.  
+**Vitality Point Cost:** 2 (alter perceptions); 4 (suggestion)  
