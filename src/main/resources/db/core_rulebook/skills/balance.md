@@ -11,10 +11,14 @@ You can keep your balance while walking on a tightrope, a narrow beam, a ledge, 
 
 | Surface Type 	|  DC 	|
 |--------------	|:-----:|
-| Angled       	| +5 	|
-| Slippery     	| +5 	|
-  
-**Retry:** Text.   
-**Special:** Text.  
-**Time:** Text.  
-**Vitality Point Cost:** Text.  
+| Angled       	| +5* 	|
+| Slippery     	| +5*	|
+\*Cumulative, if both apply, use both.  
+
+_Being Attacked While Balancing:_ Attacks against you while you are balancing gain a +2 bonus on the attack roll, and you lose your Dexterity bonus to your Defense (if any). If you have five (5) or more ranks in this skill, you retain your Dexterity bonus to Defense when attacked while balancing. If an attack deals damage to you, you must immediately make a Balance check or fall.  
+_Accelerated Movement:_ You can try to walk across a precarious surface more quickly than normal. You can move you full speed but you take a -5 penalty.  
+**Retry:** None.   
+**Special:** You can take 10 when making a Balance check, but you can't take 20.  
+A character with the Steady feat and at least one rank in this skill gets a +2 aptitude bonus on Balance checks.  
+**Time:** Balance is a move action.  
+**Vitality Point Cost:** None.  
