@@ -3,8 +3,12 @@ You can make the outrageous or the untrue seem plausible. The skill encompasses 
 **Check:** A Bluff check is opposed by the targets Sense Motive check. Favorable and unfavorable circumstances can weigh against youL The Bluff is hard to believe or the action that the bluff requires the target to take does against the target's self-interest, nature, personality, or orders.  
 If it's important, the GM can distinguish between a bluff that fails because the target doesn't believe it and one that fails because it just asks too much of the target. For instance, if the target get a +10 bonus because the bluff demands something risky of the target, and the target's Sense Motive check succeeds by 10 or less, then the target didn't so much as see through the bluff as prove reluctant to go along with it. If the target's Sense Motive check succeeds by 11 or more, he has seen through the bluff (and would have done so even if it had bot placed any demand on him).  
 A successful Bluff check indicates that the target reacts as you wish, at least for a short time (usually 1 round or less), or the target believes something that you want them to believe. For example, you could use a bluff to put someone off guard by telling them someone was behind them. At best, such a bluff would make the target glance over their shoulder. It would not cause the target to ignore you and completely turn around.  
-A bluff requires interaction between the character and the target 
-**Retry:** Text.   
-**Special:** Text.  
-**Time:** Text.  
-**Vitality Point Cost:** Text.  
+A bluff requires interaction between the character and the target. Targets unaware of the character can't be bluffed.  
+_Feinting In Combat:_ You can also use bluff to mislead an opponent in combat so that he can't dodge your attack effectively. If you succeed, the next attack you make against the target ignores their Dexterity bonus to Defense (if any), thus lowering the Defense score. Feinting in this way against a target of a different species from you is difficult because it's harder to read an alien's body language; you take a -4 penalty. Against a creature of animal Intelligence (1 or 2) it's even harder; you take a -8 penalty. Against a non-intelligent creature, it's impossible.  
+_Creating A Diversion To Hide:_ You can use Bluff to help you hide. A successful Bluff check gives you the momentary diversion you need to attempt a Hide check while people are aware of you. (See Hide)  
+**Retry:** Generally, a failed Bluff check makes the target too suspicious for you to try another bluff check in the same circumstances. For feinting in combat, you may retry freely.     
+**Special:** You can take 10 when making a bluff (except for feinting in combat), but you can't take 20.  
+A character with the Trick feat gets a +2 aptitude bonus on Bluff checks.  
+**Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if you try something elaborate.  
+Using Bluff as a feint in combat is an attack action.  
+**Vitality Point Cost:** None.  
