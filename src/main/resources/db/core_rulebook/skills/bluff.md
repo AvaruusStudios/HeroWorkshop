@@ -11,4 +11,4 @@ _Creating A Diversion To Hide:_ You can use Bluff to help you hide. A successful
 A character with the Trick feat gets a +2 aptitude bonus on Bluff checks.  
 **Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if you try something elaborate.  
 Using Bluff as a feint in combat is an attack action.  
-**Vitality Point Cost:** None.  
+**Vitality Point Cost:** None   .  
