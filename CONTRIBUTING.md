@@ -38,7 +38,7 @@ Please find below instructions to set up your Interactive Development Environmen
 #### <a name='IntelliJIDEA'></a>IntelliJ IDEA by JetBrains
 The below set of instructions will help you setup IntelliJ IDEA as you development environment:
 1. Download and Install IntelliJ IDEA [here](https://www.jetbrains.com/idea/download/)
-2. Download JavaFX 13 [here](https://gluonhq.com/products/javafx/) and Extract to a location of your choice
+2. Download JavaFX [here](https://gluonhq.com/products/javafx/) and Extract to a location of your choice
 3. Launch IntelliJ IDEA by clicking the icon on your desktop
 4. Click `Get from Version Control` on the Welcome to IntelliJ IDEA window
 5. Paste `https://github.com/AvaruusStudios/HeroWorkshop.git` in the URL textbox
