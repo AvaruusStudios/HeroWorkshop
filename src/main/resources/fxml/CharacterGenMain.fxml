@@ -153,7 +153,7 @@
                                                    <children>
                                                       <VBox minWidth="-Infinity">
                                                          <children>
-                                                            <ScrollPane prefViewportHeight="138.0" prefViewportWidth="280.0">
+                                                            <ScrollPane prefViewportHeight="138.0" prefViewportWidth="280.0" prefWidth="295.0">
                                                                <content>
                                                                   <TableView fx:id="tblSpokenLanguages" prefHeight="125.0">
                                                                      <columns>
@@ -1067,7 +1067,7 @@
                                                 </ScrollPane>
                                              </children>
                                           </HBox>
-                                          <HBox alignment="CENTER_RIGHT" layoutX="10.0" layoutY="10.0" prefWidth="349.0" spacing="5.0">
+                                          <HBox alignment="CENTER_RIGHT" layoutX="10.0" layoutY="10.0" prefWidth="292.0" spacing="5.0">
                                              <children>
                                                 <Spinner prefHeight="25.0" prefWidth="75.0" />
                                                 <Button mnemonicParsing="false" text="Add Level(s)" />
@@ -1075,6 +1075,9 @@
                                              <opaqueInsets>
                                                 <Insets bottom="10.0" />
                                              </opaqueInsets>
+                                             <padding>
+                                                <Insets bottom="5.0" left="5.0" right="5.0" />
+                                             </padding>
                                           </HBox>
                                        </children>
                                        <opaqueInsets>
@@ -1107,6 +1110,9 @@
                                              <children>
                                                 <Button mnemonicParsing="false" text="Remove Level" />
                                              </children>
+                                             <padding>
+                                                <Insets left="5.0" />
+                                             </padding>
                                           </HBox>
                                           <HBox>
                                              <children>
