@@ -1564,37 +1564,38 @@
 			],
 			"class": [
 				{
-					"Fringer": false,
+					"Fringer": true,
 					"Noble": true,
-					"Scoundrel": false,
-					"Scout": false,
-					"Soldier": false,
-					"Tech Specialist": false,
+					"Scoundrel": true,
+					"Scout": true,
+					"Soldier": true,
+					"Tech Specialist": true,
 					"Force Adept": true,
 					"Jedi Consular": true,
 					"Jedi Guardian": true
 				}
 			],
 			"armor_check_penalty": false,
-			"description": "You can use the Force to alter a target's perceptions or make a telepathic suggestion in another character's mind.",
-			"check": "The result of an Affect Mind check sets the DC for the target's Will save. (Note that this skill works best on weak-willed characters. Those with good Will save bonuses are harder to fool with \"Jedi mind tricks.\"\\n Declare whether you are attempting to alter perceptions or make a suggestion when you make your Affect Mind check. If the target's saving throw fails, you can do one of the following things.",
+			"description": "",
+			"check": "",
 			"retry": "",
 			"special": "",
 			"time": "",
 			"vitality_point_cost": "",
-			"action_type": ""
+			"action_type": "Full"
 		},
 		"1": {
-			"name": "",
-			"key_ability": "",
-			"use_untrained": "",
-			"force_skill": "",
-			"req'd_feats": "",
+			"name": "Appraise",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
 			"class": [
 				{
 					"Fringer": false,
 					"Noble": true,
-					"Scoundrel": false,
+					"Scoundrel": true,
 					"Scout": false,
 					"Soldier": false,
 					"Tech Specialist": false,
@@ -1603,7 +1604,7 @@
 					"Jedi Guardian": false
 				}
 			],
-			"armor_check_penalty": "",
+			"armor_check_penalty": false,
 			"description": "",
 			"check": "",
 			"retry": "",
@@ -1611,6 +1612,298 @@
 			"time": "",
 			"vitality_point_cost": "",
 			"action_type": ""
+		},
+		"2": {
+			"name": "Astrogate",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": true,
+					"Soldier": true,
+					"Tech Specialist": true,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": false
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"4": {
+			"name": "Battlemind",
+			"key_ability": "Constitution (CON)",
+			"use_untrained": false,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Control"
+			],
+			"class": [
+				{
+					"Fringer": true,
+					"Noble": true,
+					"Scoundrel": true,
+					"Scout": true,
+					"Soldier": true,
+					"Tech Specialist": true,
+					"Force Adept": true,
+					"Jedi Consular": true,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"5": {
+			"name": "Bluff",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": true,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
+		},
+		"3": {
+			"name": "Balance",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Move"
 		}
 	},
 	"feats": {
