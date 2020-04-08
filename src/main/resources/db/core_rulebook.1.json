@@ -1731,36 +1731,36 @@
 			"vitality_point_cost": "",
 			"action_type": ""
 		},
-		"3": {
-			"name": "Balance",
-			"key_ability": "Dexterity (DEX)",
+		"6": {
+			"name": "Climb",
+			"key_ability": "Strength (STR)",
 			"use_untrained": true,
 			"force_skill": false,
 			"req'd_feats": [
 			],
 			"class": [
 				{
-					"Fringer": false,
+					"Fringer": true,
 					"Noble": false,
 					"Scoundrel": true,
-					"Scout": false,
+					"Scout": true,
 					"Soldier": false,
 					"Tech Specialist": false,
-					"Force Adept": false,
+					"Force Adept": true,
 					"Jedi Consular": false,
 					"Jedi Guardian": true
 				}
 			],
-			"armor_check_penalty": false,
+			"armor_check_penalty": true,
 			"description": "",
 			"check": "",
 			"retry": "",
 			"special": "",
 			"time": "",
 			"vitality_point_cost": "",
-			"action_type": "Move"
+			"action_type": "Full Round/Move"
 		},
-		"3": {
+		"7": {
 			"name": "Balance",
 			"key_ability": "Dexterity (DEX)",
 			"use_untrained": true,
