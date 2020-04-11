@@ -1761,9 +1761,67 @@
 			"action_type": "Full Round/Move"
 		},
 		"7": {
-			"name": "Balance",
-			"key_ability": "Dexterity (DEX)",
+			"name": "Computer Use",
+			"key_ability": "Intelligence (INT)",
 			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": true,
+					"Scoundrel": true,
+					"Scout": true,
+					"Soldier": true,
+					"Tech Specialist": true,
+					"Force Adept": false,
+					"Jedi Consular": true,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Full-Round"
+		},
+		"8": {
+			"name": "Craft",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": true,
+					"Noble": true,
+					"Scoundrel": true,
+					"Scout": true,
+					"Soldier": true,
+					"Tech Specialist": true,
+					"Force Adept": true,
+					"Jedi Consular": true,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"9": {
+			"name": "Demolitions",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": false,
 			"force_skill": false,
 			"req'd_feats": [
 			],
@@ -1772,12 +1830,41 @@
 					"Fringer": false,
 					"Noble": false,
 					"Scoundrel": true,
+					"Scout": true,
+					"Soldier": true,
+					"Tech Specialist": true,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": false
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Full-Round"
+		},
+		"10": {
+			"name": "Diplomacy",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": true,
+					"Scoundrel": false,
 					"Scout": false,
 					"Soldier": false,
 					"Tech Specialist": false,
 					"Force Adept": false,
-					"Jedi Consular": false,
-					"Jedi Guardian": true
+					"Jedi Consular": true,
+					"Jedi Guardian": false
 				}
 			],
 			"armor_check_penalty": false,
@@ -1789,94 +1876,7 @@
 			"vitality_point_cost": "",
 			"action_type": "Move"
 		},
-		"3": {
-			"name": "Balance",
-			"key_ability": "Dexterity (DEX)",
-			"use_untrained": true,
-			"force_skill": false,
-			"req'd_feats": [
-			],
-			"class": [
-				{
-					"Fringer": false,
-					"Noble": false,
-					"Scoundrel": true,
-					"Scout": false,
-					"Soldier": false,
-					"Tech Specialist": false,
-					"Force Adept": false,
-					"Jedi Consular": false,
-					"Jedi Guardian": true
-				}
-			],
-			"armor_check_penalty": false,
-			"description": "",
-			"check": "",
-			"retry": "",
-			"special": "",
-			"time": "",
-			"vitality_point_cost": "",
-			"action_type": "Move"
-		},
-		"3": {
-			"name": "Balance",
-			"key_ability": "Dexterity (DEX)",
-			"use_untrained": true,
-			"force_skill": false,
-			"req'd_feats": [
-			],
-			"class": [
-				{
-					"Fringer": false,
-					"Noble": false,
-					"Scoundrel": true,
-					"Scout": false,
-					"Soldier": false,
-					"Tech Specialist": false,
-					"Force Adept": false,
-					"Jedi Consular": false,
-					"Jedi Guardian": true
-				}
-			],
-			"armor_check_penalty": false,
-			"description": "",
-			"check": "",
-			"retry": "",
-			"special": "",
-			"time": "",
-			"vitality_point_cost": "",
-			"action_type": "Move"
-		},
-		"3": {
-			"name": "Balance",
-			"key_ability": "Dexterity (DEX)",
-			"use_untrained": true,
-			"force_skill": false,
-			"req'd_feats": [
-			],
-			"class": [
-				{
-					"Fringer": false,
-					"Noble": false,
-					"Scoundrel": true,
-					"Scout": false,
-					"Soldier": false,
-					"Tech Specialist": false,
-					"Force Adept": false,
-					"Jedi Consular": false,
-					"Jedi Guardian": true
-				}
-			],
-			"armor_check_penalty": false,
-			"description": "",
-			"check": "",
-			"retry": "",
-			"special": "",
-			"time": "",
-			"vitality_point_cost": "",
-			"action_type": "Move"
-		},
-		"3": {
+		"11": {
 			"name": "Balance",
 			"key_ability": "Dexterity (DEX)",
 			"use_untrained": true,
@@ -1915,7 +1915,7 @@
 					"0": null
 				}
 			],
-			"benefit": "You gain a +2 apitude bonus on all Jump checks and Tumble checks. Remember, the Tumble skill cannot be used untrained.",
+			"benefit": "You gain a +2 aptitude bonus on all Jump checks and Tumble checks. Remember, the Tumble skill cannot be used untrained.",
 			"nomral": "",
 			"special": ""
 		}
