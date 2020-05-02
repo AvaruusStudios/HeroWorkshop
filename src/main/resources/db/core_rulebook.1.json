@@ -1877,7 +1877,1022 @@
 			"action_type": "Move"
 		},
 		"11": {
-			"name": "Balance",
+			"name": "Disable Device",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": "Full-round"
+		},
+		"12": {
+			"name": "Disguise",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"13": {
+			"name": "Drain Energy",
+			"key_ability": "Constitution (CON)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"14": {
+			"name": "Empathy",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"15": {
+			"name": "Enhance Ability",
+			"key_ability": "Constitution (CON)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"16": {
+			"name": "Enhance Senses",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Sense"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"17": {
+			"name": "Entertain",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"18": {
+			"name": "Escape Artist",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": true,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"19": {
+			"name": "Farseeing",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": false,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Sense"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"20": {
+			"name": "Fear",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Sense"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"21": {
+			"name": "Force Defense",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Control"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"22": {
+			"name": "Force Grip",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"23": {
+			"name": "Force Lightning",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"24": {
+			"name": "Force Stealth",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Control"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"25": {
+			"name": "Force Strike",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"26": {
+			"name": "Forgery",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"27": {
+			"name": "Friendship",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": false,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"28": {
+			"name": "Gamble",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"29": {
+			"name": "Gather Information",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"30": {
+			"name": "Handle Animal",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"31": {
+			"name": "Heal Another",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"32": {
+			"name": "Heal Self",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Control"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"33": {
+			"name": "Hide",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": true,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"34": {
+			"name": "Illusion",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"35": {
+			"name": "Intimidate",
+			"key_ability": "Charisma (CHA)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"36": {
+			"name": "Jump",
+			"key_ability": "Strength (STR)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": true,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"37": {
+			"name": "Knowledge",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"38": {
+			"name": "Listen",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"39": {
+			"name": "Move Object",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Alter"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"40": {
+			"name": "Move Silently",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": true,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"41": {
+			"name": "Pilot",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"42": {
+			"name": "Profession",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"43": {
+			"name": "Read/Write Language",
+			"key_ability": "",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"44": {
+			"name": "Repair",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"45": {
+			"name": "Ride",
 			"key_ability": "Dexterity (DEX)",
 			"use_untrained": true,
 			"force_skill": false,
@@ -1903,7 +2918,301 @@
 			"special": "",
 			"time": "",
 			"vitality_point_cost": "",
-			"action_type": "Move"
+			"action_type": ""
+		},
+		"46": {
+			"name": "Search",
+			"key_ability": "Intelligence (INT)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"47": {
+			"name": "See Force",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Sense"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"48": {
+			"name": "Sense Motive",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"49": {
+			"name": "Slight of Hand",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": true,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"50": {
+			"name": "Speak Language",
+			"key_ability": "",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"51": {
+			"name": "Spot",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"52": {
+			"name": "Survival",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"53": {
+			"name": "Swim",
+			"key_ability": "Strength (STR)",
+			"use_untrained": true,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"54": {
+			"name": "Telepathy",
+			"key_ability": "Wisdom (WIS)",
+			"use_untrained": true,
+			"force_skill": true,
+			"req'd_feats": [
+				"Force-Sensitive",
+				"Sense"
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": false,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
+		},
+		"55": {
+			"name": "Tumble",
+			"key_ability": "Dexterity (DEX)",
+			"use_untrained": false,
+			"force_skill": false,
+			"req'd_feats": [
+			],
+			"class": [
+				{
+					"Fringer": false,
+					"Noble": false,
+					"Scoundrel": true,
+					"Scout": false,
+					"Soldier": false,
+					"Tech Specialist": false,
+					"Force Adept": false,
+					"Jedi Consular": false,
+					"Jedi Guardian": true
+				}
+			],
+			"armor_check_penalty": true,
+			"description": "",
+			"check": "",
+			"retry": "",
+			"special": "",
+			"time": "",
+			"vitality_point_cost": "",
+			"action_type": ""
 		}
 	},
 	"feats": {
