@@ -78,7 +78,7 @@ For contribution, please refer to our detailed guide CONTRIBUTING.md
 Troy Pilewski ([@troypilewski](https://github.com/troypilewski))  
 Justin Nichols ([@justinnichols](https://github.com/justinnichols))  
 15Nova22 ([@15Nova22](https://github.com/15Nova22))  
-BattlestarSC ([@BattlestarSC](https://github.com/BattlestarSC))
+<!-- BattlestarSC ([@BattlestarSC](https://github.com/BattlestarSC)) -->
 <!-- Sumant Khapre ([@sumant2000](https://github.com/sumant2000))  -->
 <!-- Mindaugas Vasiliauskas ([@mivasiliauskas](https://github.com/mivasiliauskas))  -->
 <!-- Saurav Bhuju ([@sbhuju61](https://github.com/sbhuju61))  -->
