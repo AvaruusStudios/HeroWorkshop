@@ -3218,13 +3218,13 @@
 	"feats": {
 		"0": {
 			"name": "Acrobatic",
-			"description": "You are very agile.",
+			"description": "",
 			"prerequisite": [
 				{
 					"0": null
 				}
 			],
-			"benefit": "You gain a +2 aptitude bonus on all Jump checks and Tumble checks. Remember, the Tumble skill cannot be used untrained.",
+			"benefit": "",
 			"nomral": "",
 			"special": ""
 		}

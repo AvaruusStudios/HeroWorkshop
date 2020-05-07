@@ -49,7 +49,7 @@ The below set of instructions will help you setup IntelliJ IDEA as you developme
 10. Remove all modules except for one
 11. Click `Libraries` under Project Settings
 12. Click the `+` to Add a New Library
-13. Browse to the JavaFX 13 location and add the lib folder
+13. Browse to the JavaFX location and add the lib folder
 14. Click `OK`
 15. Rename the newly added library to `JavaFX`
 16. Click `Add Configuration...` at the top right of the screen
