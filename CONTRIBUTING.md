@@ -53,7 +53,7 @@ The below set of instructions will help you setup IntelliJ IDEA as you developme
 14. Click `OK`
 15. Rename the newly added library to `JavaFX`
 16. Click `Add Configuration...` at the top right of the screen
-17. Click the `+` to Add a Application Build
+17. Click the `+` to Add an Application Build
 18. Ensure the following options are set:  
     1.  Main Class: `com.avaruus.heroworkshop.HeroWorkshopMain`
     2.  VM Options:  `--module-path "C:\Program Files\Java\javafx-sdk-13.0.2\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web`
