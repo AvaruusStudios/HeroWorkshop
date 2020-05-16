@@ -1,8 +1,8 @@
 package com.avaruus.heroworkshop.ui.controllers;
 
 import com.avaruus.db.JsonConnection;
-import com.avaruus.db.SpeciesModel.SpeciesCommunity;
-import com.avaruus.db.SpeciesModel.SpeciesModel;
+import com.avaruus.db.species.SpeciesCommunity;
+import com.avaruus.db.species.SpeciesModel;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -10,7 +10,7 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.*;
 import org.springframework.stereotype.Controller;
 import com.avaruus.db.abilities.AbilitiesTableModel;
-import com.avaruus.db.SpeciesModel.SingleStringColumn;
+import com.avaruus.db.species.SingleStringColumn;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonMappingException;
