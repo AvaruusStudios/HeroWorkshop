@@ -36,7 +36,7 @@ The Hero Generator Module is as a modular JavaFX application. Every tab you inte
 Please find below instructions to set up your Interactive Development Environment:
 
 #### <a name='IntelliJIDEA'></a>IntelliJ IDEA by JetBrains
-The below set of instructions will help you setup IntelliJ IDEA as you development environment:
+The below set of instructions will help you setup IntelliJ IDEA as your development environment:
 1. Download and Install IntelliJ IDEA [here](https://www.jetbrains.com/idea/download/)
 2. Download JavaFX [here](https://gluonhq.com/products/javafx/) and Extract to a location of your choice
 3. Launch IntelliJ IDEA by clicking the icon on your desktop
