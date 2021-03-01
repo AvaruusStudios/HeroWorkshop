@@ -23,7 +23,7 @@ Hero Workshop is a Pen+Paper Role-Playing Game Hero Generator which can then be 
 
 ## <a name='Development'></a>Development
 Prerequisites:
-  * JDK13 Installed: https://jdk.java.net/13/
+  * JDK Installed: https://www.oracle.com/java/technologies/javase-downloads.html
   * Maven Installed: https://maven.apache.org/install.html
   * OpenJFX Installed: https://openjfx.io/index.html
   
