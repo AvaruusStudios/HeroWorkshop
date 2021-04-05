@@ -1,4 +1,4 @@
-package com.avaruus.db.abilities;
+package com.avaruus.heroworkshop.ui.controllers;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -6,8 +6,8 @@ package com.avaruus.db.abilities;
  * and open the template in the editor.
  */
 
-/**
- * @name Hero.java
+/*
+  @name Hero.java
  * @author Avaruus Studios
  * @date Aug 28, 2019
  */
