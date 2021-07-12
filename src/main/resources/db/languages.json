@@ -1,0 +1,254 @@
+{
+  "0": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Basic",
+    "spoken": [
+      "Human",
+      "Bothen"
+    ],
+    "literate": [
+      "Human",
+      "Bothen"
+    ]
+  },
+  "1": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Bothese",
+    "spoken": [
+      "Bothen"
+    ],
+    "literate": [
+      "Bothen"
+    ]
+  },
+  "2": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Cerean",
+    "spoken": [
+      "Cerean"
+    ],
+    "literate": [
+      "Cerean"
+    ]
+  },
+  "3": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Dosh",
+    "spoken": [
+      "Dosh"
+    ],
+    "literate": [
+      "Dosh"
+    ]
+  },
+  "4": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Dug",
+    "spoken": [
+      "Dug"
+    ],
+    "literate": [
+      "Dug"
+    ]
+  },
+  "5": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Dosh",
+    "spoken": [
+      "Durese"
+    ],
+    "literate": [
+      "Durese"
+    ]
+  },
+  "6": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Ewokese",
+    "spoken": [
+      "Ewokese"
+    ],
+    "literate": [
+      "Ewokese"
+    ]
+  },
+  "7": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Gamorrean",
+    "spoken": [
+      "Gamorrean"
+    ],
+    "literate": [
+      "Gamorrean"
+    ]
+  },
+  "8": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Geonosian",
+    "spoken": [
+      "Geonosian"
+    ],
+    "literate": [
+      "Geonosian"
+    ]
+  },
+  "9": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Gungan",
+    "spoken": [
+      "Gungan"
+    ],
+    "literate": [
+      "Gungan"
+    ]
+  },
+  "10": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Huttese",
+    "spoken": [
+      "Huttese"
+    ],
+    "literate": [
+      "Huttese"
+    ]
+  },
+  "11": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Ithorese",
+    "spoken": [
+      "Ithorese"
+    ],
+    "literate": [
+      "Ithorese"
+    ]
+  },
+  "12": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Jawa Trade Language",
+    "spoken": [
+      "Jawa Trade Language"
+    ],
+    "literate": [
+      "Jawa Trade Language"
+    ]
+  },
+  "13": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Kaminoan",
+    "spoken": [
+      "Kaminoan"
+    ],
+    "literate": [
+      "Kaminoan"
+    ]
+  },
+  "14": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Kel Dor",
+    "spoken": [
+      "Kel Dor"
+    ],
+    "literate": [
+      "Kel Dor"
+    ]
+  },
+  "15": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Mon Calamarian",
+    "spoken": [
+      "Mon Calamarian"
+    ],
+    "literate": [
+      "Mon Calamarian"
+    ]
+  },
+  "16": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Neimoidian",
+    "spoken": [
+      "Neimoidian"
+    ],
+    "literate": [
+      "Neimoidian"
+    ]
+  },
+  "17": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Quarrenese",
+    "spoken": [
+      "Quarrenese"
+    ],
+    "literate": [
+      "Quarrenese"
+    ]
+  },
+  "18": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Rodese",
+    "spoken": [
+      "Rodese"
+    ],
+    "literate": [
+      "Rodese"
+    ]
+  },
+  "19": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Ryl",
+    "spoken": [
+      "Ryl"
+    ],
+    "literate": [
+      "Ryl"
+    ]
+  },
+  "20": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Shyriiwok",
+    "spoken": [
+      "Shyriiwok"
+    ],
+    "literate": [
+      "Shyriiwok"
+    ]
+  },
+  "21": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Sith",
+    "spoken": [
+      "Sith"
+    ],
+    "literate": [
+      "Sith"
+    ]
+  },
+  "22": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Sullustese",
+    "spoken": [
+      "Sullustese"
+    ],
+    "literate": [
+      "Sullustese"
+    ]
+  },
+  "23": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Yuuzhan Vong",
+    "spoken": [
+      "Yuuzhan Vong"
+    ],
+    "literate": [
+      "Yuuzhan Vong"
+    ]
+  },
+  "24": {
+    "sourcebook": "Revised Core Rulebook",
+    "name": "Zabrak",
+    "spoken": [
+      "Zabrak"
+    ],
+    "literate": [
+      "Zabrak"
+    ]
+  }
+}
