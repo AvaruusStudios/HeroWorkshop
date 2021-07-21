@@ -91,7 +91,7 @@ Justin Nichols ([@justinnichols](https://github.com/justinnichols))
 ### <a name='Acknowledgements'></a>Acknowledgements
 
 ## <a name='License'></a>License
-The project is licensed under the GNU General Public License v3.0. The full license can be found in our [HERE](LICENSE)
+The project is licensed under the GNU General Public License v3.0. The full license can be found in our [here](LICENSE).
 
 ## <a name='ProjectStatus'></a>Project Status
 The project is currently in the initial phases of design and development.
