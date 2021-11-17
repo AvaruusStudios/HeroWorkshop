@@ -258,26 +258,115 @@
     "size": "Medium",
     "speed": 10
   },
-  "01": {
+  "09": {
     "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
+    "file": "src/main/resources/db/core_rulebook/species/moncalamari.md",
+    "name": "Mon Calamari",
+    "description": "Soft-spoken but forceful, the Mon Calamari are great starship engineers. They see everything they create as a work of art, not just as a tool or weapon. They are a lawful, organized people who have little tolerance for those who operate outside the status quo. They come from a water-covered world and can breathe both air and water. \\n Recognized for their analytical and organizational skills, Mon Calamari also have keen love of flying among the stars. They believe in order and the greater good, sometim,es going so far as to support the good of society over the good of the individual.",
+    "personality": "Creative, quiet, and inquisitive, the Mon Calamari are dreamers who cherish peace but aren't afraid to wage war for the causes they believe in.",
+    "appearance": "The average Mon Calamari stands between 1.3 and 1.8 meters tall. They smell of salt and the sea, with high-domed heads, large eyes, and smooth, mottled skin.",
+    "homeworld": "The watery, technological planet of Mon Calamari.",
+    "language": "The Mon Calamari speak Mon Calamari and Basic. They tend to learn Quarrenese.",
+    "adventurers": "Mon Calamari seek their dreams among the stars. They are idealistic and daring, often attaching themselves to cause that seem hopeless or lost right from the start. An individual Mon Calamari has great spirit and an entusiasm that often remains hidden behind a quiet, orderly exterior. They strive to prove that even thinkers and dreamers can br brave and daring when the need arises.",
     "spoken_language": [
-      "Basic"
+      "Basic",
+      "Mon Calamari"
     ],
     "literate_language": [
-      "Basic"
+      "Basic",
+      "Mon Calamari"
     ],
     "abilities": [
       0,
       0,
+      -2,
+      2,
       0,
+      0
+    ],
+    "size": "Medium",
+    "speed": 10
+  },
+  "10": {
+    "sourcebook": "Revised Core Rulebook",
+    "file": "src/main/resources/db/core_rulebook/species/quarren.md",
+    "name": "Quarren",
+    "description": "The humaniod Quarren share the watery world of Mon Calamari with the Mon Calamari. While the Mon Calamari live on the surface, the Quarren dwell in air-filled underwater cities. Where the Mon Calamari are curious and optimistic, the Quarren tend to be staid and pessimistic. They consider the Mon Calamari idealism to be the result of foolish, even dangerous, dreaming that only leads to trouble. Many Quarren tend to be pragmatic, unwilling to trust or accept new ideas.",
+    "personality": "Practical and conservative, Quarren tend to hate change and distrust anyone who displays overt optimism and idealism.",
+    "appearance": "The average Quarren stand between 1.4 and 1.9 meter tall. They have head that resemble four-tentacled squids, hence the name \"squid head\" that has followed them to other worlds. They have leathery skin and suction-cupped fingers.",
+    "homeworld": "The watery, technological planet of Mon Calamari.",
+    "language": "Quarren speak Quarrenese and Basic. They tend to learn Mon Calamari.",
+    "adventurers": "Quarren leave their homeworld to escape their dependency on the Mon Calamari. They tend to seek out the fringes of society, operating as scoundrels or nobles in criminal organizations or with mercenary groups, pirates, outlaw bands, or smugglers.",
+    "spoken_language": [
+      "Basic",
+      "Quarrenese"
+    ],
+    "literate_language": [
+      "Basic",
+      "Quarrenese"
+    ],
+    "abilities": [
+      0,
+      0,
+      2,
+      0,
+      -2,
+      -2
+    ],
+    "size": "Medium",
+    "speed": 10
+  },
+  "11": {
+    "sourcebook": "Revised Core Rulebook",
+    "file": "src/main/resources/db/core_rulebook/species/rodian.md",
+    "name": "Rodian",
+    "description": "Rodians grow up in the culture based on hunting and tracking. They consider bounty hunting to be an art form. They romanticize death and the hunt, revering gladiatorial games and violence. They come from a tightly controlled society on an industrial world where the greatest aspiration is to become the best hunter in the galaxy.",
+    "personality": "Rodians tend to be violent, tenacious, and dedicated.",
+    "appearance": "Humaniod, with multifaceted eyes, tapered snout, and deep green skin, the average Rodian stands between 1.5 and 1.7 meters tall.",
+    "homeworld": "Rodians come from the industrial world of Rodia.",
+    "language": "Rodians speak Rodese and Basic, but many learn to speak Huttese as well.",
+    "adventurers": "Rodian adventurers leave their homeworld to improve their skills, hoping to one day return and claim the title of Hunt Master. To this end, they take on roles that allow them to flex their hunting skills, increase their battle prowess, and ultimately gain experience to someday earn the prestigious profession of \"bounty hunter\". Few Rodians have anything to do with the Force, so Rodian Force-users are extremely rare.",
+    "spoken_language": [
+      "Basic",
+      "Rodese"
+    ],
+    "literate_language": [
+      "Basic",
+      "Rodese"
+    ],
+    "abilities": [
+      0,
+      2,
+      0,
+      0,
+      -2,
+      -2
+    ],
+    "size": "Medium",
+    "speed": 10
+  },
+  "12": {
+    "sourcebook": "Revised Core Rulebook",
+    "file": "src/main/resources/db/core_rulebook/species/sullustan.md",
+    "name": "Sullustan",
+    "description": "Sullustans live in a series of complex city-caves beneath the surface of Sullust, a harsh, volcanic world coverd in thick clouds of noxious gas. Their planet host the headquarters for the mighty sorosuub Corporation, and visitors from all over the galaxy come to see its underground cities. Living undergound has allowed the Sullustans to develop acute senses, and they are renowned for their navigational and piloting skills.\\n Friendly and outgoing, Sullustans enjoy interacting with unusual and interesting beings of other species. They have a corporate mindset and a knack for business, as well as a love of space travel.",
+    "personality": "Sullustans tend to be pragmatic, pleasant and fond of practical jokes.",
+    "appearance": "Humaniod with large round eyes, big ears, and jowls, the average Sullustan stands between 1.3 and 1.8 meters tall.",
+    "homeworld": "The volcanic, technological world of Sullust.",
+    "language": "Sullustans speak Sullustese and Basic.",
+    "adventurers": "Sullustan adventurers enjoy exploring the galaxy, conducting business, andc pulling pranks to see how other react. They are inquisitive and love to discover things through personal experience. At times they can even be a bit reckless. Though some Sullustans hear the call of the Force, few attempt to follow its path.",
+    "spoken_language": [
+      "Basic",
+      "Sullustese"
+    ],
+    "literate_language": [
+      "Basic",
+      "Sullustese"
+    ],
+    "abilities": [
+      0,
+      2,
+      -2,
       0,
       0,
       0
@@ -285,106 +374,27 @@
     "size": "Medium",
     "speed": 10
   },
-  "01": {
+  "13": {
     "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
+    "file": "src/main/resources/db/core_rulebook/species/trandoshan.md",
+    "name": "Trandoshan",
+    "description": "The reptilian Trandoshans are known for their great strength and warlike natures. Many of these beings dedicate themselves to martial training, and some follow the path of the hunter on their native world. A few have even become renowned (or infamous) bounty hunters in the galactic society, taking what they learned on Trandosha and utilizing it beyond their home star system,. These reptilian humaniods make good scouts and soldiers, but all of the non-Force-using classes apear throughout their society. (Force-using Trandoshans are extremely rare.) A fued has developed between some Trandoshans and some Wookiees (their homeworlds are in close proximity), but there are as many or more examples of Trandoshans and Wookiees working together and cooperating as there are instances of problems between the two cultures.",
+    "personality": "Violent, brutal, and driven, Trandoshans love to compete, but can show compassion and mercy as the situation warrants.",
+    "appearance": "Trandoshans range from 1.5 to 2.1 meters tall. Their scaly hides offer additional defense against attackers.",
+    "homeworld": "Trandosha (also known as Dosha).",
+    "language": "Trandoshans speak Dosh and Basic.",
+    "adventurers": "A Trandoshan adventureer craves the thrill of battle. Some leave Dosha to become bodyguards or mercenaries. OTher set out to find new places to hunt and explore. A few use their warrior traditions to become soldiers, some even developing into bounty hunters as time does by. They may appear gruff and unpleasant at first, but if given the chance they become valuable members of any mission team.",
     "spoken_language": [
-      "Basic"
+      "Basic",
+      "Dosh"
     ],
     "literate_language": [
-      "Basic"
+      "Basic",
+      "Dosh"
     ],
     "abilities": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "size": "Medium",
-    "speed": 10
-  },
-  "01": {
-    "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
-    "spoken_language": [
-      "Basic"
-    ],
-    "literate_language": [
-      "Basic"
-    ],
-    "abilities": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "size": "Medium",
-    "speed": 10
-  },
-  "01": {
-    "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
-    "spoken_language": [
-      "Basic"
-    ],
-    "literate_language": [
-      "Basic"
-    ],
-    "abilities": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "size": "Medium",
-    "speed": 10
-  },
-  "01": {
-    "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
-    "spoken_language": [
-      "Basic"
-    ],
-    "literate_language": [
-      "Basic"
-    ],
-    "abilities": [
-      0,
-      0,
+      2,
+      -2,
       0,
       0,
       0,
