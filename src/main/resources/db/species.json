@@ -403,48 +403,81 @@
     "size": "Medium",
     "speed": 10
   },
-  "01": {
+  "14": {
     "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
+    "file": "src/main/resources/db/core_rulebook/species/twilek.md",
+    "name": "Twi'lek",
+    "description": "From the dry, rocky world of Ryloth, Twi'leks have made a place for themselves along the galactic rim. These exotic beings, known for beautiful head-tails (called lekku), can also be found on planets such as Tatooine and Malastare. Sly, calculating beings, Twi'leks prefer to avoid trouble and stick to the shadows until an opportunity to act without undue danger to themselves presents itself. They like to observe, plan, and prepare - rarely does an individual Twi'lek rush into anything. Some can be vain, but most keep an eye out for a way to profit from any situation.",
+    "personality": "Twi'leks tend to be cunning, charismatic, and profit-oriented.",
+    "appearance": "Humaniod, with long, tapered head-tails, the average Twi'lek stands between 1.6 and 2.1 meters tall. Skin tones include shades of blue, white, and green.",
+    "homeworld": "Twi'leks come from the planet Ryloth.",
+    "language": "Twi'leks speak Ryl and Basic. Some learn Huttese.",
+    "adventurers": "Twi'lek adventurers leave their storm-wept planet to explore the Outer Rim and seek fame and fortune. They prefer to work behind the scenes, letting others stand in the full light of day. Few Twi'leks can stand the regimented lifestyle of the soldier, but many wind up in business (whether legal or illegal), performing as enterainers, or even serving as diplomats. The Force is strong in this species, and some Twi'leks gravitate toward Jedi studies.",
     "spoken_language": [
-      "Basic"
+      "Basic",
+      "Ryl"
     ],
     "literate_language": [
-      "Basic"
+      "Basic",
+      "Ryl"
     ],
     "abilities": [
       0,
       0,
       0,
       0,
-      0,
-      0
+      -2,
+      2
     ],
     "size": "Medium",
     "speed": 10
   },
-  "01": {
+  "15": {
     "sourcebook": "Revised Core Rulebook",
-    "file": "src/main/resources/db/core_rulebook/species/human.md",
-    "name": "Human",
-    "description": "Humans dominate the Core Worlds and can be found in virtually every corner of the galaxy. They are the ancestors of early spacefaring pioneers, conquerors, traders, travelers and refugees. Humans have always been people on the move. As a result, they can be found on almost every inhabitable planet. As a species, Humans as physically, culturally, and politically diverse. Hardy or fine, light-skinned or dark, Humans remain one the most dominant species throughout all eras of play.",
-    "personality": "Human personality runs the gamut of possibilities, though member of this species tend to be highly adaptable, tenacious, and willing to keep striving no matter the odds. They are flexible and ambitious, diverse in their tastes, morals, customs, and habits.",
-    "appearance": "Humans average about 1.8 meters tall. Skin shades run from nearly black to very pale., hair from black to blond. Men are usually taller and heavier than the women. Humans achieve maturity about the age of 15 and rarely live beyond 100.",
-    "homeworld": "Various, including Coruscant, Corulag, Naboo, Tatooine, and Alderaan.",
-    "language": "Humans speak and read Basic. They typically learn other languages, including obscure ones.",
-    "adventurers": "Humans aren't afraid to try anything, and Human adventurers are the most audacious, daring, and ambitious species. A Human can earn glory by amassing power, wealth, and fame. More than another species, Humans champion cause rather than territories or groups.",
+    "file": "src/main/resources/db/core_rulebook/species/wookiee.md",
+    "name": "Wookiee",
+    "description": "Known for their battle skills, Wookiees are long-lived and very strong, with an aptitude for mechanical endeavors. They may appear to be primitive, but they are quite adept with high technology. While Wookiees have a reputation for hostility (such as pulling arms off driods), they also possess a great capacity for kindness. They make loyal friends. Wookiees have a great many customs and traditions that revolve around honor and loyalty, including the special bond of friendship called the honor family, and the sacred pledge of honor called the life debt. Though arboreal, a Wookiee never uses its climbing claws in combat. Doing this is considered dishonorable and a sign of madness.",
+    "personality": "Wookiees tend to be honorable, rash, loyal, and short-tempered.",
+    "appearance": "Large, arboreal humaniods covered in thick fur, Wookiees range in height from 2 to 2.3 meters.",
+    "homeworld": "Wookiees come from the jungle world of Kashyyyk.",
+    "language": "Wookiees speak Shyriiwook, which consists of grunts and growls. They can understand Basic, but they can't speak anything other than Shyriiwook due to vocal limitations.",
+    "adventurers": "Wookiee adventurers usually start out as wanders or explorers. They tend to bond with fellow adventurers, forming extended honor families. Some even pledge life debts to individuals who perform a great service (equivalent to saving a Wookiee's life). There are Force adepts among the giant trees of Kashyyyk, and a few Wookiees have even taken up the traditions of Jedi.",
     "spoken_language": [
-      "Basic"
+      "Basic",
+      "Shyriiwook"
     ],
     "literate_language": [
-      "Basic"
+      "Basic",
+      "Shyriiwook"
+    ],
+    "abilities": [
+      4,
+      -2,
+      0,
+      0,
+      -2,
+      -2
+    ],
+    "size": "Medium",
+    "speed": 10
+  },
+  "16": {
+    "sourcebook": "Revised Core Rulebook",
+    "file": "src/main/resources/db/core_rulebook/species/zabrak.md",
+    "name": "Zabrak",
+    "description": "The Zabrak took to the stars early in galactic history and have a vast number of colony worlds. (Many Zabrak identify themselves by the colony they hail from.) The Zabrak have an iron will and a survival instinct second to none. They are explorer and warriors without peer, with instincts forged by the harshness of the orginal Zabrak homeworld and the pioneer spirit that led to the settlement of the zabrak colonies.\\n Zabrak possess a great amount of confidence, and they believe that there is nothing they can't accomplish. While this innate attitude could lead to feelings of superiority, most Zabrak don't look down upon other species. They believe in themselves and are proud and strong, but they rarely project any negativity toward those of other species. Each Zabrak is extremely proud of his or her home colony.",
+    "personality": "Zabrak tend to be dedicated, intense, and focused. They are sometimes considered singleminded.",
+    "appearance": "Humaniod, Zabrak are disinguished by patterns of vestigial horn atop their heads. The average Zabrak stands between 1.6 and 2.1 meters tall.",
+    "homeworld": "Itidonia or one of the eight colonies in the Mid Rim region of space.",
+    "language": "Zabrak speak Zabrak and Basic.",
+    "adventurers": "Zabrak adventurers love to explore the galaxy. No challenge is too big to deter a Zabrak. Zabrak adventurers range from fringers from the distant colony worlds, to noble diplomats and merchants, to scout, soldiers, and even Jedi.",
+    "spoken_language": [
+      "Basic",
+      "Zabrak"
+    ],
+    "literate_language": [
+      "Basic",
+      "Zabrak"
     ],
     "abilities": [
       0,
